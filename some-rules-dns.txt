@@ -1,7 +1,7 @@
 ! Title:Some rule(dns)Dev
 ! 此过滤器收集各种规则，以及本人的规则
 ! Version: 1.5
-! Last Modified: 2021年8月27日11:17:48
+! Last Modified: None
 1.1.1.1 expeva.store.qq.com
 1.1.1.1 cloudlive-xp2p.kpl.qq.com
 1.1.1.1 oth.eve.mdt.qq.com
@@ -63,7 +63,7 @@
 @@||fund.10jqka.com.cn^
 @@||jumpluna.58.com^
 @@||amdc.m.taobao.com^
-@@||qm.qq.com^
+
 @@||youpinapi.zhuanzhuan.com^
 @@||www.youtube.com^
 @@||push2.eastmoney.com^
