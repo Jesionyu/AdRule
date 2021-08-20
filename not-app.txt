@@ -1,7 +1,7 @@
 ! Title: 去网页APP打开
 ! 规则数:80
-! Version: 2.2beta
-! Last Modified: 2021年7月2日17:51:36
+! Version: 2.4beta
+! Last Modified: None
 !哔哩哔哩
 m.bilibili.com###app > div.m-head > div.m-home:last-child > div.open-app-btn.home-float-openapp:last-child > div.m-home-float-openapp
 m.bilibili.com###app > div.m-head > div.suspension:first-child > div.suspension-box > div.m-navbar:first-child > div.right:last-child > div.open-app-btn.m-nav-openapp:last-child > img.nav-open-app-img
