@@ -17,10 +17,10 @@ jobs:
           git commit -m "Updated"
           #git remote add origin "https://github.com/Cats-Team/Ad-Rules.git"
           git remote add origin "https://${{ secrets.CODING_TokenUser }}:${{ secrets.CODING_Token }}@e.coding.net/hacamer/adgurd/adrules.git"
-          git fetch --unshallow origin
-          git push -u origin master
+          #git fetch --unshallow origin
+          #git push -u origin master
           #git push -f
-          #git push --set-upstream origin master
+          git push --set-upstream origin master
           
           
           
