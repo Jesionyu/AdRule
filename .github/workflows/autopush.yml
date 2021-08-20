@@ -12,7 +12,7 @@ jobs:
           git init
           git config --local user.name "hacamer"
           git config --local user.email "hcamer145@gmail.com"
-          #git branch -m main
+          git branch -m main
           git add --all
           git commit -m "Updated at $(date)"
           #git remote add origin "https://github.com/Cats-Team/Ad-Rules.git"
