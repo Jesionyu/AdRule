@@ -1,8 +1,8 @@
 ! Title: Some rule(admin)
 ! Expires: none
-!此过滤器收集各种规则from coolapk
-! Version: 2021-6-18 15:21:55
-! Last Modified: 2021年8月8日15:22:00
+!
+! Version: None
+! Last Modified: None
 ! Csdn
 blog.csdn.net##div.weixin-shadowbox.wap-shadowbox:nth-child(17)
 blog.csdn.net##span.feed-Sign-span:nth-child(19)
