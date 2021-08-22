@@ -203,7 +203,7 @@ bukaivip.com##div:nth-child(19)
 ! 杂七杂八
 adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(9) > div.fed-part-case > ins:last-child > div:nth-child(2)
 adcmove.com###\32 377029035902478992-10431 > div:first-child
-
+adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(11) > div.fed-part-case > ins:last-child
 
 
 
