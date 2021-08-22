@@ -80,6 +80,11 @@ m.imomoe.la###mobile-index > a:nth-child
 ||cdn.u1.huluxia.com/g4/M03/*$domain=m.imomoe.la
 ||app.vankiv.com^
 m.imomoe.la##a:nth-child
+m.imomoe.la##script:nth-child(8)
+m.imomoe.la##div.pageLine
+m.imomoe.la##script:nth-child(9)
+m.imomoe.la##div.t2:nth-child(10)
+m.imomoe.la###mobile-index > a:nth-child(5)
 
 !百度贴吧
 tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.fixed-nav-bar.nav-bar-wrapper:last-child > div.w-row.w-row-align-center.w-row-justify-between.nav-bar
