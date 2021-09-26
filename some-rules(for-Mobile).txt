@@ -220,6 +220,8 @@ bukaivip.com##div:nth-child(19) > div:first-child > div
 bukaivip.com##div.xmhfgtni.xmhfgtni_animation_2
 bukaivip.com##div:nth-child(19) > div:last-child > iframe:last-child
 bukaivip.com##div:nth-child(19)
+bukaivip.com##div:nth-child(20)
+bukaivip.com##div:nth-child(16)
 
 ! anime1.me
 anime1.me##.textwidget, .custom-html-widget
