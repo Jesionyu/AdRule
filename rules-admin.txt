@@ -204,6 +204,8 @@ bukaivip.com##div:nth-child(19) > div:first-child > div
 bukaivip.com##div.xmhfgtni.xmhfgtni_animation_2
 bukaivip.com##div:nth-child(19) > div:last-child > iframe:last-child
 bukaivip.com##div:nth-child(19)
+bukaivip.com##div:nth-child(20)
+bukaivip.com##div:nth-child(16)
 
 ! 杂七杂八
 adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(9) > div.fed-part-case > ins:last-child > div:nth-child(2)
