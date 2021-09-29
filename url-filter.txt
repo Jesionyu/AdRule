@@ -1,3 +1,9 @@
+! Title: Hacamer's URL Filter
+! Expires: 2021/09/29
+! Version: 1.1
+! Last Modified: 202109292346
+!
+
 ! 通用
 $removeparam=fr
 
