@@ -1,1 +1,19 @@
+! 百度搜索
+||www.baidu.com^$removeparam=rsv_t
+||www.baidu.com^$removeparam=tj
+||www.baidu.com^$removeparam=rsv_pq
+||www.baidu.com^$removeparam=rsv_*
+||www.baidu.com^$removeparam=sugid
+||www.baidu.com^$removeparam=ts
+||www.baidu.com^$removeparam=t_kt
+||www.baidu.com^$removeparam=rsv_iqid
+||www.baidu.com^$removeparam=rqlang
+||www.baidu.com^$removeparam=ie
+||www.baidu.com^$removeparam=oq
+||www.baidu.com^$removeparam=ss
+||www.baidu.com^$removeparam=sa
+
+! 百度百科
+||baike.baidu.com^$removeparam=ivk_sa
+||baike.baidu.com^$removeparam=fr
 
