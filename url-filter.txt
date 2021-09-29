@@ -1,3 +1,6 @@
+! 通用
+$removeparam=fr
+
 ! 百度搜索
 ||www.baidu.com^$removeparam=rsv_t
 ||www.baidu.com^$removeparam=tj
