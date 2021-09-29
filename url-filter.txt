@@ -2,7 +2,7 @@
 ! Expires: 2021/09/29
 ! Version: 1.1
 ! Last Modified: 202109292346
-!
+! Homepage:https://github.com/Cats-Team/adrule
 
 ! 通用
 $removeparam=fr
