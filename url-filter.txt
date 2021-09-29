@@ -13,6 +13,22 @@
 ||www.baidu.com^$removeparam=ss
 ||www.baidu.com^$removeparam=sa
 
+! 百度搜索m页面
+||m*.baidu.com^$removeparam=rsv_t
+||m*.baidu.com^$removeparam=tj
+||m*.baidu.com^$removeparam=rsv_pq
+||m*.baidu.com^$removeparam=rsv_*
+||m*.baidu.com^$removeparam=sugid
+||m*.baidu.com^$removeparam=ts
+||m*.baidu.com^$removeparam=t_kt
+||m*.baidu.com^$removeparam=rsv_iqid
+||m*.baidu.com^$removeparam=rqlang
+||m*.baidu.com^$removeparam=ie
+||m*.baidu.com^$removeparam=oq
+||m*.baidu.com^$removeparam=ss
+||m*.baidu.com^$removeparam=sa
+
+
 ! 百度百科
 ||baike.baidu.com^$removeparam=ivk_sa
 ||baike.baidu.com^$removeparam=fr
@@ -33,3 +49,9 @@
 ||www.google.com.*^$removeparam=oq
 ||www.google.com.*^$removeparam=ei
 
+! 京东
+||jd.com^$removeparam=pps
+||jd.com^$removeparam=country
+
+! 淘宝
+||taobao.com^$removeparam=spm
