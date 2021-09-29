@@ -52,6 +52,13 @@
 ! 京东
 ||jd.com^$removeparam=pps
 ||jd.com^$removeparam=country
+||jd.com^$removeparam=forbidtov3
+||jd.com^$removeparam=_jxgy
+||jd.com^$removeparam=ispg
+||jd.com^$removeparam=ptag
+||jd.com^$removeparam=jxsid
+||jd.com^$removeparam=_fd
+||jd.com^$removeparam=scene
 
 ! 淘宝
 ||taobao.com^$removeparam=spm
