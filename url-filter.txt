@@ -17,3 +17,11 @@
 ||baike.baidu.com^$removeparam=ivk_sa
 ||baike.baidu.com^$removeparam=fr
 
+! 谷歌搜索
+||www.google.com^$removeparam=aqs
+||www.google.com^$removeparam=sourceid
+||www.google.com^$removeparam=sclient
+||www.google.com^$removeparam=gs_lcp
+||www.google.com^$removeparam=oq
+||www.google.com^$removeparam=ei
+
