@@ -25,3 +25,11 @@
 ||www.google.com^$removeparam=oq
 ||www.google.com^$removeparam=ei
 
+! 谷歌搜索(Other language)
+||www.google.com.*^$removeparam=aqs
+||www.google.com.*^$removeparam=sourceid
+||www.google.com.*^$removeparam=sclient
+||www.google.com.*^$removeparam=gs_lcp
+||www.google.com.*^$removeparam=oq
+||www.google.com.*^$removeparam=ei
+
