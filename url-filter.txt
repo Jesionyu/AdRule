@@ -1,7 +1,7 @@
 ! Title: Hacamer's URL Filter
-! Expires: 2021/09/29
-! Version: 1.1
-! Last Modified: 202109292346
+! Expires: 1 Day
+! Version: 1.1.2
+! Last Modified: 202109301846
 ! Homepage:https://github.com/Cats-Team/adrule
 
 ! 通用
