@@ -58,6 +58,12 @@ $removeparam=fr
 ||www.google.com.*^$removeparam=oq
 ||www.google.com.*^$removeparam=ei
 
+
+! Bing搜索
+||bing.com^$removeparam=PTAG
+||bing.com^$removeparam=PC
+||bing.com^$removeparam=FORM
+
 ! 京东
 ||jd.com^$removeparam=pps
 ||jd.com^$removeparam=country
