@@ -68,6 +68,14 @@ $removeparam=share_source
 ||www.google.com.*^$removeparam=oq
 ||www.google.com.*^$removeparam=ei
 
+! 谷歌镜像（go-xyz.xyz）
+||go-xyz.xyz^$removeparam=aqs
+||go-xyz.xyz^$removeparam=sourceid
+||go-xyz.xyz^$removeparam=sclient
+||go-xyz.xyz^$removeparam=gs_lcp
+||go-xyz.xyz^$removeparam=oq
+||go-xyz.xyz^$removeparam=ei
+
 
 ! Bing搜索
 ||bing.com^$removeparam=PTAG
