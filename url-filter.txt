@@ -22,6 +22,7 @@ $removeparam=fr
 ||www.baidu.com^$removeparam=ss
 ||www.baidu.com^$removeparam=sa
 ||www.baidu.com^$removeparam=from
+||baidu.com^$removeparam=rsv_sug*
 
 ! 百度搜索m页面
 ||m*.baidu.com^$removeparam=rsv_t
