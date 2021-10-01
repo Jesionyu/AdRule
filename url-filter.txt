@@ -63,6 +63,8 @@ $removeparam=fr
 ||bing.com^$removeparam=PTAG
 ||bing.com^$removeparam=PC
 ||bing.com^$removeparam=FORM
+||bing.com^$removeparam=search
+||bing.com^$removeparam=form
 
 ! 京东
 ||jd.com^$removeparam=pps
