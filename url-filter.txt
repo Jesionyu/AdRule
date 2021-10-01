@@ -1,7 +1,7 @@
 ! Title: Hacamer's URL Filter
 ! Expires: 1 Day
-! Version: 1.1.4
-! Last Modified: 202110011449
+! Version: 1.1.5
+! Last Modified: 202110011457
 ! Homepage: https://github.com/Cats-Team/adrule
 
 ! 通用
@@ -68,6 +68,11 @@ $removeparam=fr
 ||bing.com^$removeparam=go
 ||bing.com^$removeparam=qs
 ||bing.com^$removeparam=pc
+||bing.com^$removeparam=sp
+||bing.com^$removeparam=pq
+||bing.com^$removeparam=sc
+||bing.com^$removeparam=sk
+||bing.com^$removeparam=cvid
 
 ! 京东
 ||jd.com^$removeparam=pps
