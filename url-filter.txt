@@ -8,6 +8,7 @@
 $removeparam=fr
 $removeparam=from
 $removeparam=vit
+$removeparam=share_source
 
 ! 百度
 ||baidu.com^$removeparam=rsv_sug*
