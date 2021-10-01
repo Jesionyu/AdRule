@@ -1,11 +1,13 @@
 ! Title: Hacamer's URL Filter
 ! Expires: 1 Day
-! Version: 1.1.5
+! Version: 1.1.6
 ! Last Modified: 202110011507
 ! Homepage: https://github.com/Cats-Team/adrule
 
 ! 通用
 $removeparam=fr
+$removeparam=from
+$removeparam=vit
 
 ! 百度
 ||baidu.com^$removeparam=rsv_sug*
