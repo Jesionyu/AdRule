@@ -21,6 +21,7 @@ $removeparam=fr
 ||www.baidu.com^$removeparam=oq
 ||www.baidu.com^$removeparam=ss
 ||www.baidu.com^$removeparam=sa
+||www.baidu.com^$removeparam=from
 
 ! 百度搜索m页面
 ||m*.baidu.com^$removeparam=rsv_t
@@ -36,6 +37,7 @@ $removeparam=fr
 ||m*.baidu.com^$removeparam=oq
 ||m*.baidu.com^$removeparam=ss
 ||m*.baidu.com^$removeparam=sa
+||m*.baidu.com^$removeparam=from
 
 
 ! 百度百科
