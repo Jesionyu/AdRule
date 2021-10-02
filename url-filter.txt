@@ -105,3 +105,12 @@ $removeparam=share_source
 
 ! 淘宝
 ||taobao.com^$removeparam=spm
+
+! 抖音
+||douyin.com^$removeparam=count
+||douyin.com^$removeparam=modeFrom
+||douyin.com^$removeparam=enter_from
+||douyin.com^$removeparam=enter_method
+||douyin.com^$removeparam=publish_time
+||douyin.com^$removeparam=sort_type
+||douyin.com^$removeparam=source
