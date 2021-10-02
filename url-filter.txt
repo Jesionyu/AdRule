@@ -18,7 +18,6 @@ $removeparam=share_source
 ||www.baidu.com^$removeparam=rsv_t
 ||www.baidu.com^$removeparam=tj
 ||www.baidu.com^$removeparam=rsv_pq
-||www.baidu.com^$removeparam=rsv_*
 ||www.baidu.com^$removeparam=sugid
 ||www.baidu.com^$removeparam=ts
 ||www.baidu.com^$removeparam=t_kt
@@ -29,6 +28,16 @@ $removeparam=share_source
 ||www.baidu.com^$removeparam=ss
 ||www.baidu.com^$removeparam=sa
 ||www.baidu.com^$removeparam=from
+||www.baidu.com^$removeparam=ch
+||www.baidu.com^$removeparam=tn
+||www.baidu.com^$removeparam=f
+||www.baidu.com^$removeparam=rsv_idx
+||www.baidu.com^$removeparam=bar
+||www.baidu.com^$removeparam=rsv_spt
+||www.baidu.com^$removeparam=rsv_bp
+||www.baidu.com^$removeparam=rsv_enter
+||www.baidu.com^$removeparam=rsv_btype
+||www.baidu.com^$removeparam=rsv_dl
 
 
 ! 百度搜索m页面
@@ -46,6 +55,16 @@ $removeparam=share_source
 ||m*.baidu.com^$removeparam=ss
 ||m*.baidu.com^$removeparam=sa
 ||m*.baidu.com^$removeparam=from
+||m*.baidu.com^$removeparam=ch
+||m*.baidu.com^$removeparam=tn
+||m*.baidu.com^$removeparam=f
+||m*.baidu.com^$removeparam=rsv_idx
+||m*.baidu.com^$removeparam=bar
+||m*.baidu.com^$removeparam=rsv_spt
+||m*.baidu.com^$removeparam=rsv_bp
+||m*.baidu.com^$removeparam=rsv_enter
+||m*.baidu.com^$removeparam=rsv_btype
+||m*.baidu.com^$removeparam=rsv_dl
 
 
 ! 百度百科
