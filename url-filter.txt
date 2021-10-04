@@ -1,7 +1,7 @@
 ! Title: Hacamer's URL Filter
 ! Expires: 1 Day
-! Version: 1.2.2
-! Last Modified: 202110021058
+! Version: 1.2.4
+! Last Modified: 202110041058
 ! Homepage: https://github.com/Cats-Team/adrule
 
 ! 通用
@@ -20,6 +20,8 @@ $removeparam=spm_id_from
 ||baidu.com^$removeparam=pu
 ||baidu.com^$removeparam=baiduid
 ||baidu.com^$removeparam=fenlei
+||baidu.com^$removeparam=ori_sid
+||baidu.com^$removeparam=pos
 
 ! 百度搜索
 ||www.baidu.com^$removeparam=rsv_t
@@ -77,6 +79,11 @@ $removeparam=spm_id_from
 ! 百度百科
 ||baike.baidu.com^$removeparam=ivk_sa
 ||baike.baidu.com^$removeparam=fr
+
+! 百度贴吧
+||tieba.baidu.com^$removeparam=refer
+||tieba.baidu.com^$removeparam=source
+||tieba.baidu.com^$removeparam=prev
 
 ! 谷歌搜索
 ||www.google.com^$removeparam=aqs
