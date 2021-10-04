@@ -16,26 +16,20 @@ blog.csdn.net###main > div.btn_open_app_prompt_div:nth-child(4)
 blog.csdn.net###wap_open_app_btn
 blog.csdn.net##div.app-shadowbox.wap-shadowbox:nth-child(15) > div.app-box > div.tip-massege:first-child
 blog.csdn.net##div.app-shadowbox.wap-shadowbox:nth-child(15) > div.app-box > div.tip-text:nth-child(2)
+
 ! 腾讯视频网页端
-m.v.qq.com###container-channel > div.at-app-banner:last-child > div.at-app-banner__content:first-child
-m.v.qq.com###container-channel > div.at-app-banner:last-child > div.at-app-banner__layer:last-child
-m.v.qq.com###container-channel > header.site_header:first-child > div.site-top:first-child > a.site-top__open-app:last-child
-m.v.qq.com###container-play > div.at-app-banner:last-child > div.at-app-banner__main-btn.at-app-banner--button
-m.v.qq.com###app > div.mod_play:nth-child(3) > header.site_header:first-child > a.btn_user_hd.js_open_app:nth-child(2)
-m.v.qq.com###container-play > section.mod_source:first-child > div.mod_source_box.swiper-container-horizontal.swiper-container-android
-m.v.qq.com###container-play > section.mod_box.mod_sideslip_h.mod_multi_figures_h:nth-child(7)
-m.v.qq.com###container-play > section.mod_box.mod_game_rec:nth-child(9)
-m.v.qq.com###container-play > section.mod_box.mod_sideslip_privileges.U_box_bg_a:nth-child(8) > section.mod_privilege
-m.v.qq.com###container-play > section.mod_box.mod_comment:nth-child(6) > div.mod_bd:last-child > div.mod_app_banner:last-child > div.tvp_app_banner > div.tvp_app_btn > div.tvp_btn_text
-m.v.qq.com###txplayer_61eb133f4f65d734f0c4c82bb4b33f68 > a.txp_btn_full.txp_btn_full_top:last-child
-m.v.qq.com##div.at-app-banner
-m.v.qq.com##a.site-top__open-app
-m.v.qq.com##div.at-app-banner
-m.v.qq.com##a.site-top__open-app
-m.v.qq.com##a.txp_btn_full.txp_btn_full_top
-m.v.qq.com##a.btn_user_hd.js_open_app
-m.v.qq.com##a.btn_user_hd.js_open_app
-m.v.qq.com###container-play > section.mod_source:first-child
+m.v.qq.com##.at-app-banner
+m.v.qq.com##.btn_sharpness path
+m.v.qq.com##.swiper-wrapper.source_container
+m.v.qq.com##.mod_app_banner
+m.v.qq.com##.mod_privilege
+m.v.qq.com##.mod_game_rec.mod_box
+m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
+m.v.qq.com##.figure_app
+m.v.qq.com##.js_open_app.btn_user_hd
+m.v.qq.com##.site-top__open-app
+m.v.qq.com##.player-mask__small-tips
+||mcgi.v.qq.com^
 
 ! 爱奇艺网页端
 m.iqiyi.com###app > div:nth-child(2) > div:nth-child(3) > div.m-box:first-child > div:nth-child(2) > div.m-box-items.m-box-items-full:first-child > div.m-iqylink-guide > a.c-guide-img
