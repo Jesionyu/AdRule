@@ -1,8 +1,14 @@
 ! Title: Some rule(admin)
 ! Expires: none
 !
-! Version: None
-! Last Modified: None
+! Version: 3.41
+! Last Modified: 1 day
+! Don't Copy
+#%#document.execCommand = {}
+#%#navigator.clipboard.writeText = {}
+#%#navigator.clipboard.write = {}
+#%#document.write = {}
+
 ! Csdn
 blog.csdn.net##div.weixin-shadowbox.wap-shadowbox:nth-child(17)
 blog.csdn.net##span.feed-Sign-span:nth-child(19)
@@ -48,28 +54,21 @@ m.iqiyi.com###app > div:first-child > div.m-header-only > header.m-header.header
 m.iqiyi.com###app > div:first-child > section.mSiteHeader.m-header-customized.m-header-channelHome > div.mSiteHeader-wrap > div.site_header:first-child > div:last-child > div
 
 !哔哩哔哩
-m.bilibili.com###app > div.m-head > div.m-home:last-child > div.open-app-btn.home-float-openapp:last-child > div.m-home-float-openapp
-m.bilibili.com###app > div.m-head > div.suspension:first-child > div.suspension-box > div.m-navbar:first-child > div.right:last-child > div.open-app-btn.m-nav-openapp:last-child > img.nav-open-app-img
-m.bilibili.com###app > div.video > div.m-video-new > div.open-app-btn.m-video-main-openapp.visible-open-app-btn:nth-child(3) > div.m-video2-openapp-img > img
-m.bilibili.com###app > div.video > div.m-video-new > div.open-app-btn.m-float-openapp:nth-child(8) > div.m-video2-float-openapp
+m.bilibili.com##.home-float-openapp.launch-app-btn
+m.bilibili.com##.m-nav-openapp.launch-app-btn
+m.bilibili.com##.m-home-no-more
+m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-main-img
+m.bilibili.com##.weakened.open-app
+m.bilibili.com##.m-video2-float-openapp
 m.bilibili.com###relateRecomMore
-m.bilibili.com###app > div.video > div.m-video-new > div.m-navbar:first-child > div.right:last-child > div.open-app-btn.m-nav-openapp:last-child > img.nav-open-app-img
-m.bilibili.com###app > div.video > div.m-video-new > div.v-switcher.m-video-bottom-tab.v-switcher--fluid:nth-child(7) > div.v-switcher__content.v-switcher__content--swipe.v-switcher__content--multi:last-child > div.v-switcher__content__wrap > div.v-switcher__content__item.is-active.is-current:first-child > div.m-video-related > div.list-view > div.video-list-box:first-child > div.video-list > div.card-box > div.open-app-btn.v-card-toapp:nth-child(39) > a > div.card:first-child > span.open-app:last-child
-m.bilibili.com###app > div.m-space > div.m-navbar:first-child > div.right:last-child > div.open-app-btn.m-nav-openapp:last-child > img.nav-open-app-img
-m.bilibili.com###app > div.m-space > div.open-app-btn.m-space-float-openapp:nth-child(6) > div
-m.bilibili.com###app > div.m-space > div.open-app-btn.m-space-float-openapp:nth-child(6)
-m.bilibili.com###app > div.video > div.m-video-new > div.v-switcher.m-video-bottom-tab.v-switcher--fluid:nth-child(7) > div.v-switcher__content.v-switcher__content--swipe.v-switcher__content--multi:last-child > div.v-switcher__content__wrap > div.v-switcher__content__item.is-active.is-current:first-child > div.m-video-related > div.list-view > div.video-list-box:first-child > div.video-list > div.card-box > div.open-app-btn.v-card-toapp:first-child > a > div.card:first-child > span.open-app:last-child
-m.bilibili.com###app > div.m-head > div.m-video-new:first-child > div.open-app-btn.m-float-openapp:nth-child(5) > div.m-video2-float-openapp
-m.bilibili.com##.open-app
-m.bilibili.com##.m-home-float-openapp
-!//s1.hdslb.com/bfs/static/jinkela/mstation-h5/assets/btn-open-app.png$domain=m.bilibili.com
-m.bilibili.com###app > div.video > div.m-video-new > div.open-app-btn.m-video-main-openapp.visible-open-app-btn:nth-child(3) > div.m-video2-openapp-img > img
-m.bilibili.com##.nav-open-app-img
-m.bilibili.com###commentMore > div.open-app-btn.m-comment-openapp > button
-m.bilibili.com###bilibiliPlayer > div.player-mobile > div.player-mobile-area > div.player-mobile-box.player-mobile-box-callAppMode:last-child > div.player-mobile-display.player-mobile-control-bar-hide:last-child > div.player-mobile-control-bar:nth-child(2) > div.player-mobile-control-bar-right:last-child > div.player-mobile-control-btn.player-mobile-control-btn-callapp.player-mobile-control-btn-speed:nth-child(2)
-m.bilibili.com###bilibiliPlayer > div.player-mobile > div.player-mobile-area > div.player-mobile-box.player-mobile-box-callAppMode:last-child > div.player-mobile-display:last-child > div.player-mobile-ending-panel:last-child > div.player-mobile-ending-panel-container:last-child > div.player-mobile-ending-panel-recommend:first-child > div.player-mobile-ending-panel-video-wrap:last-child > div.player-mobile-ending-panel-video > div.player-mobile-ending-panel-content:last-child > div.player-mobile-ending-panel-button:last-child
+m.bilibili.com##.m-comment-openapp.launch-app-btn
+m.bilibili.com##.mplayer-control-btn-speed.mplayer-control-btn-callapp.mplayer-control-btn
+m.bilibili.com##.cover > .open-app
+m.bilibili.com##.mplayer-ending-panel-button
+m.bilibili.com##.launch-app-btnm-nav-openapp
+||dl.hdslb.com/mobile/latest/*$document,domain=dl.hdslb.com
 
-#樱花动漫
+!樱花动漫
 ||ps.ssl.qhmsg.com^$important
 m.imomoe.la###mobile-index > a:nth-child(5)
 ||app.51gogogou.com^$important,third-party
@@ -87,32 +86,12 @@ m.imomoe.la##div.t2:nth-child(10)
 m.imomoe.la###mobile-index > a:nth-child(5)
 
 !百度贴吧
-tieba.baidu.com##div.tb-mobile-viewport:nth-child(3) > div.tb-page > div.fixed-nav-bar.nav-bar-wrapper:last-child > div.w-row.w-row-align-center.w-row-justify-between.nav-bar
-tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-banner-wrapper.tb-banner.tb-threadlist__item:nth-child(2) > div.tb-mt--8 > div.tb-panel > div.tb-panel__body
-tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-banner-wrapper.tb-banner.tb-threadlist__item:nth-child(7) > div.tb-mt--8 > div.tb-panel > div.tb-panel__body
-tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-banner-wrapper.tb-banner.tb-threadlist__item:nth-child(12) > div.tb-mt--8 > div.tb-panel
-tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-banner-wrapper.tb-banner.tb-threadlist__item:nth-child(17) > div.tb-mt--8 > div.tb-panel
-tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-banner-wrapper.tb-banner.tb-threadlist__item:nth-child(24) > div.tb-mt--8
-tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-banner-wrapper.tb-banner.tb-threadlist__item:nth-child(29)
-tieba.baidu.com###dddfff > div.pull-con:last-child > div:last-child > div.tb-threadlist.tb-mt--12:first-child > div.tb-threadlist__wrapper > div.tb-banner-wrapper.tb-banner.tb-threadlist__item:nth-child(36)
-||downapp.baidu.com^
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.tb-backflow:last-child > div.tb-backflow__content:last-child > div.tb-share:last-child > ul.tb-share__list > li.tb-share__item:first-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.main-thread-content-margin.main-thread-content:nth-child(3) > div.media-content.media-content-margin:nth-child(4) > div.img-sudoku.main-img-sudoku > p.img-open-app:last-child > span.open-app-text:first-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.main-thread-content-margin.main-thread-content:nth-child(3) > div.media-content.media-content-margin:nth-child(4) > div.img-sudoku.main-img-sudoku > p.img-open-app:last-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.post-cut-guide:nth-child(10) > div.guide-btn
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.fixed-nav-bar.nav-bar-wrapper:last-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.nav-bar-wrapper:first-child
-tieba.baidu.com##div.main-page-wrap:nth-child(2) > div.app-view.transition-fade > div.nav-bar-wrapper:first-child
-tieba.baidu.com##div.main-page-wrap:nth-child(2) > div.app-view.transition-fade > div.fixed-nav-bar.nav-bar-wrapper:last-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.main-thread-content-margin.main-thread-content:nth-child(3) > div.media-content.media-content-margin:nth-child(4) > div.img-sudoku.main-img-sudoku > p.img-open-app.two-img-open-app:nth-child(2)
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.main-thread-content:nth-child(3) > div.media-content:first-child > div.tb-video > p.open-app:last-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.post-item:nth-child(7) > div.content:last-child > div.lzl-post:nth-child(2) > p.open-app-guide:last-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.post-item:nth-child(9) > div.content:last-child > div.lzl-post:nth-child(2) > p.open-app-guide:last-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.main-thread-content:nth-child(3) > div.media-content:first-child > div.tb-video > div.popup-dialog:last-child > div.dialog-content > img.logo-tieba:first-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.main-thread-content:nth-child(3) > div.media-content:first-child > div.tb-video > div.popup-dialog:last-child > div.dialog-content > div.btn-box:last-child > a.tbfe-1px-border.btn.confirm-btn:last-child
-tieba.baidu.com##div.main-page-wrap:nth-child(3) > div.pb-page-wrapper.app-view.transition-fade > div.ertiao-wrap:nth-child(11)
-
-!
+tieba.baidu.com##.img-open-app
+tieba.baidu.com##li.tb-share__item:nth-of-type(1)
+tieba.baidu.com##.navbar-left
+tieba.baidu.com##.nav-bar.w-row-justify-between.w-row-align-center.w-row
+tieba.baidu.com##.guide-btn
+||downapp.baidu.com/baidutieba/*$document,domain=downapp.baidu.com
 
 ! 杂七杂八
 adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(9) > div.fed-part-case > ins:last-child > div:nth-child(2)
@@ -120,7 +99,6 @@ adcmove.com###\32 377029035902478992-10431 > div:first-child
 adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(11) > div.fed-part-case > ins:last-child
 
 ! bkvip
-bukaivip.com###pyfm
 ||ximg.meihu56.cn^$important
 ||*.fghpro.xyz^
 bukaivip.com##style:nth-child(18)
