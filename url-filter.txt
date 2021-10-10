@@ -3,6 +3,7 @@
 ! Version: 1.2.4
 ! Last Modified: 202110041058
 ! Homepage: https://github.com/Cats-Team/adrule
+! Description: 杏梢的URL过滤器，清除常见的跟踪参数 
 
 ! 通用
 $removeparam=fr
