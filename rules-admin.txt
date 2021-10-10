@@ -1,6 +1,6 @@
 ! Title: Some rule(admin)
 ! Expires: none
-!
+! Description: 一些规则
 ! Version: 3.43
 ! Last Modified: 1 day
 ! Don't Copy
