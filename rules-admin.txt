@@ -145,7 +145,7 @@ $removeparam=utm_source
 ||zhihu.com/commercial_api/banners_
 
 
-||sdk.*^
+
 !APP：中国移动 ver：6.7.6
 ||app.10086.cn/*.gif
 !（过滤应用内gif动画）
