@@ -1,7 +1,7 @@
 ! Title: Hacamer's URL Filter
 ! Expires: 1 Day
-! Version: 1.2.4
-! Last Modified: 202110041058
+! Version: 1.2.5
+! Last Modified: 202110160758
 ! Homepage: https://github.com/Cats-Team/adrule
 ! Description: 杏梢的URL过滤器，清除常见的跟踪参数 
 
@@ -93,6 +93,7 @@ $removeparam=spm_id_from
 ||www.google.com^$removeparam=gs_lcp
 ||www.google.com^$removeparam=oq
 ||www.google.com^$removeparam=ei
+||www.google.com^$removeparam=sxsrf
 
 ! 谷歌搜索(Other language)
 ||www.google.com.*^$removeparam=aqs
@@ -101,6 +102,7 @@ $removeparam=spm_id_from
 ||www.google.com.*^$removeparam=gs_lcp
 ||www.google.com.*^$removeparam=oq
 ||www.google.com.*^$removeparam=ei
+||www.google.com.*^$removeparam=sxsrf
 
 ! 谷歌镜像（go-xyz.xyz）
 ||go-xyz.xyz^$removeparam=aqs
