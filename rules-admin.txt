@@ -1,6 +1,6 @@
 ! Title: Some rule(admin)
 ! Expires: none
-! Description: 一些规则
+! Description: 移除一些烦人的元素
 ! Version: 3.43
 ! Last Modified: 1 day
 ! Don't Copy
