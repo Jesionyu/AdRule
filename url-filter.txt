@@ -160,6 +160,8 @@ $removeparam=utm_campaign
 ||douyin.com$removeparam=secUid
 ||douyin.com$removeparam=cursor
 ||douyin.com$removeparam=modeFrom
+||douyin.com$removeparam=tab_name
+||douyin.com$removeparam=aid
 
 ! 爱奇艺
 ||iqiyi.com$removeparam=vfrmrst
