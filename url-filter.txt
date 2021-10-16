@@ -165,6 +165,9 @@ $removeparam=utm_campaign
 ||douyin.com$removeparam=earch_cursor
 ||douyin.com$removeparam=xtra_params
 ||douyin.com$removeparam=extra_params
+! 抖音视频段
+||douyin.com/video^$removeparam=search_keyword
+||douyin.com/video^$removeparam=search_cursor
 
 ! 爱奇艺
 ||iqiyi.com$removeparam=vfrmrst
