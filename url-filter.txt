@@ -94,6 +94,7 @@ $removeparam=spm_id_from
 ||www.google.com^$removeparam=oq
 ||www.google.com^$removeparam=ei
 ||www.google.com^$removeparam=sxsrf
+||www.google.com^$removeparam=ved
 
 ! 谷歌搜索(Other language)
 ||www.google.com.*^$removeparam=aqs
@@ -103,6 +104,7 @@ $removeparam=spm_id_from
 ||www.google.com.*^$removeparam=oq
 ||www.google.com.*^$removeparam=ei
 ||www.google.com.*^$removeparam=sxsrf
+||www.google.com.*^$removeparam=ved
 
 ! 谷歌镜像（go-xyz.xyz）
 ||go-xyz.xyz^$removeparam=aqs
@@ -111,7 +113,8 @@ $removeparam=spm_id_from
 ||go-xyz.xyz^$removeparam=gs_lcp
 ||go-xyz.xyz^$removeparam=oq
 ||go-xyz.xyz^$removeparam=ei
-
+||go-xyz.xyz^$removeparam=sxsrf
+||go-xyz.xyz^$removeparam=ved
 
 ! Bing搜索
 ||bing.com^$removeparam=PTAG
