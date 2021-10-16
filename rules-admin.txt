@@ -17,6 +17,10 @@ ctfile.com##div.card.bg-light.mb-3
 ctfile.com###main-content > div.container > div.content:first-child > div.card-deck:nth-child(5) > div.card.mb-3.overflow-hidden:last-child > div:last-child
 ctfile.com##div.h-100.card
 
+! MyFreeMP3的提示
+tool.liumingye.cn##div.text
+tool.liumingye.cn##div#pop-container
+
 ! Csdn
 blog.csdn.net##div.weixin-shadowbox.wap-shadowbox:nth-child(17)
 blog.csdn.net##span.feed-Sign-span:nth-child(19)
