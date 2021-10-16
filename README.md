@@ -4,7 +4,7 @@
 ## 😎描述
 去广告规则<br/>
 适用AdGuard,AdGuardHome等等<br/>
-由Hacamer摆写产生<br/>
+由杏梢（Hacamer）摆写而成<br/>
 ## 🔖 过滤工具推荐
 
 过滤工具：
