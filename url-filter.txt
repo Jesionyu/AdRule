@@ -1,7 +1,7 @@
 ! Title: Hacamer's URL Filter
 ! Expires: 1 Day
-! Version: 1.2.6
-! Last Modified: 202110160759
+! Version: 1.2.7
+! Last Modified: 202110161559
 ! Homepage: https://github.com/Cats-Team/AdRule
 ! Description: 杏梢的URL过滤器，清除常见的跟踪参数 
 
@@ -12,6 +12,9 @@ $removeparam=vit
 $removeparam=share_source
 $removeparam=from_source
 $removeparam=spm_id_from
+$removeparam=utm_source
+$removeparam=utm_medium
+$removeparam=utm_campaign
 
 ! 百度
 ||baidu.com^$removeparam=rsv_sug*
@@ -147,9 +150,13 @@ $removeparam=spm_id_from
 
 ! 抖音
 ||douyin.com^$removeparam=count
-||douyin.com^$removeparam=modeFrom
 ||douyin.com^$removeparam=enter_from
 ||douyin.com^$removeparam=enter_method
 ||douyin.com^$removeparam=publish_time
 ||douyin.com^$removeparam=sort_type
 ||douyin.com^$removeparam=source
+||douyin.com$removeparam=previous_page
+||douyin.com$removeparam=pre_vid
+||douyin.com$removeparam=secUid
+||douyin.com$removeparam=cursor
+||douyin.com$removeparam=modeFrom
