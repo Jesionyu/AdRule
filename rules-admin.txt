@@ -9,6 +9,9 @@
 #%#navigator.clipboard.write = {}
 #%#document.write = {}
 
+! Copy误杀
+@@||hacamer.*^$important,document
+
 ! 城通网盘净化
 ctfile.com##div.card-body.p-3
 ctfile.com##a.btn.btn-sm.btn-light.fs--1
