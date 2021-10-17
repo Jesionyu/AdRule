@@ -1,7 +1,7 @@
 ! Title: Hacamer's URL Filter
 ! Expires: 1 Day
-! Version: 1.3.2
-! Last Modified: 202110161846
+! Version: 1.3.3
+! Last Modified: 202110171046
 ! Homepage: https://github.com/Cats-Team/AdRule
 ! Description: 杏梢的URL过滤器，清除常见的跟踪参数 
 
