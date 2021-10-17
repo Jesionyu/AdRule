@@ -168,6 +168,9 @@ $removeparam=utm_campaign
 ! 抖音视频段
 ||douyin.com/video^$removeparam=search_keyword
 ||douyin.com/video^$removeparam=search_cursor
+! 用户段
+||douyin.com/user^$removeparam=from_gid
+||douyin.com/user^$removeparam=is_full_screen
 
 ! 爱奇艺
 ||iqiyi.com$removeparam=vfrmrst
