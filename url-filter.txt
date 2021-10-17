@@ -98,6 +98,9 @@ $removeparam=utm_campaign
 ||www.google.com^$removeparam=ei
 ||www.google.com^$removeparam=sxsrf
 ||www.google.com^$removeparam=ved
+||www.google.com^$removeparam=channel
+||www.google.com^$removeparam=client
+||www.google.com^$removeparam=pccc
 
 ! 谷歌搜索(Other language)
 ||www.google.com.*^$removeparam=aqs
@@ -108,6 +111,9 @@ $removeparam=utm_campaign
 ||www.google.com.*^$removeparam=ei
 ||www.google.com.*^$removeparam=sxsrf
 ||www.google.com.*^$removeparam=ved
+||www.google.com.*^$removeparam=channel
+||www.google.com.*^$removeparam=client
+||www.google.com.*^$removeparam=pccc
 
 ! 谷歌镜像（go-xyz.xyz）
 ||go-xyz.xyz^$removeparam=aqs
