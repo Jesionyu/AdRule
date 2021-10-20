@@ -158,6 +158,7 @@ zhihu.com#$?#.ContentItem > div.ModalWrap:has(> div > div.ModalExp-content > div
 $removeparam=utm_source
 ||zz.bdstatic.com^$third-party
 ||zhihu.com/commercial_api/banners_
+zhihu.com##.css-1svfsgz-OpenInAppButton.OpenInAppButton
 
 
 
