@@ -3,14 +3,28 @@
 ! Description: 移除一些烦人的元素
 ! Version: 3.51
 ! Last Modified: 1 day
+!
+!
 ! Don't Copy
-#%#document.execCommand = {}
-#%#navigator.clipboard.writeText = {}
-#%#navigator.clipboard.write = {}
-#%#document.write = {}
+! 百度Don't Copy
+baidu.com#%#document.execCommand = {}
+baidu.com#%#navigator.clipboard.writeText = {}
+baidu.com#%#navigator.clipboard.write = {}
+baidu.com#%#document.write = {}
 
-! Copy误杀
-@@||hacamer.*^$important,document
+! 哔哩哔哩Don't Copy
+bilibili.com#%#document.execCommand = {}
+bilibili.com#%#navigator.clipboard.writeText = {}
+bilibili.com#%#navigator.clipboard.write = {}
+bilibili.com#%#document.write = {}
+
+! CSDN Don't Copy
+csdn.net#%#document.execCommand = {}
+csdn.net#%#navigator.clipboard.writeText = {}
+csdn.net#%#navigator.clipboard.write = {}
+csdn.net#%#document.write = {}
+
+
 
 ! 城通网盘净化
 ctfile.com##div.card-body.p-3
