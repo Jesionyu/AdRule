@@ -1,7 +1,7 @@
 ! Title: Hacamer's URL Filter
 ! Expires: 1 Day
-! Version: 1.3.4
-! Last Modified: 202110171446
+! Version: 1.3.5
+! Last Modified: 202111021446
 ! Homepage: https://github.com/Cats-Team/AdRule
 ! Description: 杏梢的URL过滤器，清除常见的跟踪参数 
 
@@ -51,6 +51,8 @@ $removeparam=utm_campaign
 ||www.baidu.com^$removeparam=rsv_enter
 ||www.baidu.com^$removeparam=rsv_btype
 ||www.baidu.com^$removeparam=rsv_dl
+||www.baidu.com^$removeparam=bd_ck
+||www.baidu.com^$removeparam=ex_bp_rt
 
 
 ! 百度搜索m页面
@@ -78,7 +80,8 @@ $removeparam=utm_campaign
 ||m*.baidu.com^$removeparam=rsv_enter
 ||m*.baidu.com^$removeparam=rsv_btype
 ||m*.baidu.com^$removeparam=rsv_dl
-
+||m*.baidu.com^$removeparam=bd_ck
+||m*.baidu.com^$removeparam=ex_bp_rt
 
 ! 百度百科
 ||baike.baidu.com^$removeparam=ivk_sa
