@@ -1,5 +1,0 @@
-! Title: 去网页APP打开
-! 规则数:0
-! Version: 0
-! Last Modified: None
-! 规则订阅请移步至https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt
