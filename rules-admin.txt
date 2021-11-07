@@ -1,7 +1,7 @@
 ! Title: Some rule(admin)
 ! Expires: 7 day
 ! Description: 移除一些烦人的元素
-! Version: 3.53
+! Version: 3.54
 !
 !
 ! Don't Copy
@@ -33,6 +33,14 @@ ctfile.com##div.card.bg-light.mb-3
 ctfile.com###main-content > div.container > div.content:first-child > div.card-deck:nth-child(5) > div.card.mb-3.overflow-hidden:last-child > div:last-child
 ctfile.com##div.h-100.card
 
+! boce净华
+boce.com##div.main:nth-child(9) > div.bocead02.adBox01.adNewBox:nth-child(7) > div.ad_11:first-child
+boce.com##.bocead02, .ad_10, .adBox01, .adNewBox
+boce.com##div.main:nth-child(9) > div.mainMsg1.mainMsg3:first-child > div.mainMsg1c.vipBox0.on:nth-child(4) > p.mainMsg1d:last-child
+boce.com##div.main:nth-child(9) > div.mainMsg1.mainMsg3:first-child > div.mainMsg1c.vipBox0.on:nth-child(4)
+boce.com##header:nth-child(2) > div.login_menu.y.login_no:last-child > div.vipIcon:first-child
+boce.com##div.main:nth-child(9) > div.page10Box:nth-child(6) > a > img
+
 ! MyFreeMP3的提示
 tool.liumingye.cn##div.text
 tool.liumingye.cn##div#pop-container
@@ -44,6 +52,8 @@ blog.csdn.net###main > div.btn_open_app_prompt_div:nth-child(4)
 blog.csdn.net###wap_open_app_btn
 blog.csdn.net##div.app-shadowbox.wap-shadowbox:nth-child(15) > div.app-box > div.tip-massege:first-child
 blog.csdn.net##div.app-shadowbox.wap-shadowbox:nth-child(15) > div.app-box > div.tip-text:nth-child(2)
+blog.csdn.net##.csdn-redpack-container
+blog.csdn.net##.over-the-screen
 
 ! 腾讯视频网页端
 m.v.qq.com##.at-app-banner
@@ -173,6 +183,8 @@ $removeparam=utm_source
 ||zhihu.com/commercial_api/banners_
 zhihu.com##.css-1svfsgz-OpenInAppButton.OpenInAppButton
 
+! Youku
+youku.com##.info-bottom_3C0mQ, .show_C8p0e
 
 
 !APP：中国移动 ver：6.7.6
