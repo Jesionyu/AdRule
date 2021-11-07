@@ -30,7 +30,7 @@
 |  :----:  | :----:  | :----:  |
 | Some Rules | [链接](https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt) | [一键订阅](https://subscribe.adblockplus.org/?location=https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/rules-admin.txt) |
 | Hacamer's URL Filter |[链接](https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt)|[一键订阅](https://subscribe.adblockplus.org/?location=https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt)|
-| Some Rules For DNS|[链接](https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/some-rules-dns.txt)|[一键订阅](https://subscribe.adblockplus.org/?location=https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/some-rules-dns.txt)|
+
 
 ## 🚛 完善项目
 
