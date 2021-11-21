@@ -105,6 +105,7 @@ $removeparam=utm_campaign
 ||www.google.com^$removeparam=client
 ||www.google.com^$removeparam=pccc
 ||www.google.com^$removeparam=newwindow
+||www.google.com^$removeparam=iflsig
 
 ! 谷歌搜索(Other language)
 ||www.google.com.*^$removeparam=aqs
@@ -118,7 +119,8 @@ $removeparam=utm_campaign
 ||www.google.com.*^$removeparam=channel
 ||www.google.com.*^$removeparam=client
 ||www.google.com.*^$removeparam=pccc
-||www.google.com^$removeparam=newwindow
+||www.google.com.*^$removeparam=newwindow
+||www.google.com.*^$removeparam=iflsig
 
 ! 谷歌镜像（go-xyz.xyz）
 ||go-xyz.xyz^$removeparam=aqs
