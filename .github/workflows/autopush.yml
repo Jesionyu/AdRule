@@ -28,10 +28,3 @@ jobs:
           #git push -f
           #git push --set-upstream origin main
   
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.5.0
-        with:
-          github_token: ${{ secrets.TOKEN }}
-          branch: main
-          
-          
