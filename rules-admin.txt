@@ -118,6 +118,7 @@ m.imomoe.la##div.pageLine
 m.imomoe.la##script:nth-child(9)
 m.imomoe.la##div.t2:nth-child(10)
 m.imomoe.la###mobile-index > a:nth-child(5)
+m.imomoe.*##[href^="http://51pp.tv"]
 
 !百度贴吧
 tieba.baidu.com##.img-open-app
