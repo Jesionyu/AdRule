@@ -1,30 +1,5 @@
 # AdRule
-# 🎤项目说明
-过滤广告规则订阅
-## 😎描述
-去广告规则<br/>
-适用AdGuard,AdGuardHome等等<br/>
-由杏梢（Hacamer）摆写而成<br/>
-## 🔖 过滤工具推荐
-
-过滤工具：
-* 🌍 浏览器插件
-  * [AdGuard](https://adguard.com)
-  * [uBlock Origin](https://github.com/gorhill/uBlock)
-  * [AdBlock Plus](https://adblockplus.org)
-  * [Adblock](https://getadblock.com)
-* 📺 路由器端
-  * [AdGuard Home](https://adguard.com/zh_cn/adguard-home/overview.html)
-  * [KoolProxyR](https://github.com/user1121114685/koolproxyR)
-  * [Adbyby](http://www.adbyby.com/)
-  * [阿呆喵](http://www.admflt.com)
-* 📱 移动端
-  * [AdGuard for Android](https://adguard.com/zh_cn/adguard-android/overview.html)
-  * [AdGuard for iOS](https://adguard.com/zh_cn/adguard-ios/overview.html)
-* 💻 桌面端（全局去广告）
-  * [AdGuard for Windows](https://adguard.com/zh_cn/adguard-windows/overview.html)
-  * [AdGuard for macOS](https://adguard.com/zh_cn/adguard-mac/overview.html)
-
+**去除不想看见的东西！**
 ## 📃 规则列表
 |   规则名称   | 🚀 地址  |🚀 一键订阅  |
 |  :----:  | :----:  | :----:  |
@@ -41,4 +16,4 @@
 
 # Coding地址：[链接](https://hacamer.coding.net/public/adgurd/adrules/git/files)
 # 特别鸣谢
-- [@Hacamer](https://github.com/hacamer)
+- [@杏梢](https://github.com/hacamer)
