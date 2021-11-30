@@ -1,7 +1,7 @@
 ! Title: Some rule(admin)
 ! Expires: 7 day
 ! Description: 移除一些烦人的元素
-! Version: 3.55
+! Version: 3.56
 !
 !
 ! Don't Copy
@@ -188,7 +188,11 @@ zhihu.com##.css-1svfsgz-OpenInAppButton.OpenInAppButton
 ! Youku
 youku.com##.info-bottom_3C0mQ, .show_C8p0e
 
-
+! Cupfox
+cupfox.app##.client-download-bar.jsx-1859378793
+cupfox.app##.head-promotion.jsx-1625518580
+cupfox.app##div.banner-box.jsx-3699602122
+cupfox.app##.client-download-button.jsx-1859378793
 !APP：中国移动 ver：6.7.6
 ||app.10086.cn/*.gif
 !（过滤应用内gif动画）
