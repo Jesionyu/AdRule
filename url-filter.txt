@@ -148,6 +148,7 @@ $removeparam=utm_campaign
 ||bing.com^$removeparam=cvid
 ||bing.com^$removeparam=rdrig
 ||bing.com^$removeparam=rdr
+||bing.com^$removeparam=aqs
 
 ! 京东
 ||jd.com^$removeparam=pps
