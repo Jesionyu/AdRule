@@ -1,7 +1,7 @@
 ! Title: Some rule(admin)
 ! Expires: 7 day
 ! Description: 移除一些烦人的元素
-! Version: 3.57
+! Version: 3.58
 !
 !
 ! Don't Copy
