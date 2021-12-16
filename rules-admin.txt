@@ -1,7 +1,7 @@
 ! Title: Some rule(admin)
 ! Expires: 7 day
 ! Description: 移除一些烦人的元素
-! Version: 3.56
+! Version: 3.57
 !
 !
 ! Don't Copy
@@ -120,6 +120,8 @@ m.imomoe.la##div.t2:nth-child(10)
 m.imomoe.la###mobile-index > a:nth-child(5)
 m.imomoe.*##[href^="http://51pp.tv"]
 ||*.98765432100.site^$subdocument
+||*.site^$domain=m.imomoe.*,third-party
+||*.online^$domain=m.imomoe.live,third-party
 
 !百度贴吧
 tieba.baidu.com##.img-open-app
