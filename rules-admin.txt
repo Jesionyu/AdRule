@@ -123,8 +123,6 @@ m.imomoe.*##[href^="http://51pp.tv"]
 ||*.site^$domain=m.imomoe.*,third-party
 ||*.online^$domain=m.imomoe.live,third-party
 */*.gif$domain=m.imomoe.live,third-party,match-case
-m.imomoe.*###mobile-index > div:nth-child(10)
-m.imomoe.*###mobile-index > div:nth-child(9)
 @@||jianghu.live2008.com^$domain=m.imomoe.*
 @@||cloud.rongxingvr.cc^
 
