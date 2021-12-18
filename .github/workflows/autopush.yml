@@ -5,13 +5,7 @@ jobs:
   Pushed:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main 
-      - name: Githubhosts
-        uses: carlosperate/download-file-action@v1.0.0
-        with: 
-          file-url: https://github.com/hacamer/filtering/raw/master/hosts
-          file-name: Githosts.txt 
-          
+      - uses: actions/checkout@main           
       - name: Clean Versions
         run: |
           chmod 777 clean-versions.sh
