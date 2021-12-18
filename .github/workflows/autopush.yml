@@ -12,7 +12,9 @@ jobs:
           file-url: https://github.com/hacamer/filtering/raw/master/hosts
           file-name: Githosts.txt 
           
-      #- name: Cl
+      - name: Clean Versions
+        run: |
+          ./clean-versions.sh
            
       - name: Git push assets to github & coding
         run: |
