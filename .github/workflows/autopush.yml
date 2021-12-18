@@ -14,6 +14,7 @@ jobs:
           
       - name: Clean Versions
         run: |
+          chmod 777 clean-versions.sh
           ./clean-versions.sh
            
       - name: Git push assets to github & coding
