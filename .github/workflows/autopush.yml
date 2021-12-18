@@ -22,7 +22,7 @@ jobs:
           git commit -m "Updated at $(date)"
           git remote add origin "https://github.com/Cats-Team/AdRule.git"
           git remote set-url --add origin "https://${{ secrets.CODING_TokenUser }}:${{ secrets.CODING_Token }}@e.coding.net/hacamer/adgurd/adrules.git"
-          git fetch --unshallow origin
+          #git fetch --unshallow origin
           git push -u -f origin main
           #git push -f
           #git push --set-upstream origin main
