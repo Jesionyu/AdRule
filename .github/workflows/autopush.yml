@@ -8,22 +8,22 @@ jobs:
       - uses: actions/checkout@main           
       - name: Clean Versions
         run: |
-          chmod 777 clean-versions.sh
+          #chmod 777 clean-versions.sh
           ./clean-versions.sh
            
       - name: Git push assets to github & coding
         run: |
-          #rm -rf .git/
+          rm -rf .git/
           git init
           git config --local user.name "hacamer"
           git config --local user.email "hcamer145@gmail.com"
           git branch -m main
           git add .
           git commit -m "Updated at $(date)"
-          #git remote add origin "https://github.com/Cats-Team/AdRule.git"
+          git remote add origin "https://github.com/Cats-Team/AdRule.git"
           git remote set-url --add origin "https://${{ secrets.CODING_TokenUser }}:${{ secrets.CODING_Token }}@e.coding.net/hacamer/adgurd/adrules.git"
-          #git fetch --unshallow origin
-          git push -u -f origin main
-          #git push -f
+          git fetch --unshallow origin
+          #git push -u -f origin main
+          git push -f
           #git push --set-upstream origin main
   
