@@ -3,7 +3,6 @@
 ! Description: 移除一些烦人的元素
 ! Version:3.6
 !
-!
 ! Don't Copy
 ! 百度Don't Copy
 baidu.com#%#document.execCommand = {}
