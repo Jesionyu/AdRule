@@ -5,12 +5,7 @@ jobs:
   Pushed:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main           
-      - name: Clean Versions
-        run: |
-          #chmod 777 clean-versions.sh
-          ./clean-versions.sh
-           
+      - uses: actions/checkout@main                     
       - name: Git push assets to github & coding
         run: |
           rm -rf .git/
