@@ -8,7 +8,8 @@ jobs:
       - uses: actions/checkout@main           
       - name: Clean Versions
         run: |
-          bash ./clean-versions.sh
+          bash clean-versions.sh
+          each 'OK!'
       - name: Git push assets to github & coding
         run: |
           rm -rf .git/
