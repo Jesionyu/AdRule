@@ -9,7 +9,7 @@ jobs:
       - name: Clean Versions
         run: |
           bash clean-versions.sh
-          each 'OK!'
+          echo 'OK!'
       - name: Git push assets to github & coding
         run: |
           rm -rf .git/
