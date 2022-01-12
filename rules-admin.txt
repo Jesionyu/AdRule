@@ -44,6 +44,21 @@ boce.com##div.main:nth-child(9) > div.page10Box:nth-child(6) > a > img
 tool.liumingye.cn##div.text
 tool.liumingye.cn##div#pop-container
 
+! m.hexun.com
+m.hexun.com##.to-hot-ranking.layer-top
+m.hexun.com##.layer-bottom
+m.hexun.com###reeh8k728
+m.hexun.com##.hotButton
+m.hexun.com##.article-button
+m.hexun.com##.hide.about-read
+m.hexun.com##.modal-popup-openapp
+m.hexun.com##.diversionToWX
+m.hexun.com##.hide.informationnewsbox
+m.hexun.com###modal-popup-mask
+m.hexun.com##div[style="margin: 0px; position: relative; display: block; overflow: hidden; width: 100%; height: 60px; padding: 0px !important; line-height: 0 !important; z-index: 1 !important; border-radius: 0px !important;"]
+||hc.sogoubaidusm.cn/wap/n.js$domain=m.hexun.com
+||regtool.hexun.com/wapreg/checklogin.aspx$domain=m.hexun.com
+
 ! Csdn
 blog.csdn.net##div.weixin-shadowbox.wap-shadowbox:nth-child(17)
 blog.csdn.net##span.feed-Sign-span:nth-child(19)
