@@ -44,6 +44,12 @@ boce.com##div.main:nth-child(9) > div.page10Box:nth-child(6) > a > img
 tool.liumingye.cn##div.text
 tool.liumingye.cn##div#pop-container
 
+! Petalsearch 移除广告与新闻
+petalsearch.com##.feed-cont
+www.petalsearch.com##.van-pull-refresh.refresh-cont
+www.petalsearch.com##.advertisement-effect.card-v2.sparkle-card
+
+
 ! m.hexun.com
 m.hexun.com##.to-hot-ranking.layer-top
 m.hexun.com##.layer-bottom
