@@ -20,7 +20,7 @@ jobs:
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
           git push -f
  
-      - name: Git push assets to github & coding
+      - name: Git push assets to coding
         run: |
           rm -rf .git/
           git init
