@@ -10,7 +10,7 @@ jobs:
         run: |
           bash clean-versions.sh
           echo 'OK!'
-     - name: Git push assets to github
+      - name: Git push assets to github
         run: |
           git init
           git config --local user.name "hacamer"
