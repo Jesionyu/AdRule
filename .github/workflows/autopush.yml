@@ -17,11 +17,8 @@ jobs:
           git config --local user.email "hcamer145@gmail.com"
           git branch -m main
           git add .
-          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S'(北京时间)"
-          #git remote add origin "https://github.com/Cats-Team/AdRule.git"
-          #git remote add origin "https://${{ secrets.CODING_TokenUser }}:${{ secrets.CODING_Token }}@e.coding.net/hacamer/adgurd/adrules.git"
-          #git fetch --unshallow origin
-          git push -u -f origin main
+          git commit -m "Updated at $(TZ=UTC-8 date +(北京时间)"
+          git push -f
  
       - name: Git push assets to github & coding
         run: |
