@@ -1,4 +1,5 @@
 #!/bin/sh
+rm -f url-filter.txt rules-admin.txt
 echo '! Title: Some Rules' >> tdate.txt
 echo "! Version: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M') " >> tdate.txt
 echo "! Last Update: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" >> tdate.txt
