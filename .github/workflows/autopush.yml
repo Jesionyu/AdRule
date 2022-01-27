@@ -6,9 +6,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main           
-      - name: Clean Versions
+      - name: Clean Versions & Update file
         run: |
           bash clean-versions.sh
+          ./adrules/main.sh.
           echo 'OK!'
       - name: Git push assets to github
         run: |
