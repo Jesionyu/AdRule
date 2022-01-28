@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202201280127
+! Version: 202201281015
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 42821
+! Lenth = 42823
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7969,6 +7969,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||pastebin.com/etc/geo.php?
 @@||pataks.pl/core,_assets$script,~third-party
 @@||patrick-wied.at/static/heatmapjs/src/heatmap.js
+@@||paulaschoice.com^$cookie=dwsid
 @@||paypal.com/xoplatform/logger/api/logger$domain=play.leagueofkingdoms.com
 @@||paypalobjects.com/*/pageView.js$script,domain=paypal.com
 @@||paypalobjects.com/web/*/gAnalytics.js$script,domain=paypal.com
@@ -21169,6 +21170,7 @@ znak.com##.relap
 ||gtgpgx.europa.jobs^
 ||gti3.culture.leclerc^
 ||gti3.hightech.leclerc^
+||gtm.beiersdorf.com^
 ||gtm.udemy.com^
 ||gtop.ro^$third-party
 ||gtopstats.com^$third-party
