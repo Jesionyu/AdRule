@@ -15,14 +15,14 @@ num=`cat adblock+adguard-basic-source.txt | wc -l`
 echo '! Title: AdRules (Adblock+AdGuard-basic)' >> tdate.txt
 echo "! Version: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M') " >> tdate.txt
 echo "! Last Update: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" >> tdate.txt
-echo "! Total count: $num" >> tpdate.txt
+echo "! Total count: $num" >> tdate.txt
 cat tdate.txt adblock+adguard-basic-source.txt >> adblock+adguard-basic.txt
 rm -f tdate.txt
 numw=`cat adblock+adguard-full-source.txt | wc -l`
 echo "! Title: AdRules (Adblock+AdGuard-Full)" >> tdate.txt
 echo "! Version: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M') " >> tdate.txt
 echo "! Last Update: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" >> tdate.txt
-echo "! Total count: $numw" >> tpdate.txt
+echo "! Total count: $numw" >> tdate.txt
 cat tdate.txt adblock+adguard-full-source.txt >> adblock+adguard-full.txt
 rm -f tdate.txt *source.txt
 exit
