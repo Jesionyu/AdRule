@@ -2,7 +2,7 @@ name: Update Rules
 on: 
   push:
   schedule:
-    - cron:  '0 0,8,16 * * *'
+    - cron:  '30 0,8,16 * * *'
 
 jobs:
   Pushed:
