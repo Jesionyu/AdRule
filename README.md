@@ -7,6 +7,7 @@
 | Hacamer's URL Filter |[链接](https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt)|[一键订阅](https://subscribe.adblockplus.org/?location=https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/url-filter.txt)|
 ---
 |   规则名称   | 🚀 地址  |
+|  :----:  | :----:  |
 |AdRules Basic | [link](https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/adrules/adblock+adguard-basic.txt)|
 |AdRules Full | [link](https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/adrules/adblock+adguard-full.txt)|
 |AdGuard Full | [link](https://hacamer.coding.net/p/adgurd/d/adrules/git/raw/main/adrules/adguard-full.txt)|
