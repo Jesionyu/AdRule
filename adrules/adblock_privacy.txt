@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202201271643
+! Version: 202201280127
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 42817
+! Lenth = 42821
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1341,7 +1341,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /analytics.google.js
 /analytics.html?
 /analytics.init.js
-/analytics.js$domain=bataryapil.com|journey.com.tr|tozlu.com|elleshoes.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|partifabrik.com|newsmax.com
+/analytics.js$domain=bataryapil.com|journey.com.tr|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|partifabrik.com|newsmax.com
 /analytics.js.gz
 /analytics.js/v1/*
 /analytics.js?
@@ -14654,6 +14654,7 @@ znak.com##.relap
 ||cdn.tebilisim.com/analytics.js
 ||cdn.theoplayer.com/t?
 ||cdn.thunderhead.com/one/rt/js/one-tag.js
+||cdn.ticimax.com/*/analytics.js
 ||cdn.toolbar.net.zooplus.com^
 ||cdn.topmind.io^$third-party
 ||cdn.tpe.net.zooplus.de^
@@ -16969,6 +16970,7 @@ znak.com##.relap
 ||data-a.ns.emailvision.net.daraz.com^
 ||data-collector.wefi.com^$third-party
 ||data-dynamic.net^$third-party
+||data-platform.squarecloudservices.com/v1/batch
 ||data-ssl.pnet.co.za^
 ||data-ssl.stepstone.at^
 ||data-ssl.stepstone.be^
@@ -19827,6 +19829,7 @@ znak.com##.relap
 ||fndrsp.net^$third-party
 ||fngwdl.allheart.com^
 ||fnlvhy.wowma.jp^
+||fns.modanisa.com/*/analytics.js
 ||fnwcuo.bite.lt^
 ||foamyfood.com^
 ||foamyfood.com^$third-party
@@ -29554,7 +29557,6 @@ znak.com##.relap
 ||pejnya.net/counter/
 ||pelican.jatikhwan.com^
 ||pelican.protomaps.com^
-||pelininayakkabilari.com/Scripts/ticimax/analytics.js
 ||pelismart.com/wp-content/plugins/perfmatters/js/analytics-minimal.js
 ||pendo.io/data/ptm.gif
 ||penguin.craftpeak.io^
@@ -33073,6 +33075,7 @@ znak.com##.relap
 ||shqmetrics.sony.com^
 ||shrek.6.cn^
 ||shrillspoon.com^
+||shrillspoon.com^$third-party
 ||shrimp.joyfountainchurch.com^
 ||shrink-service.it/js/cM.js
 ||shrinktheweb.com^$third-party
@@ -35544,6 +35547,7 @@ znak.com##.relap
 ||sqs.quoka.de/logsearch.php
 ||sqtivj.vidaxl.hr^
 ||squarespace.com/universal/scripts-compressed/performance-$script,third-party
+||squareup.com/tracking.json
 ||squashfriction.com^
 ||squashfriction.com^$third-party
 ||squeakzinc.com^$third-party
