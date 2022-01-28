@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202201281015
+! Version: 202201281605
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 42823
+! Lenth = 42825
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6565,6 +6565,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.questionpro.com^$domain=questionpro.*
 @@||cdn.retailrocket.*/*/tracking.js$domain=ozerki.ru
 @@||cdn.retailrocket.ru/content/javascript/tracking.js$domain=comfy.ua
+@@||cdn.sajari.com/embed/*/*.js$domain=insurancebusinessmag.com
 @@||cdn.scarabresearch.com/js/*/scarab-v*.js$domain=avansas.com
 @@||cdn.segment.com/*/analytics.min.js$domain=canva.com
 @@||cdn.segment.com/analytics-next/$domain=app.cryptotrader.tax|givingassistant.org
@@ -6872,6 +6873,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||estafeta.com/shared/js/tracking.js
 @@||ethn.io/*.js$domain=medicare.gov
 @@||etsy.com/api/v3/ajax/bespoke/*log_performance_metrics=$~third-party
+@@||ev.tpocdm.com^$xmlhttprequest,domain=wowma.jp
 @@||eventim.de^*/xtcore.js
 @@||events-collector.spot.im/api/$xmlhttprequest
 @@||events-collector.spot.im/api/$xmlhttprequest,other,domain=rt.com
@@ -23141,7 +23143,7 @@ znak.com##.relap
 ||jenkinsmetricslegacy.net.zooplus.com^
 ||jeremiahlee.com/fanboynz.js
 ||jerkmate.com^*/tracking-hasoffers-
-||jetfilmizle.life/wp-content/plugins/reduce-bounce-rate/js/analyticsjs.js
+||jetfilmizle.*/wp-content/plugins/reduce-bounce-rate/js/analyticsjs.js
 ||jetlinx.actonservice.com^
 ||jetvis.ru/stat/
 ||jeu.net/hits.js
@@ -23250,7 +23252,7 @@ znak.com##.relap
 ||jscounter.com^$third-party
 ||jscrambler.com^$script,domain=airfrance.fr
 ||jscss.kdslife.com/club/html/count/PChome_Count.js
-||jsdelivr.net/*/fp.min.js
+||jsdelivr.net/*/fp.min.js$domain=~cuevana2.io
 ||jsdelivr.net/gh/sensitiveio/sbtracker@master/
 ||jsdelivr.net/npm/datbpzjvws@latest/dist/script.min.js$domain=ygosu.com
 ||jsdelivr.net/npm/keen-tracking@*/keen-tracking.min.js
