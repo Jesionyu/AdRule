@@ -8,7 +8,7 @@ wget https://raw.githubusercontent.com/hacamer/adblock_list/master/adblock.txt
 wget https://raw.githubusercontent.com/hacamer/adblock_list/master/adblock_plus.txt 
 
 cat adblock.txt | grep -v "^!" >> adblock+adguard-basic-source.txt
-cat adblock_plus | grep -v "^!" >> adblock+adguard-full-source.txt
+cat adblock_plus.txt | grep -v "^!" >> adblock+adguard-full-source.txt
 
 rm -f adblock.txt adblock_plus.txt
 num=`cat adblock+adguard-basic-source.txt | wc -l`
