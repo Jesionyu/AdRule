@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202201290807
+! Version: 202201291652
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 42828
+! Lenth = 42829
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7888,6 +7888,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ninja.onap.io/ninja-cee.js$domain=olx.pl
 @@||ninja.onap.io/ninja-cee.js$script,domain=olx.ua
 @@||nintendo.com/apps/noa/scripts/analytics.js$~third-party
+@@||nintendolife.com/themes/base/javascript/fingerprint.js$~third-party
 @@||nmac.to/cdn-cgi/pe/bag2?r[]=*google-analytics.com
 @@||nmac.to/cdn-cgi/pe/bag2?r[]=*histats.com
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
@@ -9305,6 +9306,7 @@ znak.com##.relap
 ||4sqt6jq.de^
 ||4stats.de^$third-party
 ||4tiz3b7uvzv5.app.polymersearch.com^
+||5-fifth.com/assets/js/*/analytics.js
 ||5-fifth.com/assets/js/pc/analytics.js
 ||50.net.daraz.com^
 ||50bang.org^$third-party
@@ -10759,7 +10761,6 @@ znak.com##.relap
 ||adgainersolutions.com^$third-party
 ||adgocoo.com^$third-party
 ||adgreed.com^$third-party
-||adgrx.com^$third-party
 ||adguard.com/-/event/
 ||adheart.de^$third-party
 ||adhslx.com^$third-party
