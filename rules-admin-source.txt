@@ -72,6 +72,8 @@ blog.csdn.net##div.app-shadowbox.wap-shadowbox:nth-child(15) > div.app-box > div
 blog.csdn.net##div.app-shadowbox.wap-shadowbox:nth-child(15) > div.app-box > div.tip-text:nth-child(2)
 blog.csdn.net##.csdn-redpack-container
 blog.csdn.net##.over-the-screen
+blog.csdn.net##.title-box > a[href*="download.csdn"]
+
 
 ! 腾讯视频网页端
 m.v.qq.com##.at-app-banner
