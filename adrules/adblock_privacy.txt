@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202201281605
+! Version: 202201290155
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 42825
+! Lenth = 42828
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -22917,6 +22917,7 @@ znak.com##.relap
 ||ipdswg.go-to-sport.ru^
 ||iper2.com^$third-party
 ||iperceptions.com^$third-party
+||ipfind.com^$third-party
 ||ipfingerprint.com^$third-party
 ||ipfrom.com^$third-party
 ||ipgp.net^$third-party
@@ -32873,6 +32874,7 @@ znak.com##.relap
 ||senmanga.com^$cookie=sen_manga_session
 ||sensic.net^$third-party
 ||sensor.org.ua^$third-party
+||sensors.ibreader.com^
 ||sensors.snappea.com^
 ||senthg.prxperformance.com^
 ||sentifi.com^$third-party
@@ -32983,6 +32985,7 @@ znak.com##.relap
 ||sgnxcn.omni7.jp^
 ||sgphctileh-a.akamaihd.net^
 ||sgtm.fashionunited.de/gtm.js
+||sgtm.sefamerve.com^
 ||sgw-analytics.panasonic.com^
 ||sgwqoz.toddsnyder.com^
 ||shaggytank.com^
