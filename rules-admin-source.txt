@@ -1,4 +1,4 @@
-! Expires: 7 day
+! Expires: 1 day
 ! Description: 移除一些烦人的元素
 !
 ! Don't Copy
