@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202201301615
+! Version: 202201310149
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 42832
+! Lenth = 42836
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8342,6 +8342,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||store.usps.com/media/js/metrics/metrics.js
 @@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
 @@||stroeerdigitalgroup.de/metatag/live/bauer-autozeitung/metaTag.min.js$domain=autozeitung.de
+@@||stuttgarter-nachrichten.de/cre-1.0/tracking/call.js?$script,~third-party
+@@||stuttgarter-nachrichten.de/cre-1.0/tracking/tracking.js$script,~third-party
 @@||stuttgarter-zeitung.de/cre-*/tracking/tracking.js
 @@||stylished.de/js/vendors/emos2.js$domain=stylished.de
 @@||sunday.de/skin/*/googleanalytics.js$script
@@ -8657,6 +8659,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 _Analytics.js?
 _Clicktale.
 _ComScore.
+_GoogleTagManager/
 _NielsenNetRatings.
 _Tacoda_
 _ad_impression.
@@ -37865,6 +37868,7 @@ znak.com##.relap
 ||taxel.jp^$third-party
 ||taylorshellfish.actonservice.com^
 ||tbaqje.zadig-et-voltaire.com^
+||tbcconnect.ge^$third-party
 ||tbe.tom.ru^
 ||tbex.ru^$third-party
 ||tbmgyz.centerparcs.de^
