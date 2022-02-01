@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202201311627
+! Version: 202202010141
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40763
+! Lenth = 40767
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1555,6 +1555,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /art/stats/*
 /article-analytics.
 /article-tracking.js
+/article/count?
 /articleOmnitureTracking.
 /article_counter.php?
 /article_hit.php?
@@ -8903,6 +8904,7 @@ novate.ru#?##right > div.bordered:has(> script:contains(relap))
 novate.ru#?##right > h2:contains(Рекомендуем)
 ntp.msn.com#%#AG_defineProperty("navigator.getBattery",{value:function(){return Promise.resolve()}});
 ntp.msn.com#@%#navigator.getBattery = undefined;
+oceans-nadia.com##.gtm-bnr-rensai
 otekomachi.yomiuri.co.jp###_popIn_right
 otekomachi.yomiuri.co.jp##.p-ads
 outrch.com/api/mailings/opened$image
@@ -9526,6 +9528,7 @@ znak.com##.relap
 ||a013.com^$third-party
 ||a1.api.bbc.co.uk^
 ||a1.huiqituan.com^$third-party
+||a10.nationalreview.com^
 ||a10695.actonservice.com^
 ||a11058.actonservice.com^
 ||a11315.actonservice.com^
@@ -40514,6 +40517,7 @@ znak.com##.relap
 ||youku.com^*/click.php?
 ||youle55.com^$third-party
 ||youlead.pl/track?
+||youmaker.com/g/test
 ||youmetrix.co.uk^$third-party
 ||youngmarble.com^
 ||youngmarble.com^$third-party
