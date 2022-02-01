@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202010832
+! Version: 202202011645
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40770
+! Lenth = 40775
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7772,6 +7772,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mc.yandex.ru/metrika/watch.js$domain=auth.wi-fi.ru
 @@||mc.yandex.ru/metrika/watch.js$domain=f5haber.com
 @@||mc.yandex.ru/metrika/watch.js$domain=m.market.yandex.ru|m.market.yandex.ua|m.market.yandex.by|m.market.yandex.kz
+@@||mc.yandex.ru/watch/$domain=gosuslugi.ru
 @@||mc.yandex.ru/watch/$xmlhttprequest,domain=mtstv.mts.ru
 @@||mc.yandex.ru/webwisor/$domain=metrika.yandex.ru|metrika.yandex.ua|metrika.yandex.by|metrika.yandex.kz|metrika.yandex.com.tr
 @@||mc.yandex.ru^$domain=planeta.ru
@@ -14613,6 +14614,7 @@ znak.com##.relap
 ||cdnanalytics.xyz^$third-party
 ||cdnappsmgmt.net.zooplus.de^
 ||cdncar21.net.daraz.com^
+||cdnen.rt.com/static/js/libs/counters.js
 ||cdnlegacy.tester.net.zooplus.com^
 ||cdnma.com/apps/capture.js
 ||cdnmarketing.net.daraz.com^
@@ -20603,7 +20605,6 @@ znak.com##.relap
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,important,redirect=googletagmanager-gtm,domain=gazin.com.br
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,domain=oresundsbron.com,important
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,important,domain=cuk.pl
-||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,important,domain=mainichi.jp
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,important,domain=napishem.ru
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,important,domain=northantstelegraph.co.uk
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,important,domain=pcjisaku.com
@@ -28082,6 +28083,7 @@ znak.com##.relap
 ||owp-tw.americanexpress.com^
 ||owss.ihs.com^
 ||ox-bio.com^$third-party
+||ox.bncounter.com^
 ||ox.ebalus.com^
 ||ox.sprucely.host^
 ||oxidy.com^$third-party
@@ -28349,6 +28351,7 @@ znak.com##.relap
 ||pbecrm.aquanet.ru^
 ||pbgrd.com^$third-party
 ||pbjs.sskzlabs.com^$third-party
+||pbkqidejmes.ru^
 ||pbox.no.photobox.com^
 ||pbox.photobox.be^
 ||pbox.photobox.ch^
@@ -28922,6 +28925,7 @@ znak.com##.relap
 ||plista.com/iframeShowItem.php
 ||plista.com/iframeShowItem.php$domain=planetsnow.de
 ||pljuin.lensmode.com^
+||pln-pskov.ru/cntr.php?id=
 ||plomaticsb.carte-gr.total.fr^
 ||plongezdanslabdkj.carte-gr.total.fr^
 ||plotparent.com^
@@ -31508,6 +31512,7 @@ znak.com##.relap
 ||selectionship.com^$third-party
 ||selectivesummer.com^$third-party
 ||selectmedia.asia^$third-party
+||self.events.data.microsoft.com^
 ||selfcampaign.com^$third-party
 ||selfishsea.com^$third-party
 ||selfishsnake.com^
