@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202010141
+! Version: 202202010832
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40767
+! Lenth = 40770
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1254,8 +1254,10 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /amazon-affiliate-
 /amdhfp/a.do?param$image
 /amdhfp/t.do?id$image
+/amp-access/cta/*
 /amp-access/cta?
 /amp-access/ping?
+/amp-access/set/*
 /amp-access/set?
 /amp-analytics-
 /amp-analytics/*
@@ -8227,6 +8229,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
+@@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
 @@||showheroes.com/playlist/vast3?$xmlhttprequest,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
