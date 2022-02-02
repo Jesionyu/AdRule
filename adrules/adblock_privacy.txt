@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202011645
+! Version: 202202020115
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40775
+! Lenth = 40779
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7448,7 +7448,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=yourstory.com
 @@||googletagmanager.com/gtm.js$domain=zolotoyvek.ua
 @@||googletagmanager.com/gtm.js$script,domain=animeanime.jp|carcareplus.jp|cinemacafe.net|cyclestyle.net|gamebusiness.jp|gamespark.jp|inside-games.jp|mycar-life.com|newscafe.ne.jp|reanimal.jp|resemom.jp|response.jp|scan.netsecurity.ne.jp|spyder7.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|hatenacorp.jp|junonline.jp|kakuyomu.jp|mangaseek.net|nap-camp.com|radiko.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|hatenacorp.jp|junonline.jp|kakuyomu.jp|mainichi.jp|mangaseek.net|nap-camp.com|radiko.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
 @@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
@@ -34590,6 +34590,7 @@ znak.com##.relap
 ||static.bbci.co.uk/bbcdotcom/*/script/av/emp/analytics.js
 ||static.bro.adca.st/broadcast/stats
 ||static.canal-plus.net/*/trcking.min.js
+||static.cloud.coveo.com/coveo.analytics.js/
 ||static.cloudflareinsights.com/beacon.min.js
 ||static.cotemaison.fr/min/js/consent
 ||static.cotemaison.fr/min/js/request_tracker
@@ -37604,6 +37605,7 @@ znak.com##.relap
 ||tracking.adp.ca^
 ||tracking.adp.com^
 ||tracking.adpinfo.com^
+||tracking.adsbot.kr^
 ||tracking.adsx.unityads.unity3d.com^
 ||tracking.adtran.com^
 ||tracking.adweb.co.kr^$third-party
@@ -38702,6 +38704,7 @@ znak.com##.relap
 ||usabilla.com^$third-party
 ||usage.influxdata.com^
 ||usage.seibert-media.io^$third-party
+||usageanalytics.coveo.com^
 ||usb-vna.coppermountaintech.com^
 ||usedexample.com^
 ||usedexample.com^$third-party
@@ -39072,6 +39075,7 @@ znak.com##.relap
 ||vkcdnservice.com^$third-party
 ||vkiais.brendi.pl^
 ||vlive.tv/logging
+||vlogs.deja.media^
 ||vlwutxd95syk.www.usa-corporate.com^
 ||vm5.i7akpd1.xyz^$third-party
 ||vm5apis.com^$third-party
