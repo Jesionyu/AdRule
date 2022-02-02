@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202020846
+! Version: 202202021622
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40779
+! Lenth = 40783
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7879,6 +7879,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||netto-online.de/jquery/webanalytics/xtcore.js
 @@||networkworld.com^*/demandbase.js
+@@||new.hnair.com/hainanair/ibe/static/scripts/new/profile/fingerprint2.js
 @@||newrelic.com/nr-*.min.js$domain=surveymonkey.co.uk|surveymonkey.com|surveymonkey.de|surveymonkey.ru
 @@||newrelic.com/public/charts/$subdocument,xmlhttprequest
 @@||newsinc.com^*/getPlacements.js?pid=$domain=washingtonexaminer.com
@@ -21618,6 +21619,7 @@ znak.com##.relap
 ||img.simply.bwin.com^
 ||img.sportsworldi.com/static/w_sportsworld/common/js/analytics.js
 ||img.sputniknews.com/min/js/plugins/video-counters.js
+||img.toi.de/t.gif$image,domain=t-online.de
 ||imgfarm.com/images/nocache/tr/*.gif?$image
 ||imgfarm.com/images/trk/myexcitetr.gif?
 ||imgfarm.com^*/mw.gif?$third-party
@@ -27121,6 +27123,7 @@ znak.com##.relap
 ||neulion.vo.llnwd.net^*/track.js
 ||neurotrack.neurolake.io^
 ||new-collect.albacross.com^$third-party
+||new.hnair.com/hainanair/ibe/static/scripts/new/profile/fingerprint2.js$script,redirect=fingerprintjs,important
 ||newbie.dk/topref.php?
 ||newbie.dk^*/counter.php?
 ||newegg.com/amber3/tracking?
@@ -28798,6 +28801,7 @@ znak.com##.relap
 ||plantrelation.com^
 ||plantronics.hb.omtrdc.net^
 ||plas.imfeld.dev^
+||platform-eu.cloud.coveo.com/rest/*/analytics/view?
 ||platform.datazoom.io/beacon/
 ||platform.iteratehq.com^
 ||platform.twitter.com/impressions.js
