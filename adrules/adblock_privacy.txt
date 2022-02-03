@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202030826
+! Version: 202202031618
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40786
+! Lenth = 40789
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7052,7 +7052,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/analytics.js$domain=hepsiburada.com
 @@||google-analytics.com/analytics.js$domain=highsnobiety.com
 @@||google-analytics.com/analytics.js$domain=home24.de
-@@||google-analytics.com/analytics.js$domain=html5.gamedistribution.com
 @@||google-analytics.com/analytics.js$domain=incehesap.com
 @@||google-analytics.com/analytics.js$domain=independent.co.uk
 @@||google-analytics.com/analytics.js$domain=independer.nl
@@ -7773,7 +7772,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mc.yandex.ru/metrika/watch.js$domain=auth.wi-fi.ru
 @@||mc.yandex.ru/metrika/watch.js$domain=f5haber.com
 @@||mc.yandex.ru/metrika/watch.js$domain=m.market.yandex.ru|m.market.yandex.ua|m.market.yandex.by|m.market.yandex.kz
-@@||mc.yandex.ru/watch/$domain=gosuslugi.ru
 @@||mc.yandex.ru/watch/$xmlhttprequest,domain=mtstv.mts.ru
 @@||mc.yandex.ru/webwisor/$domain=metrika.yandex.ru|metrika.yandex.ua|metrika.yandex.by|metrika.yandex.kz|metrika.yandex.com.tr
 @@||mc.yandex.ru^$domain=planeta.ru
@@ -11937,6 +11935,7 @@ znak.com##.relap
 ||analytics.staticiv.com^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
+||analytics.studiodesignapp.com^
 ||analytics.styria.hr^
 ||analytics.supplyframe.com/trackingservlet/
 ||analytics.supplyframe.com^
@@ -12208,6 +12207,7 @@ znak.com##.relap
 ||api-js.mixpanel.com/track/?
 ||api-localhost.net.daraz.com^
 ||api-location-prd.pelcro.com^$domain=newsweek.com
+||api-onedio-lambda-production.onedio.com/srv/counters/
 ||api-router.kaspersky-labs.com/logger2^
 ||api-stg.ensonhaber.com^
 ||api-v*.tinypass.com/api/v*/conversion/logEspMicroConversion
@@ -18921,6 +18921,7 @@ znak.com##.relap
 ||event-api.contactatonce.com^
 ||event-api.rdstation.com.br^
 ||event-api.reverb.com^
+||event-collector.analytics.onedio.com^
 ||event-listener.air.tv^
 ||event-reporting-dot-webylytics.appspot.com^
 ||event.allnews.uodoo.com^
@@ -20576,6 +20577,7 @@ znak.com##.relap
 ||googletagmanager.com/gtag/js$script,other,redirect=googletagmanager-gtm,domain=filmomaniak.pl
 ||googletagmanager.com/gtag/js$script,other,redirect=googletagmanager-gtm,domain=guardaserie.*
 ||googletagmanager.com/gtag/js$script,other,redirect=googletagmanager-gtm,domain=playphrase.me
+||googletagmanager.com/gtag/js$script,redirect=googletagmanager-gtm,domain=html5.gamedistribution.com
 ||googletagmanager.com/gtag/js?id=$script,other,redirect=noopjs,domain=kawasaki.com,important
 ||googletagmanager.com/gtag/js?id=$script,other,redirect=noopjs,domain=rotana.net,important
 ||googletagmanager.com/gtag/js?id=$script,other,redirect=noopjs,domain=view.epageview.com,important
@@ -20763,6 +20765,7 @@ znak.com##.relap
 ||gti3.hightech.leclerc^
 ||gtm.beiersdorf.com^
 ||gtm.udemy.com^
+||gtmdev.jabra.
 ||gtop.ro^$third-party
 ||gtopstats.com^$third-party
 ||gtr1.yes24.com/wlo/Logging
@@ -24896,7 +24899,7 @@ znak.com##.relap
 ||mc.webvisor.com^
 ||mc.webvisor.org^
 ||mc.yandex.com^
-||mc.yandex.ru/metrika/tag.js$script,redirect=metrika-yandex-tag
+||mc.yandex.ru/metrika/tag.js$script,redirect=metrika-yandex-tag,domain=~gosuslugi.ru
 ||mc.yandex.ru/metrika/watch.js$script,redirect=metrika-yandex-watch,domain=~disk.yandex.*|~docviewer.yandex.*|~tv.yandex.*|~music.yandex.*|~plus.yandex.*
 ||mc.yandex.ru^
 ||mcad.mods-clinic.com^
@@ -31517,7 +31520,6 @@ znak.com##.relap
 ||selectionship.com^$third-party
 ||selectivesummer.com^$third-party
 ||selectmedia.asia^$third-party
-||self.events.data.microsoft.com^
 ||selfcampaign.com^$third-party
 ||selfishsea.com^$third-party
 ||selfishsnake.com^
@@ -34077,6 +34079,7 @@ znak.com##.relap
 ||srtb.msn.com^
 ||sruk.srglobal.com^
 ||srv.dc-1.net^
+||srv.onedio.com/counter/
 ||srv.onedio.com/geo/code
 ||srv.onedio.com/track
 ||srv.stackadapt.com^$third-party
