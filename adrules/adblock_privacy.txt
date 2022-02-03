@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202021622
+! Version: 202202030114
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40783
+! Lenth = 40786
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1343,7 +1343,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /analytics.google.js
 /analytics.html?
 /analytics.init.js
-/analytics.js$domain=bataryapil.com|journey.com.tr|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|partifabrik.com|newsmax.com
+/analytics.js$domain=bataryapil.com|journey.com.tr|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|partifabrik.com|newsmax.com|bolgehastanesi.com
 /analytics.js.gz
 /analytics.js/v1/*
 /analytics.js?
@@ -6616,6 +6616,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=fckrasnodar.ru
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=jiosaavn.com
 @@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=moretvtime.com
+@@||cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.js$script,domain=picoworkers.com
 @@||ced-ns.sascdn.com/diff/video/current/libs/js/controller.js$domain=ln24.be
 @@||ced.sascdn.com/tag/*/smart.js$domain=ln24.be
 @@||cedexis.com/zones/*/customers/*/apps/*/decision$domain=play.history.com
@@ -39631,6 +39632,7 @@ znak.com##.relap
 ||whrsen.itemmania.com^
 ||whtopb.servihabitat.com^
 ||why3.inseec.education^
+||widebundle.com^$third-party
 ||widerplanet.com^$third-party
 ||widgeo.net/compteur.php?
 ||widgeo.net/geocompteur/
@@ -40725,6 +40727,7 @@ znak.com##.relap
 ||zone-telechargement.al/analytics/
 ||zone-telechargement.ninja/bypassmajs
 ||zongheng.com^*/logger.min.js
+||zononi.com^
 ||zontera.com^$third-party
 ||zoomanalytics.co^$third-party
 ||zoomflow.com^$third-party
