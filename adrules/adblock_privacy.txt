@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202040138
+! Version: 202202040834
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40792
+! Lenth = 40793
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -14878,6 +14878,7 @@ znak.com##.relap
 ||ciszhp.finanzfrage.net^
 ||ciszhp.gesundheitsfrage.net^
 ||ciszhp.gutefrage.net^
+||citibank.com.ph/tmx/js/
 ||citiintl.122.2o7.net/b/ss/citiintlemeapolandprod$image,redirect=1x1-transparent.gif,domain=citibankonline.pl
 ||citizensclimate.actonservice.com^
 ||citizensvoice.com/logger/p.gif
