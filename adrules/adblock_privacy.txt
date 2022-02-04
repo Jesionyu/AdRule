@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202040834
+! Version: 202202041611
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40793
+! Lenth = 40796
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7986,6 +7986,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||pdrnetwork.112.2o7.net/b/ss/pdrnetworkpdrnetprod/
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
 @@||personaclick.com^$domain=skechers.com.tr
+@@||petsmart.ca^$cookie=dwsid
 @@||picsearch.com/js/comscore.js$domain=dn.se
 @@||pillsbury.com/Shared/StarterKit/Javascript/UnicaTag.js
 @@||pillsbury.com/Shared/StarterKit/Javascript/ntpagetag.js
@@ -20589,6 +20590,7 @@ znak.com##.relap
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=asicstr.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=avast.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=beymen.com
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=carsmile.pl
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=chip.com.tr
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=cildimveben.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=cwtv.com
@@ -34496,6 +34498,7 @@ znak.com##.relap
 ||stat.mixi.media^
 ||stat.moevideo.net^
 ||stat.mtv3.fi^
+||stat.mydaddy.cc^
 ||stat.myshows.me^
 ||stat.nate.com^
 ||stat.novinky.cz^
