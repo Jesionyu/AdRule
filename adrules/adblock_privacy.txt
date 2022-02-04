@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202031618
+! Version: 202202040138
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40789
+! Lenth = 40792
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8121,6 +8121,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||rtoaster.jp^$script,domain=lexus.jp|melonbooks.co.jp
 @@||rtoaster.jp^$script,domain=store.united-arrows.co.jp
 @@||rtr-vesti.ru/pvc_cdn/js/stat.js$domain=player.vgtrk.com
+@@||rudaw.net/images/pixel.gif$~third-party
 @@||rules.atgsvcs.com/EERules/view/$domain=lenovo.com
 @@||rum.perfops.net/rum.min.js$script,domain=cdnperf.com
 @@||rv.treehousei.com/prm/js/*/public.min.js$domain=partnerportal.fortinet.com
@@ -8345,6 +8346,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||stock.skoda.be/assets/scripts/analytics/$script,~third-party
 @@||stomp.com.sg/xtcore.js
 @@||storage.embluemail.com/pixeltracking^$domain=lavoz.com.ar
+@@||store-jp.nintendo.com^$cookie=dwsid
 @@||store.usps.com/media/js/metrics/metrics.js
 @@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
 @@||stroeerdigitalgroup.de/metatag/live/bauer-autozeitung/metaTag.min.js$domain=autozeitung.de
@@ -15163,6 +15165,7 @@ znak.com##.relap
 ||cloudarketing.net.zooplus.de^
 ||clouderrorreporting.googleapis.com^
 ||cloudflare.com/_cf/analytics.js
+||cloudflare.com/ajax/libs/fingerprintjs2/$script,redirect=fingerprintjs,domain=gamebox.gesoten.com,important
 ||cloudflare.com/cdn-cgi/trace$third-party,domain=~isbgpsafeyet.com|~wyndhamdestinations.com
 ||cloudflareinsights.com^$third-party
 ||cloudfront-labs.amazonaws.com^
@@ -19216,6 +19219,7 @@ znak.com##.relap
 ||facebook.com/common/cavalry_endpoint.php?
 ||facebook.com/common/scribe_endpoint.php$domain=transfermarkt.de
 ||facebook.com/ct.php
+||facebook.com/email_open_log_
 ||facebook.com/impression.php
 ||facebook.com/method/links.getstats?
 ||facebook.com/platform/cavalry_endpoint.php?
@@ -21623,7 +21627,6 @@ znak.com##.relap
 ||img.simply.bwin.com^
 ||img.sportsworldi.com/static/w_sportsworld/common/js/analytics.js
 ||img.sputniknews.com/min/js/plugins/video-counters.js
-||img.toi.de/t.gif$image,domain=t-online.de
 ||imgfarm.com/images/nocache/tr/*.gif?$image
 ||imgfarm.com/images/trk/myexcitetr.gif?
 ||imgfarm.com^*/mw.gif?$third-party
