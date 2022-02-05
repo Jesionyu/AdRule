@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202041611
+! Version: 202202050152
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40796
+! Lenth = 40803
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -14879,6 +14879,7 @@ znak.com##.relap
 ||ciszhp.finanzfrage.net^
 ||ciszhp.gesundheitsfrage.net^
 ||ciszhp.gutefrage.net^
+||citi.com^*/fp.js
 ||citibank.com.ph/tmx/js/
 ||citiintl.122.2o7.net/b/ss/citiintlemeapolandprod$image,redirect=1x1-transparent.gif,domain=citibankonline.pl
 ||citizensclimate.actonservice.com^
@@ -22649,6 +22650,11 @@ znak.com##.relap
 ||js.passaro-de-fogo.biz^$third-party
 ||js.ptengine.jp^$third-party
 ||js.rush-member.com^$third-party
+||js.selfimg.com.cn/cna/analytics.js
+||js.selfimg.com.cn/cna/tracking.min.js
+||js.selfimg.com.cn/lib/ga/ga.js
+||js.selfimg.com.cn/statistics/total.js
+||js.selfimg.com.cn/vogue/discovery/js/collect-entry.js
 ||js.sohu.com/track/
 ||js.soufunimg.com/count/
 ||js.static.m1905.cn/pingd.js
@@ -36480,6 +36486,7 @@ znak.com##.relap
 ||thefreehitcounter.com^$third-party
 ||themesltd.com/online-users-counter/$third-party
 ||themonitor.com/shared-content/art/stats/common/tracker.js^
+||thench.net^$third-party
 ||theoplayer.com/t?
 ||thequin.ai^$third-party
 ||therapeuticcars.com^
