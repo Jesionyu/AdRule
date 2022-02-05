@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202050855
+! Version: 202202051612
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40806
+! Lenth = 40809
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -18984,6 +18984,7 @@ znak.com##.relap
 ||events.artirix.com^$third-party
 ||events.attentivemobile.com^
 ||events.audiate.me^
+||events.audioplace.me^$third-party
 ||events.avaya.com^
 ||events.brightline.tv^
 ||events.busuu.com^
@@ -20506,6 +20507,7 @@ znak.com##.relap
 ||good-gay.tv/stats.gif
 ||goodbookbook.com/_.gif?_
 ||goodcounter.org^$third-party
+||goodfon.com/stat/
 ||goodmeasure.io^$third-party
 ||google-analtyics.com/analytics.js
 ||google-analytics.com/analytics.js$domain=boote-forum.de
@@ -23629,6 +23631,7 @@ znak.com##.relap
 ||lnvguu.lifood.jp^
 ||lnxfgm.party-calendar.net^
 ||load.sumome.com^$third-party
+||loader.zeroform.com^
 ||loadus.exelator.com^
 ||loansales.cbre.com^
 ||loblhp.samsonite.ru^
