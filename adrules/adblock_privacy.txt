@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202050152
+! Version: 202202050855
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40803
+! Lenth = 40806
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7854,6 +7854,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mxpnl.com^$domain=dailysteals.com
 @@||mxpnl.com^$domain=mixpanel.com
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
+@@||myaccount.depositprotection.com/Scripts/lib/jsnlog/$script,~third-party
 @@||mybuys.com/webrec/wr.do?
 @@||mycargo.rzd.ru/dst/scripts/common/analytics-helper.js$~third-party
 @@||mycleverpush.com/iframe?$domain=bsdex.de
@@ -8258,6 +8259,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||smetrics.target.com/b/ss/$image
 @@||smetrics.ticketmaster.com/b/ss/$image
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js
+@@||snap.licdn.com/li.lms-analytics/insight.min.js$domain=msci.com
 @@||snapchat.com/static/js/autotrack.js
 @@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
 @@||som.aeroplan.com/b/ss/
@@ -11475,6 +11477,7 @@ znak.com##.relap
 ||amplify.strategic-i.com^
 ||amplifypixel.outbrain.com^
 ||amplitude.com^$third-party
+||ampproject.org/preconnect.gif
 ||amptrack-dailymail-co-uk.cdn.ampproject.org^
 ||ampush.io^$third-party
 ||ams-pageview-public.s3.amazonaws.com^
