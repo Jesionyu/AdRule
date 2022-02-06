@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202060146
+! Version: 202202060805
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40809
+! Lenth = 40813
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -497,6 +497,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 .js?referer=
 .js?referrer=
 .jsp/?Log=
+.keap-link003.com/$image
 .keap-link011.com/$image
 .keap-link015.com/$image
 .kijiji.ca/r/
@@ -12000,6 +12001,7 @@ znak.com##.relap
 ||analytics.valiuz.com^
 ||analytics.vanillaforums.com^
 ||analytics.vdo.ai^
+||analytics.vedantu.com^
 ||analytics.vendemore.com^
 ||analytics.verizon.com^
 ||analytics.verizonwireless.com^
@@ -26150,6 +26152,7 @@ znak.com##.relap
 ||metrics.suunto.com^
 ||metrics.swinburne.edu.au^
 ||metrics.switch2t-mobile.com^
+||metrics.syf.com^
 ||metrics.synopsys.com^
 ||metrics.tamiflu.com^
 ||metrics.target.com^
@@ -27029,6 +27032,7 @@ znak.com##.relap
 ||nbrngg.rinkaiseminar.co.jp^
 ||nbsdk-baichuan.taobao.com^
 ||nbyggk.jocee.jp^
+||nc0.co^$third-party
 ||ncaudienceexchange.com^$third-party
 ||ncbabz.hometogo.co.uk^
 ||ncbi.nlm.nih.gov/core/pinger
