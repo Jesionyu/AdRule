@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202070139
+! Version: 202202070826
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40821
+! Lenth = 40823
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -12972,6 +12972,7 @@ znak.com##.relap
 ||autoteile24.de/*_tracking.js
 ||autotrader.com/beacon/rum?
 ||autotrader.com/no_cache/bi_
+||autotrader.com/pixall/
 ||autozone.actonservice.com^
 ||autumn.apidocs.net.daraz.com^
 ||autumn.engineering.net.daraz.com^
@@ -38897,6 +38898,7 @@ znak.com##.relap
 ||veoxa.com/get_trackingcode.
 ||vepxl1.net^$third-party
 ||veqvek.cp24.com^
+||verbolia.com^$third-party
 ||vercel-analytics.com^$third-party
 ||vercel-insights.com^$third-party
 ||verdantanswer.com^
@@ -39012,7 +39014,7 @@ znak.com##.relap
 ||vinsight.de^$domain=tvspielfilm.de
 ||vinsight.de^$third-party
 ||vinub.com^$third-party
-||viously.com/mt?
+||viously.com^*/mt?
 ||vip.gophersport.com^
 ||vipbox.st/wau^
 ||viper.sitesauce.app^
