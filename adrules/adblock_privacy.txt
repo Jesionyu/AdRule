@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202061627
+! Version: 202202070139
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40813
+! Lenth = 40821
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -3252,6 +3252,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /isi-tracking.
 /istat.aspx?
 /ists.tag?
+/item-stats.
 /item/tracking/*
 /itgdtracksdk.
 /itmdp_code.
@@ -4564,6 +4565,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /scriptAnalytics.
 /script_log.
 /scripts.kissmetrics.com/*
+/scripts/analitics.
 /scripts/analytics.
 /scripts/analytics/*
 /scripts/analytics_
@@ -6139,6 +6141,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 ?type=pageview&
 @@.2o7.net/$domain=today.com
 @@.googleadservices.*.js$domain=ponominalu.ru
+@@/_sess/script.js$domain=naszemiasto.pl
 @@/adrum.js$domain=usbank.com
 @@/analyticsmediator.$script,domain=mysortimo.be|mysortimo.co.uk|mysortimo.com|mysortimo.com.au|mysortimo.de|mysortimo.dk|mysortimo.es|mysortimo.fr|mysortimo.no|mysortimo.se
 @@/build/js/analytics.$script,domain=lx.com|nbcbayarea.com|nbcboston.com|nbcchicago.com|nbcconnecticut.com|nbcdfw.com|nbclosangeles.com|nbcmiami.com|nbcnewyork.com|nbcphiladelphia.com|nbcsandiego.com|nbcwashington.com|necn.com|telemundo40.com|telemundo48elpaso.com|telemundoarizona.com|telemundolasvegas.com|telemundopr.com
@@ -6767,7 +6770,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||dailymail.co.uk/brightcove/tracking/ted3.js
 @@||darmstadt.ui-traffic.de/mobile/webapp/bower_components/heatmap.js$domain=darmstadt.ui-traffic.de
 @@||dashboard.unity3d.com/services/analytics/$~third-party
-@@||datadoghq-browser-agent.com/datadog-rum-us.js$script,domain=usa.experian.com
+@@||datadoghq-browser-agent.com/datadog-$script,domain=bbcgoodfood.com|usa.experian.com
 @@||dcinfos.abtasty.com/geolocAndWeather.php^$domain=tf1.fr
 @@||dcinside.com$cookie=_ga
 @@||ddmcdn.com^*/adobe.visitor-$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
@@ -6834,6 +6837,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||e.cquotient.com/recs/*?callback=$domain=karstadt.de
 @@||e.cquotient.com/recs/*?callback=$domain=sloggi.com
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
+@@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
 @@||easypari.fr^*/sitestat.js
 @@||easyship.com/api/v1/track/$xmlhttprequest,domain=trackmyshipment.co
 @@||eatsmarter.de^*/webtrekk.js
@@ -6863,6 +6867,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||embeddedanalytics.com/updateeakpi.html$domain=brocardi.it
 @@||emerald.omeda.com/npdn/custsrv_login.do
 @@||energy.de^*/ivw.js?$domain=energy.de
+@@||engelhorn.de^$cookie=dwsid
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/Bootstrap.js$domain=williamhill.it
 @@||ensighten.com^*/code/$script
@@ -8350,7 +8355,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||stock.skoda.be/assets/scripts/analytics/$script,~third-party
 @@||stomp.com.sg/xtcore.js
 @@||storage.embluemail.com/pixeltracking^$domain=lavoz.com.ar
-@@||store-jp.nintendo.com^$cookie=dwsid
+@@||store-jp.nintendo.com^$cookie
 @@||store.usps.com/media/js/metrics/metrics.js
 @@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
 @@||stroeerdigitalgroup.de/metatag/live/bauer-autozeitung/metaTag.min.js$domain=autozeitung.de
@@ -15375,6 +15380,7 @@ znak.com##.relap
 ||cnt.ramlife.ru^
 ||cnt.rate.ru^
 ||cnt.re/cnt/$third-party
+||cnt.trvdp.com^
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
 ||cnt.wetteronline.de/cgi-bin/ivw/CP/
@@ -27587,6 +27593,7 @@ znak.com##.relap
 ||oevery.com^$third-party
 ||oewabox.at^$third-party
 ||offer-station.com^
+||offer.slgnt.eu^
 ||offermatica.com^$third-party
 ||offerpoint.net^$third-party
 ||offerreality.com^$third-party
@@ -36144,6 +36151,7 @@ znak.com##.relap
 ||tags.newscgp.com^
 ||tags.op-palvelut.fi^
 ||tags.refinery89.com^
+||tags.remixd.com^
 ||tags.soloway.ru^$third-party
 ||tags.tagcade.com/*/tagcade.js^
 ||tags.tiqcdn.com/utag/*/prod/utag.js$domain=radissonhotels.com|post.ch|usnews.com|yemeksepeti.com|krymr.com
