@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202070826
+! Version: 202202071627
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40823
+! Lenth = 40821
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -154,7 +154,6 @@ $cookie=disqus_unique
 $cookie=dst
 $cookie=dtCookie
 $cookie=dtPC
-$cookie=dwsid
 $cookie=etuix
 $cookie=ev_sid,domain=ideal.es|elcorreo.com
 $cookie=everest_g_v2
@@ -6270,7 +6269,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||akamaized.net^*/resource/assets/$xmlhttprequest,domain=funplusgame.com
 @@||akamaized.net^*/tracking/ninja.js$domain=olx.pl
 @@||akc.blueconic.net^$domain=akc.org
-@@||akg.com^$cookie=dwsid
 @@||alfadirect.ru/api/analytics/latest?$~third-party,xmlhttprequest
 @@||aliunicorn.com^*/click_stat/
 @@||alkosto.cdn.adglare.net^$image,xmlhttprequest,domain=alkosto.com|ktronix.com
@@ -6867,7 +6865,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||embeddedanalytics.com/updateeakpi.html$domain=brocardi.it
 @@||emerald.omeda.com/npdn/custsrv_login.do
 @@||energy.de^*/ivw.js?$domain=energy.de
-@@||engelhorn.de^$cookie=dwsid
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/Bootstrap.js$domain=williamhill.it
 @@||ensighten.com^*/code/$script
@@ -7917,6 +7914,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||o-uccino.jp/api/v2/collector?$xmlhttprequest,domain=o-uccino.com
 @@||o2.de/resource/js/tracking/ntpagetag.js
 @@||oakley.com^*/tealium.js$~third-party
+@@||ocdn.eu/ucs/static/*/onesignal.js$script,domain=pulsonline.rs
 @@||oceanstatejoblot.com^*/widget/osjl-google-analytics/$script,~third-party
 @@||odb.outbrain.com^$domain=nypost.com
 @@||odcdn.com^*/cm.js
@@ -7984,7 +7982,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||pastebin.com/etc/geo.php?
 @@||pataks.pl/core,_assets$script,~third-party
 @@||patrick-wied.at/static/heatmapjs/src/heatmap.js
-@@||paulaschoice.com^$cookie=dwsid
 @@||paypal.com/xoplatform/logger/api/logger$domain=play.leagueofkingdoms.com
 @@||paypalobjects.com/*/pageView.js$script,domain=paypal.com
 @@||paypalobjects.com/web/*/gAnalytics.js$script,domain=paypal.com
@@ -7993,7 +7990,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||pdrnetwork.112.2o7.net/b/ss/pdrnetworkpdrnetprod/
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
 @@||personaclick.com^$domain=skechers.com.tr
-@@||petsmart.ca^$cookie=dwsid
 @@||picsearch.com/js/comscore.js$domain=dn.se
 @@||pillsbury.com/Shared/StarterKit/Javascript/UnicaTag.js
 @@||pillsbury.com/Shared/StarterKit/Javascript/ntpagetag.js
@@ -15586,6 +15582,7 @@ znak.com##.relap
 ||commanslabdpp.carte-gr.total.fr^
 ||commanslabdspace.carte-gr.total.fr^
 ||commercial.davey.com^
+||common.doosanmagazine.com/js/eLogs.js$domain=allurekorea.com
 ||common.duapps.com/appLock/getConf?tk*&vendor=
 ||commonalmanac.com^
 ||commonalmanac.com^$third-party
@@ -26344,6 +26341,7 @@ znak.com##.relap
 ||mgz.com.ua/counter.php?
 ||mha.fi/simple.gif?
 ||mhauev.glasses.com^
+||mhealth.ru/_stat/log/
 ||mhevent.segye.com/mbi/pvcount
 ||mhidwg.elgiganten.se^
 ||mhmetr.billabongstore.jp^
