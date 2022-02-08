@@ -1,5 +1,5 @@
 [Hacamer's Privacy List]
-! Version: 202202071627
+! Version: 202202080120
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
