@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202080800
+! Version: 202202081618
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39257
+! Lenth = 39269
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -693,6 +693,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /ArticleViewTracking/*
 /AssyncCSStats.aspx
 /AutoTracker.js
+/Avada-Child-Theme/js/GA.*js$domain=allurekorea.com|vogue.co.kr
 /BALinkImpressionTracking/*
 /BKVTrack.js
 /BehaviourCaptureHandler.
@@ -6371,6 +6372,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||apple.com/metrics/scripts/$domain=locate.apple.com
 @@||applet.polfan.pl/vendor/fingerprint2.min.js$script,domain=applet.polfan.pl
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
+@@||appspot.com/event/$xmlhttprequest,domain=crab.fit
 @@||appspot.com/static/js/tracker/$script,domain=bugs.avm99963.com
 @@||ara.cat/static/BB3Core/images/pixel.gif?hash=$image,domain=ara.cat
 @@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
@@ -6809,7 +6811,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 @@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
 @@||docs.amplify.aws^*/platform/js/autotrack.json$~third-party
-@@||docs.google.com/document/
+@@||docs.google.com/*/viewdata$~third-party
 @@||dominos.com^*/assets/build/js/modules/dpz.tealium.js$script
 @@||doortodoor.co.kr/jsp/cmn/Tracking.jsp^
 @@||doubleclick.net/activityi;src=$domain=cicispizza.com
@@ -12656,6 +12658,8 @@ znak.com##.relap
 ||assets-r-dw-1.net.daraz.com^
 ||assets-r-oa-1.net.daraz.com^
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|gittigidiyor.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com
+||assets.adsttc.com/insights/form-funnel.min.js
+||assets.adsttc.com/insights/tracker.js
 ||assets.bbystatic.com/analytics-dotcom/
 ||assets.garron.blog^
 ||assets.garron.me^
@@ -12874,6 +12878,7 @@ znak.com##.relap
 ||automaticside.com^$third-party
 ||automobile.it/fb/
 ||automotivecom.hb.omtrdc.net^
+||autonews.ru/redir/stat/
 ||autoretro.com.ua/smtop/
 ||autoscout24.de/ArticleList/CustomLogging
 ||autoscout24.net/unifiedtracking/analytics.js
@@ -13330,6 +13335,7 @@ znak.com##.relap
 ||becanium.com^
 ||bedbug.bragi.com^
 ||bedsberry.com^
+||bedsberry.com^$third-party
 ||bee.andreawhitmer.com^
 ||bee.nfte.app^
 ||beeftransmission.com^$third-party
@@ -15440,6 +15446,7 @@ znak.com##.relap
 ||commanslabdspace.carte-gr.total.fr^
 ||commercial.davey.com^
 ||common.doosanmagazine.com/js/eLogs.js$domain=allurekorea.com
+||common.doosanmagazine.com/reciveLogs.php
 ||common.duapps.com/appLock/getConf?tk*&vendor=
 ||commonalmanac.com^
 ||commonalmanac.com^$third-party
@@ -29390,6 +29397,8 @@ znak.com##.relap
 ||s.pixfs.net/visitor.pixplug.in/
 ||s.qhupdate.com^
 ||s.rbk.ru/*/browser-updater/main.js
+||s.rbk.ru/*_autonews_static/autonews-*/scripts/build/_gt-targeting.js
+||s.rbk.ru/*_rbcmetrika_static/*/build/_core.js
 ||s.renren.com^
 ||s.rosettastone.com^
 ||s.rosettastone.eu^
@@ -33030,6 +33039,9 @@ znak.com##.relap
 ||st.top100.ru^$third-party
 ||st.upmc.com^
 ||st.wagen-eins.de^
+||st.work.ua/js/banners/global-counter-min_*.js
+||st.work.ua/js/send_stat-min_*.js
+||st.work.ua/js/site_counters-min_*.js
 ||st1.lg.avendrealouer.fr^
 ||st2.jamesdaniel.dev^
 ||sta.tracedock.com^
@@ -34582,7 +34594,6 @@ znak.com##.relap
 ||t.oned.io/onedio-visit.img?_t=
 ||t.owlsports.com^
 ||t.paydirekt.de^
-||t.paypal.com^
 ||t.paypal.com^$image
 ||t.perigold.com^
 ||t.playhousesquare.org^
@@ -38241,6 +38252,7 @@ znak.com##.relap
 ||wordc.ga^
 ||wordkeyhelper.com^$third-party
 ||wordpress.com/geo/
+||work.ua/analytics/view-page/
 ||workableachiever.com^
 ||workableachiever.com^$third-party
 ||workers.dev/api/event
