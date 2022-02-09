@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202090837
+! Version: 202202091659
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39270
+! Lenth = 39284
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1344,7 +1344,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /analytics.google.js
 /analytics.html?
 /analytics.init.js
-/analytics.js$domain=bataryapil.com|journey.com.tr|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|partifabrik.com|newsmax.com|bolgehastanesi.com
+/analytics.js$domain=bataryapil.com|journey.com.tr|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|partifabrik.com|newsmax.com|bolgehastanesi.com|ewtc.de
 /analytics.js.gz
 /analytics.js/v1/*
 /analytics.js?
@@ -6442,7 +6442,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||bettycrocker.com/Shared/Javascript/ntpagetag.js
 @@||bgp.he.net/images/flags/*.gif?$image,~third-party
 @@||bhg.com/web/js-min/common/js/dwr/RemoteTargetingService.js
-@@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$script,domain=n-tv.de
+@@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de
 @@||billiger.de/js/emos2.js
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
 @@||blackcircles.ca^*/gtm.js$~third-party
@@ -7623,8 +7623,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipcheck.tmgrup.com.tr/ipcheck/get$domain=atv.com.tr
 @@||ipcheck.tmgrup.com.tr/ipcheck/get$domain=sabah.com.tr
-@@||ipcheck.tmgrup.com.tr/ipcheck/getcountry?json=$xmlhttprequest,domain=ahaber.com.tr
-@@||ipcheck.tmgrup.com.tr/ipcheck/getcountry?json=$xmlhttprequest,domain=aspor.com.tr
+@@||ipcheck.tmgrup.com.tr/ipcheck/get*?json=$xmlhttprequest,domain=ahaber.com.tr
+@@||ipcheck.tmgrup.com.tr/ipcheck/get*?json=$xmlhttprequest,domain=aspor.com.tr
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||itv.1tv.ru/stat.php?
 @@||itworld.com/elqnow/elq*.js
@@ -8451,6 +8451,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||tm.jsuol.com.br/uoltm.js$script,domain=uol.com.br
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
 @@||tns-counter.ru/tcounter.js$domain=forbes.ru
+@@||toggo.de/static/js/sourcepoint.js$domain=toggo.de
 @@||tools.usps.com/go/scripts/tracking.js
 @@||top.list.ru/counter?id=$domain=crimea-kurort.com
 @@||top.list.ru/jump?from=$domain=pvo.guns.ru
@@ -12171,6 +12172,7 @@ znak.com##.relap
 ||api.bit.ly/*/clicks?$third-party
 ||api.blink.net/a/
 ||api.branch.io^
+||api.bunjang.co.kr/api/log/
 ||api.bunzlaucastle.com^
 ||api.calq.io^$third-party
 ||api.carrottrack.io^$third-party
@@ -14543,6 +14545,10 @@ znak.com##.relap
 ||celebrus.com^$third-party
 ||celigo.actonservice.com^
 ||cellstats.mako.co.il^
+||cengage.com/services/cubby/bff/analytics
+||cengage.info/v1/activity
+||cengage.info/v1/profile
+||cengage.info/v2/resource-interactions
 ||census.misterspex.at^
 ||census.misterspex.ch^
 ||census.misterspex.co.uk^
@@ -19417,6 +19423,7 @@ znak.com##.relap
 ||fp84rw0jinz7.blanc.ru^
 ||fpa-cdn.arstechnica.com^
 ||fpa-events.decrypt.co^
+||fpaux.net^
 ||fpb8.esce.fr^
 ||fpc.acponline.org^
 ||fpc.attcenter.com^
@@ -21536,6 +21543,7 @@ znak.com##.relap
 ||info.natlenvtrainers.com^
 ||info.ncoi.nl^
 ||info.neg.co.jp^
+||info.neg.co.jp^$badfilter
 ||info.neosllc.com^
 ||info.netec.com^
 ||info.newcomp.com^
@@ -23416,6 +23424,7 @@ znak.com##.relap
 ||lp.solaredge.com^
 ||lp.sophos.com^
 ||lp.tfd-corp.co.jp^
+||lp.tfd-corp.co.jp^$badfilter
 ||lp3.dentsplysirona.com^
 ||lp3tdqle.com^
 ||lp3tdqle.com^$third-party
@@ -23437,6 +23446,7 @@ znak.com##.relap
 ||lporirxe.com^$third-party
 ||lps-info.arval.com^
 ||lps.qantas.com^
+||lpx.qantas.com^
 ||lpzxed.em.com.br^
 ||lqdeyv.thepopcornfactory.com^
 ||lqfesm.stirpe.co^
@@ -33054,6 +33064,7 @@ znak.com##.relap
 ||stadtbibliothek-rostock.de/weblication/grid5/gui/scripts/wClickLogger.js
 ||stadvtools.akamaized.net/trackingservice/
 ||staff-start.com/js/track
+||staff-start.com/js/track/
 ||stagezomation.carte-gr.total.fr^
 ||stags.bluekai.com^
 ||stainlesssteel.ru/counter.php?
@@ -34731,6 +34742,7 @@ znak.com##.relap
 ||tags.globo.com^
 ||tags.johnlewis.com^
 ||tags.master-perf-tools.com^
+||tags.news.com.au^
 ||tags.news.com.au^$script
 ||tags.news.com.au^$~script
 ||tags.newscgp.com^
@@ -37264,6 +37276,7 @@ znak.com##.relap
 ||usedexample.com^
 ||usedexample.com^$third-party
 ||useg.nextdigital.com.hk^
+||useinsider.com^$domain=francfranc.com
 ||useinsider.com^$third-party
 ||useitbetter.com^$third-party
 ||usemaxserver.de^$third-party
@@ -37928,6 +37941,7 @@ znak.com##.relap
 ||webapi.tresorit.com/*/weblogformdata/
 ||webapp-middleware.21buttons.com/event_log/
 ||webassembly.stream^$third-party
+||webassign.net/services/cubby/bff/analytics
 ||webbc.fivecdm.com^
 ||webbificio.com/add.asp?
 ||webbificio.com/wm.asp?
