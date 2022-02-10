@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202100101
+! Version: 202202100814
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39284
+! Lenth = 39285
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8213,6 +8213,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
 @@||secure.logmein.com/scripts/Tracking/Tracking.js$domain=logmein.com
 @@||securemetrics.apple.com/b/ss/$image
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@||seewhy.com^$domain=nixon.com
 @@||segment-data.zqtk.net^$domain=wsj.com
 @@||segmentify.com//*/events/v1.json?apiKey=$domain=flo.com.tr
