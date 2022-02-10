@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202100814
+! Version: 202202101648
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39285
+! Lenth = 39289
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6186,6 +6186,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||2o7.net^$domain=audiusa.com
 @@||360buyimg.com/item/unite/$script,domain=item.jd.com
 @@||360buyimg.com^*/components/default/$script,domain=jd.com
+@@||3voor12.vpro.nl^*/streamsense.min.js$~third-party
 @@||77.91.202.130/js/20050/xiti.js$domain=custojusto.pt
 @@||79423.analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
 @@||79423.analytics.edgekey.net^|
@@ -11481,7 +11482,7 @@ znak.com##.relap
 ||analytics-cms.whitebeard.me/js/
 ||analytics-cms.whitebeard.me^
 ||analytics-csr11.net.daraz.com^
-||analytics-egain.com^$third-party
+||analytics-egain.com/tracker?
 ||analytics-engine.net^$third-party
 ||analytics-events.inshorts.com^
 ||analytics-gw.games.wanmei.com^
@@ -19812,6 +19813,7 @@ znak.com##.relap
 ||genesishealth.hrm.healthgrades.com^
 ||geni.us/snippet.js
 ||geni.us/snippet.min.js
+||genieedmp.com^
 ||genieedmp.com^$third-party
 ||genieessp.jp^$third-party
 ||genieesspv.jp^$third-party
@@ -20456,6 +20458,7 @@ znak.com##.relap
 ||gsimedia.net^$third-party
 ||gsmatch.edm.globalsources.com^
 ||gsp1.baidu.com^
+||gsspat.jp^
 ||gsspat.jp^$third-party
 ||gsspcln.jp^$third-party
 ||gssprt.jp^$third-party
@@ -25557,6 +25560,7 @@ znak.com##.relap
 ||mjfunt.bibi.com^
 ||mjnpya.marktplaats.nl^
 ||mjsnvi.extraspace.com^
+||mjt.lu/*/e.gif
 ||mkcms.com/stats.js
 ||mklik.gazeta.pl^
 ||mkmree.dmm.co.jp^
