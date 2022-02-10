@@ -1,5 +1,5 @@
 [Hacamer's Privacy List]
-! Version: 202202091659
+! Version: 202202100101
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -585,7 +585,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 .stats?action=
 .substack.com/o/$image
 .svc/?tracking_id=
-.tealium.$domain=~tealium.com
+.tealium.$domain=~tealium.co.jp|~tealium.com
 .theatlantic.com/email.gif?
 .titus.de/oo/$image
 .tns-counter.ru/v13a
@@ -28580,7 +28580,7 @@ znak.com##.relap
 ||quelle.de/servlet/LandmarkServlet?clientId=
 ||questintegrity.actonservice.com^
 ||questionpro.com^$third-party
-||questionpro.com^$third-party,domain=~questionpro.com.au
+||questionpro.com^$third-party,domain=~questionpro.com.au|~questionpro.eu
 ||questions.theanswerco.com^
 ||questradeaffiliates.com^$third-party
 ||quibids.com/marketing/pixels/
