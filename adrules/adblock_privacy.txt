@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202110822
+! Version: 202202111615
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39290
+! Lenth = 39291
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6682,6 +6682,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cm-widget.nakanohito.jp/img/$image
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cmoney.tw/follow/js/google_analytics.js
+@@||cms.gentwo.com/pulses/$~third-party,xmlhttprequest
 @@||cnet.com/*/video-player/*/lib/tracking/comscore/comscore.streaming.*.min.js
 @@||cnet.com/a/video-player/uvpjs-rv/$script,~third-party
 @@||cntcerber.rambler.ru/counter.js$domain=id.rambler.ru
@@ -21673,6 +21674,7 @@ znak.com##.relap
 ||infox.sg^$third-party
 ||infranken.de/_fWS/json/Statistic
 ||infranken.de/fileadmin/scripts/tracking
+||infusionsoft.com/app/webTracking/getTrackingCode?
 ||infusionsoft.com^*/getTrackingCode?
 ||ing.com.tr/assets/scripts/dataroid.websdk-
 ||ingage.tech^$third-party
@@ -24608,6 +24610,7 @@ znak.com##.relap
 ||metakeyproducer.com^
 ||metalyzer.com^$third-party
 ||metaprom.ru/top100/counter.php
+||metcon.hulu.com^
 ||meteorsolutions.com^$third-party
 ||meter-svc.nytimes.com^
 ||meter.bref.sh^
@@ -37677,7 +37680,6 @@ znak.com##.relap
 ||vortex.data.microsoft.com/collect
 ||vortex.data.microsoft.com^
 ||vortex.data.msn.com^
-||vortex.hulu.com/*/events|
 ||vortex.hulu.com^
 ||votetoda.com^$third-party
 ||votistics.com^$third-party
@@ -38165,7 +38167,6 @@ znak.com##.relap
 ||whosread.com/counter/
 ||whrsen.itemmania.com^
 ||why3.inseec.education^
-||widebundle.com^$third-party
 ||widerplanet.com^$third-party
 ||widgeo.net/compteur.php?
 ||widgeo.net/geocompteur/
