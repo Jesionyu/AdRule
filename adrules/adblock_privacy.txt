@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202101648
+! Version: 202202110122
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39289
+! Lenth = 39290
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -528,6 +528,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 .net/t.gif?
 .net/trck/
 .net/vtrack|
+.netcologne.de/-open2/$image
 .ntpagetag.
 .nz/t.gif?
 .oculus.com/collect/
@@ -9162,6 +9163,7 @@ znak.com##.relap
 ||149.13.65.144^$third-party
 ||15-www.partner.net.daraz.com^
 ||15gifts.com^$third-party
+||15min.lt/cached/tgif$~third-party
 ||15partner.net.daraz.com^
 ||16-marketing.net.daraz.com^
 ||16-partner.net.daraz.com^
@@ -34753,7 +34755,6 @@ znak.com##.relap
 ||tags.newscgp.com^
 ||tags.op-palvelut.fi^
 ||tags.refinery89.com^
-||tags.remixd.com^
 ||tags.soloway.ru^$third-party
 ||tags.tagcade.com/*/tagcade.js^
 ||tags.tiqcdn.com/utag/*/prod/utag.js$domain=radissonhotels.com|post.ch|usnews.com|yemeksepeti.com|krymr.com
