@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202121642
+! Version: 202202130106
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39292
+! Lenth = 39304
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6382,6 +6382,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||argep.hu/googleanalytics.js
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
 @@||arte.tv^*/xtcore.js
+@@||as.uncn.jp/uwt/$script,domain=www3.nissan.co.jp
 @@||asadcdn.com/adlib/pages/sport1.js$domain=sport1.de
 @@||asset.pagefair.com/measure.min.js$domain=www.gamespot.com
 @@||assets.adobedtm.com/*-source.min.js$domain=samsung.com
@@ -6423,6 +6424,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||b.scorecardresearch.com/r$domain=macworld.com|elmundo.es|pcworld.com|seattletimes.com|ancestry.com|ancestry.co.uk|ancestry.ca|ancestry.de|ancestry.it|ancestry.fr|ancestry.se|ancestry.mx
 @@||b.scorecardresearch.com/r$domain=techhive.com
 @@||b.scorecardresearch.com/r?$domain=bedfordshire-news.co.uk
+@@||b90.yahoo.co.jp/conv.js$domain=www3.nissan.co.jp
+@@||b92.yahoo.co.jp/js/s_retargeting.js$domain=www3.nissan.co.jp
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||bam.nr-data.net^$script,domain=play.spotify.com
 @@||bancosantander.es/pagos-inmediatos/common/js/modules/tealium.js$~third-party
@@ -7275,7 +7278,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|easternbank.com|fortune.com|kedronparkhotel.com.au|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=amd.com
 @@||googletagmanager.com/gtm.js$domain=anond.hatelabo.jp
@@ -7451,6 +7454,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=wibc.com
 @@||googletagmanager.com/gtm.js$domain=wikium.ru
 @@||googletagmanager.com/gtm.js$domain=wutangclan.net
+@@||googletagmanager.com/gtm.js$domain=www3.nissan.co.jp
 @@||googletagmanager.com/gtm.js$domain=xn--80adinvscgek9d.xn--p1ai
 @@||googletagmanager.com/gtm.js$domain=ymobile.jp
 @@||googletagmanager.com/gtm.js$domain=youfoodz.com
@@ -7646,6 +7650,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||jolie.de/sites/default/files/google_tag/google_tag_manager/google_tag.script.js
 @@||js-agent.newrelic.com/nr-*.min.js$domain=copy.com
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js.adsrvr.org/up_loader.$script,domain=www3.nissan.co.jp
 @@||js.agkn.com/prod/v0/tag.js$domain=netd.com
 @@||js.appboycdn.com/web-sdk/*/appboy.min.js$domain=equinox.com
 @@||js.appboycdn.com/web-sdk/*/appboy.min.js$domain=learning.edx.org
@@ -8218,6 +8223,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||secure.logmein.com/scripts/Tracking/Tracking.js$domain=logmein.com
 @@||securemetrics.apple.com/b/ss/$image
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=avclub.com|clickhole.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|lifehacker.com|splinternews.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freundin.de
 @@||seewhy.com^$domain=nixon.com
 @@||segment-data.zqtk.net^$domain=wsj.com
 @@||segmentify.com//*/events/v1.json?apiKey=$domain=flo.com.tr
@@ -8656,6 +8662,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||yimg.com/mi/eu/ywa.js$domain=immowelt.de
 @@||yimg.com/ss/rapid-3.7.js$domain=deals.yahoo.com
 @@||yimg.com^*/ywa.js$domain=nydailynews.com|travelscream.com|yahoo.com
+@@||yimg.jp/images/listing/tool/cv/$script,domain=www3.nissan.co.jp
 @@||ynet.co.il/Common/App/Video/Gemius/gstream.js
 @@||ynetnews.com/Common/App/Video/Gemius/gstream.js
 @@||yottaa.com/rapid.min.js$script,domain=wineenthusiast.com
@@ -12623,6 +12630,7 @@ znak.com##.relap
 ||as.stylebook.de^
 ||as.techbook.de^
 ||as.travelbook.de^
+||as.uncn.jp/uwt/$script,redirect=noopjs,domain=nissan.co.jp,important
 ||as.welt.de^
 ||as.yomonda.de^
 ||asadcdn.com/bt^
@@ -13071,7 +13079,9 @@ znak.com##.relap
 ||b6ft.zone-turf.fr^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b8cdn.com^*/analytics.js
+||b90.yahoo.co.jp/conv.js$script,redirect=noopjs,domain=nissan.co.jp,important
 ||b90.yahoo.co.jp^
+||b92.yahoo.co.jp/js/s_retargeting.js$script,redirect=noopjs,domain=nissan.co.jp,important
 ||b92.yahoo.co.jp^
 ||b94.yahoo.co.jp^
 ||b97.yahoo.co.jp^
@@ -22166,6 +22176,7 @@ znak.com##.relap
 ||js-agent.newrelic.com^
 ||js-agent.newrelic.com^$domain=chaturbate.com,redirect=nooptext,important
 ||js-webt-lol.9cache.com/piwik
+||js.adsrvr.org/up_loader.$script,redirect=noopjs,domain=nissan.co.jp,important
 ||js.hsadspixel.net^$third-party
 ||js.kuwo.cn/stat/
 ||js.letvcdn.com/js/*/stats/
@@ -39028,6 +39039,7 @@ znak.com##.relap
 ||yimg.com/cx/vzm/cs.js
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
+||yimg.jp/images/listing/tool/cv/$script,redirect=noopjs,domain=nissan.co.jp,important
 ||yjtag.jp^$third-party
 ||yjtag.yahoo.co.jp^
 ||yjxssk.apartments.com^
