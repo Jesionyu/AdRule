@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202130828
+! Version: 202202131636
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39306
+! Lenth = 39310
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -20392,6 +20392,7 @@ znak.com##.relap
 ||gowatchit.com^*/tracking/
 ||gowhiteowl.actonservice.com^
 ||gp.oddo-bhf.com^
+||gplinks.co/auth/ads_stats_controller.php
 ||gpr.hu/pr.pr?
 ||gpr.hu^$third-party
 ||gq.com^$cookie=/^CN_/
@@ -26002,6 +26003,7 @@ znak.com##.relap
 ||mymed.su/counter/
 ||mymetal.ru/counter/
 ||mynewcounter.com^$third-party
+||mynewsmedia.co/*/linkpage/ads_stats_controller.php
 ||mynsystems.com^$third-party
 ||myntelligence.com^$third-party
 ||myomnistar.com^$third-party
@@ -30602,6 +30604,7 @@ znak.com##.relap
 ||shopeemobile.com/ph/tr
 ||shopify.com/*/page?*&eventType=
 ||shopify.com/s/javascripts/tricorder/$script
+||shopify.com/shopifycloud/media-analytics/
 ||shopifycloud.com/v1/event.gif
 ||shopimind.com^$third-party
 ||shoplocal.com/it.ashx?
@@ -34043,6 +34046,7 @@ znak.com##.relap
 ||stc.store.page.zaloapp.com^
 ||stcollection.moneysupermarket.com^
 ||stcounter.com^$third-party
+||std-lab.jp/js/analytics.js.php
 ||std.o.webmd.com^
 ||steadfastseat.com^
 ||steadfastsound.com^$third-party
