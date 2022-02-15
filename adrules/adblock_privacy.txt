@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202150836
+! Version: 202202151635
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39697
+! Lenth = 39700
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -29277,6 +29277,7 @@ znak.com##.relap
 ||rtve.d1.hb.omtrdc.net^
 ||rtve.hb.omtrdc.net^
 ||rtxpx-a.akamaihd.net^
+||rtxpx-a.akamaihd.net^$third-party
 ||ru-mi.com/*/ee_tracking.js
 ||ru.net^$third-party
 ||ru4.com^$third-party
@@ -33519,6 +33520,7 @@ znak.com##.relap
 ||stathound.com^$third-party
 ||static-*.plista.com/async.js$third-party
 ||static-ads.zaloapp.com^
+||static-cdn.tinkoffjournal.ru/js/analytics.*.js
 ||static-cf.afreecatv.com/asset/service/common/common_analysis.js
 ||static-cl.xhcdn.com/js/track.min.js
 ||static-fra.de^*/targeting.js
@@ -35137,6 +35139,7 @@ znak.com##.relap
 ||tcimg.com^$third-party
 ||tck.photobox.com^
 ||tck.transavia.com^
+||tcloudbase.com/access?
 ||tctm.co^$third-party
 ||tczulp.econea.cz^
 ||td.ecomms.originenergy.com.au^
