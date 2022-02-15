@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202150153
+! Version: 202202150836
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39692
+! Lenth = 39697
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -5380,6 +5380,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /tracking/adobe.js
 /tracking/adobe/*
 /tracking/ads.
+/tracking/airdog
 /tracking/analytics/*
 /tracking/article.
 /tracking/article/*
@@ -5407,6 +5408,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /tracking/impression
 /tracking/index.
 /tracking/ipify
+/tracking/jitney/*
 /tracking/json2.
 /tracking/log.php?
 /tracking/log?
@@ -8502,6 +8504,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||turkcelltvplus.com.tr^*/google_analytics/main.js?
 @@||turner.com/cnn/*/video/chartbeat.js$domain=cnn.com
 @@||tv5.org/cms/javascript/*/sitestat.js
+@@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 @@||tvhayz.org/playergk/fingerprint2.min.js
 @@||tvid.in/sdk/loader.js$domain=indiatimes.com|timesofindia.com|timesnownews.com|zoomtventertainment.com
 @@||tvid.in/sdk/loader.js$domain=tvid.in
@@ -8704,6 +8707,7 @@ _chartbeat.js
 _effectLog-
 _event_tracking-
 _event_tracking.
+_event_tracking?
 _ga-events_
 _gaTrack.js
 _ga_code.
@@ -14170,6 +14174,7 @@ znak.com##.relap
 ||cache2.delvenetworks.com^
 ||caclick.baidu.com^
 ||cactusglobal.io^$third-party
+||cactusmedia.com^$third-party
 ||cadreon.com^$third-party
 ||cafe-log.myshoplus.com^
 ||cafe24.com/cfa.js
