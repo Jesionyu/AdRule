@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202151635
+! Version: 202202160121
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39700
+! Lenth = 39703
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -11952,6 +11952,7 @@ znak.com##.relap
 ||analytics.winter.ink^
 ||analytics.witglobal.net^
 ||analytics.wittypen.com^
+||analytics.wondershare.cc^
 ||analytics.worldtable.co^
 ||analytics.wpsermons.com^
 ||analytics.xyscdn.com^
@@ -22974,6 +22975,7 @@ znak.com##.relap
 ||linkedin.com/emimp/
 ||linkedin.com/li/track^
 ||linkedin.com/litms/utag/
+||linkedin.com/pixel/
 ||linkedin.com/platform-telemetry/
 ||linkedin.com/sensorCollect/
 ||linkedin.com/sensorCollect/?action=
@@ -23272,6 +23274,7 @@ znak.com##.relap
 ||log.mix.sina.com.cn^
 ||log.mmstat.com^
 ||log.musical.ly^
+||log.newsbreak.jp^
 ||log.newsvine.com^
 ||log.nordot.jp^$xmlhttprequest
 ||log.nordot.jp^$~script
