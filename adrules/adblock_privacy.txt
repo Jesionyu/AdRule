@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202160814
+! Version: 202202161643
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39703
+! Lenth = 39701
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6986,7 +6986,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ghstatic.com/images/site/zylom/scripts/google-analytics.js?$domain=zylom.com
 @@||giga.de/wp-content/plugins/econa-stats/log/video-views/log.php?id=
 @@||gigabyte.*^$cookie=/^_ga_/
-@@||github.com/carlomorgenstern/piwik-angular/$domain=github.com
 @@||gjensidige.lv/Content/dev/scripts/analytics.js
 @@||gjensidige.lv/Content/dev/scripts/analytics.min.js
 @@||glenat.com^*/static/analytics.js$script,~third-party
@@ -13632,7 +13631,7 @@ znak.com##.relap
 ||blog-webkatalog.de^$third-party
 ||blog.csr12.net.zooplus.de^
 ||blog.net.zooplus.it^
-||blog.skk.moe/_next/static/manifest$xmlhttprequest
+||blog.skk.moe/_nuxt/static/manifest$xmlhttprequest
 ||blog.trinityconsultants.com^
 ||blog104.com^$third-party
 ||blogblog.com/tracker/
@@ -20613,7 +20612,6 @@ znak.com##.relap
 ||hcjpbc.okmagazine.com^
 ||hcjpbc.usmagazine.com^
 ||hd.pe.fr^
-||hdfilmcehennemi6.org/analytics/
 ||hdmtools.com^$third-party
 ||hdmz.co/site/user_geo
 ||hdnagl.womensecret.com^
