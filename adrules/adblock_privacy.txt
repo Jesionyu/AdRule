@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202170804
+! Version: 202202171605
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39703
+! Lenth = 39718
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -15,7 +15,6 @@
 ##amp-embed[type="taboola"]
 ##img[src*="counter.yadro.ru"]
 ##img[src^="http://c.bigmir.net/"]
-#%#//scriptlet('set-constant', 'Document.prototype.interestCohort', 'undefined')
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -498,8 +497,19 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 .js?referrer=
 .jsp/?Log=
 .keap-link003.com/$image
+.keap-link004.com/$image
+.keap-link005.com/$image
+.keap-link006.com/$image
+.keap-link007.com/$image
+.keap-link008.com/$image
+.keap-link009.com/$image
+.keap-link010.com/$image
 .keap-link011.com/$image
+.keap-link012.com/$image
+.keap-link013.com/$image
+.keap-link014.com/$image
 .keap-link015.com/$image
+.keap-link016.com/$image
 .kijiji.ca/r/
 .klclick.com/$image
 .list-manage.com/track/
@@ -6826,6 +6836,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||dpm.demdex.net/id?d_visid_ver=$domain=nbcdfw.com,important
 @@||dpm.zebestof.com/*/tag.js$domain=commentcamarche.net
 @@||dpm.zebestof.com/*/tag.js$domain=sante.journaldesfemmes.fr
+@@||drivetrain.ai/drive/api/v1/metrics/$~third-party
 @@||dropboxstatic.com/static/js/modules/clean/ux_analytics/$script,domain=dropbox.com
 @@||dsb.yahoo.co.jp/api/v1/stream$xmlhttprequest,domain=gyao.yahoo.co.jp
 @@||dtdc.in/tracking^
@@ -7845,6 +7856,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mparticle.com/js/v2/*/mparticle.js$script,domain=cnbc.com
 @@||mpsnare.iesnare.com/general5/wdp.js$domain=usbank.com
 @@||mpsnare.iesnare.com/snare.js$domain=citi.com|citibank.com|enmasse.com|login.skype.com|vitacost.com
+@@||mpsnare.iesnare.com/snare.js$domain=rossmann.de
 @@||mpsnare.iesnare.com/snare.js$script,domain=power.fi
 @@||mpsnare.iesnare.com/wu/snare.js$domain=westernunion.com
 @@||msecnd.net/scripts/jsll-$script,domain=forms.microsoft.com|office.com|sharepoint.com|teams.microsoft.com
@@ -8845,6 +8857,7 @@ ferra.ru##div[data-widget="plista_widget_webApp_mobile_nocss"]+div[class^="_"] >
 football-ukraine.com###reachMedia
 football-ukraine.com###shadowMedia
 fr.de##.bottom-footer > .dossier
+freecodecamp.org#%#//scriptlet("abort-current-inline-script", "Function", "b9kEBAW")
 go.rjmetrics.com$image
 go.toutapp.com$image
 guzei.com#@#img[width="88"][height="31"]
@@ -8943,6 +8956,7 @@ petyado.com##table[width="785"][height="30"]
 petyado.com##td[valign="top"][height="10"] > table[width="795"]
 pioneer.eu#%#//scriptlet('remove-attr', 'onclick', 'a[href][onclick^="trackOutboundLink"]')
 pizzakiosk.ee#@#img[width="88"][height="31"]
+politring.com##a[href="https://metrika.yandex.ru/"]
 polymail.io/v2/z$image
 popmech.ru#%#AG_onLoad(function() { window.POPMECH.increaseCounters = function() {} });
 portaltele.com.ua##.td-footer-template-9
@@ -35489,6 +35503,7 @@ znak.com##.relap
 ||titag.com^$third-party
 ||titan24.com/scripts/stats.js
 ||tivan.naver.com^
+||tj3rql9siwef.www.freecodecamp.org^
 ||tk.abt.com^
 ||tk.aircaraibes.com^
 ||tk.airfrance.ae^
