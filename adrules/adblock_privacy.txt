@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202171605
+! Version: 202202180130
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39718
+! Lenth = 39719
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6231,7 +6231,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||adidas.com^*/adidasAnalytics.js?
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
-@@||adobedtm.com/*-source.min.js$script,domain=atresplayer.com|backcountry.com|bt.com|dollargeneral.com|kroger.com|personal.natwest.com|verizon.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bt.com|dollargeneral.com|kroger.com|personal.natwest.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|kroger.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|foodnetwork.com|verizon.com
@@ -14050,7 +14050,6 @@ znak.com##.relap
 ||byjus.com/byjusweb/js/tracking-2.min.js
 ||bykwtf.victoriassecret.ae^
 ||byqdtp.interpark.com^
-||byside.com^$third-party
 ||bytedance.com/pixel/
 ||bytemgdd.com^$third-party
 ||byteoversea.com/captcha/report
@@ -15013,6 +15012,7 @@ znak.com##.relap
 ||clicksgate.com^$third-party
 ||clickshift.com^$third-party
 ||clickstream.co.za^$third-party
+||clickstream.cresendo.net^
 ||clickstream.grubhub.com/event.gif?event=
 ||clickstream.odysee.com^
 ||clicktale.net^$domain=focus.de
@@ -38326,6 +38326,7 @@ znak.com##.relap
 ||webbificio.com/add.asp?
 ||webbificio.com/wm.asp?
 ||webcamsbabe.com/js/s.js
+||webcare.byside.com^
 ||webclicktracker.com^$third-party
 ||webcompteur.com^$third-party
 ||webcounter.co.za^$third-party
