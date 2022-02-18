@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202180856
+! Version: 202202181606
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39721
+! Lenth = 39725
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -12310,6 +12310,7 @@ znak.com##.relap
 ||api.repository.net.zooplus.de^
 ||api.reproio.com^
 ||api.resetadmins.net.zooplus.de^
+||api.rollbar.com^$third-party
 ||api.rpcadmins.net.zooplus.de^
 ||api.rubic.com.tr^$third-party
 ||api.rudderlabs.com^$third-party
@@ -14550,6 +14551,7 @@ znak.com##.relap
 ||cdn.static-fra.de/*/tracking/
 ||cdn.taboola.com/libtrc/animeyttv/loader.js
 ||cdn.tebilisim.com/analytics.js
+||cdn.teleportapi.com^$third-party
 ||cdn.theoplayer.com/t?
 ||cdn.thunderhead.com/one/rt/js/one-tag.js
 ||cdn.ticimax.com/*/analytics.js
@@ -16360,6 +16362,7 @@ znak.com##.relap
 ||cuntador.com^$third-party
 ||curalate.com^$third-party
 ||curated.fieldtest.cc^
+||curiosity-seven.vercel.app^
 ||curiouschalk.com^
 ||curlycannon.com^
 ||currentcollar.com^
@@ -36277,6 +36280,7 @@ znak.com##.relap
 ||track.emeza.ch^
 ||track.emeza.com^
 ||track.engagesciences.com^
+||track.eurogirlsescort.com^
 ||track.express.de^
 ||track.ferrari.com^
 ||track.ferraridealers.com^
