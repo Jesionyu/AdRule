@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202181606
+! Version: 202202190155
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39725
+! Lenth = 39737
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -492,6 +492,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 .jp/b.gif?
 .jp/c.gif?
 .jp/pv?
+.jp/static/js/track.js
 .jp/urchin.js
 .js?referer=
 .js?referrer=
@@ -1721,6 +1722,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /beacon/event/*
 /beacon/event?
 /beacon/get/*
+/beacon/info?
 /beacon/init?
 /beacon/metrics
 /beacon/page?
@@ -6983,6 +6985,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||geoip-js.com/js/apis/geoip2/$script,domain=freshdesk.com|myvanillacard.com
 @@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=freshdesk.com|ibanez.com
 @@||geoloc.hurriyet.com.tr/api/country/$domain=hurriyet.com.tr
+@@||geolocation-db.com/jsonp$script,domain=parts.hp.com
 @@||geolocation.stroeerdp.de^$domain=t-online.de
 @@||geoplugin.net/javascript.gp$domain=aljazeera.net
 @@||geoplugin.net/javascript.gp$domain=uptime.community
@@ -16441,6 +16444,7 @@ znak.com##.relap
 ||d.aws.ns.emailvision.net.daraz.com^
 ||d.cdngeek.com^$domain=edugeek.net
 ||d.development.ns.emailvision.net.daraz.com^
+||d.email.forbes.com^
 ||d.finative.eu^
 ||d.getpocket.com^
 ||d.haberler.com^
@@ -16735,6 +16739,7 @@ znak.com##.relap
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.it^
+||data.digitalks.az^$third-party
 ||data.dreambaby.be^
 ||data.dreamland.be^
 ||data.econa.com^
@@ -27606,6 +27611,7 @@ znak.com##.relap
 ||pingjs.qq.com^
 ||pingma.qq.com/mstat/
 ||pingma.qq.com^
+||pingmeter.com^$third-party
 ||pingomatic.com^$third-party
 ||pings.conviva.com^
 ||pings.vidpulse.com^
@@ -34789,6 +34795,7 @@ znak.com##.relap
 ||t.10er-tagesticket.de^
 ||t.20-fahrten-bahn.de^
 ||t.451.io^
+||t.91syun.com^$third-party
 ||t.9gag.com^
 ||t.a3cloud.net^
 ||t.ac.pandora.com^
@@ -36224,6 +36231,7 @@ znak.com##.relap
 ||track-srv.vietnamnet.vn^
 ||track-web.net^$third-party
 ||track.*.roku.com^
+||track.91app.io^$third-party
 ||track.99acres.com^
 ||track.ad.nl^
 ||track.adabra.com^$third-party
@@ -36302,6 +36310,7 @@ znak.com##.relap
 ||track.lobi.co^
 ||track.mailerlite.com^
 ||track.miro.com^
+||track.mituo.cn^$third-party
 ||track.mobshark.net^
 ||track.mopo.de^
 ||track.mp3bars.com^$third-party
@@ -36312,6 +36321,7 @@ znak.com##.relap
 ||track.nifty.com^
 ||track.ning.com^
 ||track.noddus.com^
+||track.nopaperforms.com^$third-party
 ||track.notsy.io^$third-party
 ||track.noz.de^
 ||track.nzz.ch^
@@ -36356,6 +36366,7 @@ znak.com##.relap
 ||track.spothero.com^
 ||track.spots.im^
 ||track.sprinklecontent.com^
+||track.stat.pet^$third-party
 ||track.strife.com^
 ||track.sunmedia.tv^
 ||track.tagesanzeiger.ch/cre*/static/tracking^
@@ -36960,6 +36971,7 @@ znak.com##.relap
 ||trackset.com^$third-party
 ||trackset.it^$third-party
 ||trackside.redbull.racing^
+||tracksmart.se^$third-party
 ||tracksrv.zdf.de^
 ||tracksy.com^$third-party
 ||tracktrk.net^$third-party
