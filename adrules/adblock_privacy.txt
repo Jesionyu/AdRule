@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202190845
+! Version: 202202191616
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39737
+! Lenth = 39748
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -9622,6 +9622,7 @@ znak.com##.relap
 ||a19537.actonservice.com^
 ||a19609.actonservice.com^
 ||a19612.actonservice.com^
+||a1webstrategy.com^$third-party
 ||a2.avomeen.com^
 ||a22037.actonservice.com^
 ||a22368.actonservice.com^
@@ -18923,6 +18924,7 @@ znak.com##.relap
 ||eymiwj.cancan.ro^
 ||eyzubm.gooutdoors.co.uk^
 ||ezakus.net^$third-party
+||ezapp.ovh/track.js?pixelId=
 ||ezec.co.uk^$third-party
 ||ezodn.com^
 ||ezodn.com^$third-party
@@ -22739,6 +22741,7 @@ znak.com##.relap
 ||lead-converter.com^$third-party
 ||lead-or-call.ru^$third-party
 ||lead.im^$third-party
+||leadberry.com/trackers/$third-party
 ||leadbi.com^$third-party
 ||leadboxer.com^$third-party
 ||leadchampion.com^$third-party
@@ -25722,6 +25725,7 @@ znak.com##.relap
 ||mollusk.saferingz.com^
 ||mollusk.working.actor^
 ||momently.com^$third-party
+||momondo.com/s/vestigo/v1/measure
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
 ||mon-va.byteoversea.com^$third-party
@@ -29079,6 +29083,7 @@ znak.com##.relap
 ||retargetapp.com/pixel.js^
 ||retargeter.com.br^$third-party
 ||retargeting.biz^$third-party
+||retargeting.newsmanapp.com^$third-party
 ||retargeting.vistaprint.com^
 ||retargetly.com^$third-party
 ||retargettracker.com^$third-party
@@ -30668,6 +30673,7 @@ znak.com##.relap
 ||shopconvert.com.br^$third-party
 ||shopeemobile.com/ph/tr
 ||shopify.com/*/page?*&eventType=
+||shopify.com/*/site-tracking.php?
 ||shopify.com/s/javascripts/tricorder/$script
 ||shopify.com/shopifycloud/media-analytics/
 ||shopifycloud.com/v1/event.gif
@@ -35041,6 +35047,7 @@ znak.com##.relap
 ||tagm.eduscho.at^
 ||tagm.tchibo.de/ai.aspx
 ||tagm.tchibo.de^
+||tagman.britishairways.com^
 ||tagmanager.alright.network^$third-party
 ||tagmanager.cn^$third-party
 ||tagmanager.toast.com^$third-party
@@ -36303,6 +36310,7 @@ znak.com##.relap
 ||track.kyoads.com^
 ||track.laredoute.fr^$image
 ||track.leadhit.io^$third-party
+||track.leadhit.ru^$third-party
 ||track.leady.cz^
 ||track.lexico.com^
 ||track.libii.cn^
@@ -36499,6 +36507,7 @@ znak.com##.relap
 ||tracker.stileo.it^
 ||tracker.swedish.org^
 ||tracker.thinkermail.com^
+||tracker.thinkermail.com^$third-party
 ||tracker.thinkindot.com^
 ||tracker.timesgroup.com^
 ||tracker.tiu.ru^
@@ -36530,6 +36539,7 @@ znak.com##.relap
 ||tracking-opi.fonpit.de^
 ||tracking-rce.veeseo.com^$third-party
 ||tracking-receiver.prod-general.stocard-backend.com^
+||tracking-sap.frodx.com^$third-party
 ||tracking-secure.csob.cz^
 ||tracking-server-prod-1.zenmxapps.com^
 ||tracking-service.glority.com^
@@ -36850,6 +36860,7 @@ znak.com##.relap
 ||tracking.skyword.com^$third-party
 ||tracking.smartbets.com^
 ||tracking.smartmeapp.com^
+||tracking.smartselling.cz^$third-party
 ||tracking.softwareprojects.com^
 ||tracking.sokrati.com^
 ||tracking.sp.sofi.com^
