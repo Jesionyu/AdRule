@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202200857
+! Version: 202202201214
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39752
+! Lenth = 39767
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -5179,6 +5179,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /track.aspx?
 /track.cgi?
 /track.gif^
+/track.js?pixelId=
 /track.php?
 /track.php?domain=
 /track.php?referrer=
@@ -6839,7 +6840,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||dpm.demdex.net/id?d_visid_ver=$domain=nbcdfw.com,important
 @@||dpm.zebestof.com/*/tag.js$domain=commentcamarche.net
 @@||dpm.zebestof.com/*/tag.js$domain=sante.journaldesfemmes.fr
-@@||drivetrain.ai/drive/api/v1/metrics/$~third-party
+@@||drivetrain.ai/drive/*/metrics/$~third-party
 @@||dropboxstatic.com/static/js/modules/clean/ux_analytics/$script,domain=dropbox.com
 @@||dsb.yahoo.co.jp/api/v1/stream$xmlhttprequest,domain=gyao.yahoo.co.jp
 @@||dtdc.in/tracking^
@@ -7923,6 +7924,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ninja.onap.io/ninja-cee.js$script,domain=olx.ua
 @@||nintendo.com/apps/noa/scripts/analytics.js$~third-party
 @@||nintendolife.com/themes/base/javascript/fingerprint.js$~third-party
+@@||nittsu.com/Tracking/Scripts/Tracking/track.js
 @@||nmac.to/cdn-cgi/pe/bag2?r[]=*google-analytics.com
 @@||nmac.to/cdn-cgi/pe/bag2?r[]=*histats.com
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
@@ -8445,6 +8447,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||tc.bankofamerica.com/c?
 @@||tccrestify-dot-tcc-cloud.appspot.com/tracking/$domain=tcc.com.co
 @@||tchibo.de^*/webtrekk_$xmlhttprequest
+@@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||technical-service.net/api?$domain=n-tv.de
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de
 @@||techrepublic.com^*/dw-tracking-1.0.js$~third-party
@@ -9622,6 +9625,7 @@ znak.com##.relap
 ||a19537.actonservice.com^
 ||a19609.actonservice.com^
 ||a19612.actonservice.com^
+||a1webstrategy.com^
 ||a1webstrategy.com^$third-party
 ||a2.avomeen.com^
 ||a22037.actonservice.com^
@@ -16742,6 +16746,7 @@ znak.com##.relap
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.it^
+||data.digitalks.az^
 ||data.digitalks.az^$third-party
 ||data.dreambaby.be^
 ||data.dreamland.be^
@@ -19512,6 +19517,7 @@ znak.com##.relap
 ||friendwool.com^$third-party
 ||frightenedpotato.com^
 ||frightenedpotato.com^$third-party
+||frodx.com^$third-party
 ||frog.jamesbliss.com^
 ||frog.wix.com/da-client?
 ||frog.wix.com/fed?
@@ -22744,6 +22750,7 @@ znak.com##.relap
 ||lead-or-call.ru^$third-party
 ||lead.im^$third-party
 ||leadberry.com/trackers/$third-party
+||leadberry.com^$third-party
 ||leadbi.com^$third-party
 ||leadboxer.com^$third-party
 ||leadchampion.com^$third-party
@@ -22753,6 +22760,7 @@ znak.com##.relap
 ||leadforce1.com^$third-party
 ||leadforensics.com^$third-party
 ||leadformix.com^$third-party
+||leadhit.ru^$third-party
 ||leadid.com^$third-party
 ||leadin.com^$third-party
 ||leadinfo.net^$third-party
@@ -29086,6 +29094,7 @@ znak.com##.relap
 ||retargetapp.com/pixel.js^
 ||retargeter.com.br^$third-party
 ||retargeting.biz^$third-party
+||retargeting.newsmanapp.com^
 ||retargeting.newsmanapp.com^$third-party
 ||retargeting.vistaprint.com^
 ||retargetly.com^$third-party
@@ -30948,6 +30957,7 @@ znak.com##.relap
 ||smartology.co^$third-party
 ||smartpixel.auditorius.ru^
 ||smartracker.net^$third-party
+||smartselling.cz^$third-party
 ||smartworksforme.actonservice.com^
 ||smartworld.it^$cookie=__mx_log
 ||smartzonessva.com^$third-party
@@ -33475,6 +33485,7 @@ znak.com##.relap
 ||stat.nyheter24.se^
 ||stat.ouedkniss.com^
 ||stat.ovh^
+||stat.pet^$third-party
 ||stat.php-d.com^$third-party
 ||stat.pl^$third-party
 ||stat.ppstream.com^
@@ -34805,6 +34816,7 @@ znak.com##.relap
 ||t.10er-tagesticket.de^
 ||t.20-fahrten-bahn.de^
 ||t.451.io^
+||t.91syun.com^
 ||t.91syun.com^$third-party
 ||t.9gag.com^
 ||t.a3cloud.net^
@@ -36242,6 +36254,7 @@ znak.com##.relap
 ||track-srv.vietnamnet.vn^
 ||track-web.net^$third-party
 ||track.*.roku.com^
+||track.91app.io^
 ||track.91app.io^$third-party
 ||track.99acres.com^
 ||track.ad.nl^
@@ -36322,6 +36335,7 @@ znak.com##.relap
 ||track.lobi.co^
 ||track.mailerlite.com^
 ||track.miro.com^
+||track.mituo.cn^
 ||track.mituo.cn^$third-party
 ||track.mobshark.net^
 ||track.mopo.de^
@@ -36333,6 +36347,7 @@ znak.com##.relap
 ||track.nifty.com^
 ||track.ning.com^
 ||track.noddus.com^
+||track.nopaperforms.com^
 ||track.nopaperforms.com^$third-party
 ||track.notsy.io^$third-party
 ||track.noz.de^
