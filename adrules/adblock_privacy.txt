@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202191616
+! Version: 202202200153
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39748
+! Lenth = 39752
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7291,7 +7291,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=amd.com
 @@||googletagmanager.com/gtm.js$domain=anond.hatelabo.jp
@@ -14534,6 +14534,7 @@ znak.com##.relap
 ||cdn.jsdelivr.net/npm/rrweb@latest/dist/rrweb.
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js
+||cdn.klambt.services/matomo/$third-party
 ||cdn.lmiutil.com/lpassets/track-
 ||cdn.lr-ingest.io/logger-1.min.js
 ||cdn.megadata.co.kr/dist/prod/enp_tracker_
@@ -16451,6 +16452,7 @@ znak.com##.relap
 ||d.haberler.com^
 ||d.image-ad.jp^
 ||d.impactradius-event.com^$third-party
+||d.k3r.jp^
 ||d.line-cdn.net/*/torimochi.js/*/torimochi.js
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
 ||d.m-net.de^
@@ -25459,6 +25461,7 @@ znak.com##.relap
 ||metricsdirect.com^$third-party
 ||metricsinfo.edc.ca^
 ||metricsishare.rediff.com^
+||metricskey.com^$third-party
 ||metricss.bibliotheek.nl^
 ||metricssecure.empiretoday.com^
 ||metricssecure.luna.com^
@@ -29997,6 +30000,7 @@ znak.com##.relap
 ||scientificshirt.com^$third-party
 ||scientificsneeze.com^
 ||scientificsneeze.com^$third-party
+||scinable.net/access?vid=
 ||scintillatingscissors.com^$third-party
 ||scintillatingsilver.com^
 ||scintillatingsilver.com^$third-party
@@ -37529,7 +37533,7 @@ znak.com##.relap
 ||umengjmacs.m.taobao.com^
 ||umirs.com/counter*.
 ||umirs.com/counters/
-||unagi-*.amazon.com/1/events^
+||unagi*.amazon.*/1/events^
 ||unarmedindustry.com^$third-party
 ||unbecominghall.com^$third-party
 ||unblockia.com^$third-party
