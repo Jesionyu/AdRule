@@ -1,5 +1,5 @@
 [Hacamer's Privacy List]
-! Version: 202202201214
+! Version: 202202201636
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -2698,7 +2698,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /fdlogger/*
 /fe/track/*
 /fe_logger?
-/feature-loader/render.
 /federated-analytics.
 /fender_analytics.
 /figanalytics.
@@ -6949,7 +6948,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||freehostedscripts.net/online/$script,~third-party
 @@||friendbuy.com^$domain=butcherbox.com
 @@||frosmo.com/messageApi$xmlhttprequest,domain=hobbyhall.fi
-@@||frosmo.com/recoApi/$xmlhttprequest,domain=hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
+@@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
 @@||fussball.de/fbed/js/xtcore.js
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||gaanacdn.com/*_social_tracking.js$domain=gaana.com
@@ -8990,6 +8989,7 @@ specialcom.net#?##sidebar > div.widget:has(span#openstat1)
 sports.goo.ne.jp###taboola-below-sokuho-thumbnails
 store.line.me#%#//scriptlet('remove-class', 'async-hide', 'html')
 suara.com##.dailymotion-widget
+suki-kira.com#%#//scriptlet("remove-attr", "disabled", "button.vote-submit")
 t.hsms06.com$image
 t.hubspotemail.net/e2t/o$image
 t.senal$image
