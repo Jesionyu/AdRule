@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron:  '30 0,8,16 * * *'
+  repository_dispatch:
+   type:
+    - [Manual-Update]
 
 jobs:
   Pushed:
