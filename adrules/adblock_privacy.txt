@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202201648
+! Version: 202202210002
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 39767
+! Lenth = 39768
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -37222,6 +37222,7 @@ znak.com##.relap
 ||trk.plasticstoday.com^
 ||trk.reclameaqui.com.br^
 ||trk.s.sephora.com^
+||trk.storyly.io^
 ||trk.stroeermediabrands.de^
 ||trk.techtarget.com^
 ||trk.thinkhdi.com^
