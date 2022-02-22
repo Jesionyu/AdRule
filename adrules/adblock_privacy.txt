@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202221606
+! Version: 202202221604
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40071
+! Lenth = 40073
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -15573,6 +15573,7 @@ znak.com##.relap
 ||collector-*.perimeterx.net^$third-party
 ||collector-*.px-cdn.net^$third-party
 ||collector-*.px-client.net^
+||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^$third-party
 ||collector-*.tvsquared.com^
 ||collector-analytics.efigence.com^
@@ -16267,6 +16268,7 @@ znak.com##.relap
 ||crta.dailymail.co.uk^
 ||crta.metro.co.uk^
 ||crtx.info^$third-party
+||crunchbase.com/*/collector|
 ||crunchbase.com/rw7M6iAV/init.js
 ||crunchyroll.com/tracker
 ||crunchyroll.com/tracker?
