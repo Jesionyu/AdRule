@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202211617
+! Version: 202202220045
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40150
+! Lenth = 39972
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -9066,12 +9066,10 @@ znak.com##.relap
 ||02-keele-nnw-leis-mc-leis.net.daraz.com^
 ||021.activehichannel.hinet.net.daraz.com^
 ||021.hdevchannel.hdevnet.net.daraz.com^
-||021.hichannel-15.hinet.net.daraz.com^
 ||021.hichannel.cms1hinet.net.daraz.com^
 ||021.hichannel.hinet-docs.net.daraz.com^
 ||021.hichannel.hinet.legacy.net.daraz.com^
 ||021.hichannel.legacy-hinet.net.daraz.com^
-||021.htest1channel.htest1net.net.daraz.com^
 ||037info-america.net.daraz.com^
 ||037info-merch.net.daraz.com^
 ||037info-testing.net.daraz.com^
@@ -9105,7 +9103,6 @@ znak.com##.relap
 ||1-cms1.net.daraz.com^
 ||1-data.epmdisabled.net.zooplus.de^
 ||1-paystrologie.net.daraz.com^
-||1-r-ln-2.net.daraz.com^
 ||1.ctl.api.net.zooplus.de^
 ||10-marketing-data.net.daraz.com^
 ||10-marketing.net.daraz.com^
@@ -9139,7 +9136,6 @@ znak.com##.relap
 ||1200m.v2.net.daraz.com^
 ||1200mhwcdn.net.daraz.com^
 ||1200mold.net.daraz.com^
-||123-astrologie.net.daraz.com^
 ||123-cms1.net.daraz.com^
 ||123-counter.de^$third-party
 ||123-games-app.net.daraz.com^
@@ -9185,7 +9181,6 @@ znak.com##.relap
 ||13partner.net.daraz.com^
 ||13partneradmins.net.daraz.com^
 ||14-marketing.net.daraz.com^
-||147.net.zooplus.de^
 ||149.13.65.144^$third-party
 ||14marketing.net.daraz.com^
 ||15-www.partner.net.daraz.com^
@@ -9233,7 +9228,6 @@ znak.com##.relap
 ||1hwcdn345proxy.net.daraz.com^
 ||1ing.net.daraz.com^
 ||1iy4gu0lpkp.my.gloryleague.basketball^
-||1k8s-prod00m.net.daraz.com^
 ||1kpv4njzilv.community.intersystems.com^
 ||1l-hit.mail.ru^
 ||1mail3pago.net.daraz.com^
@@ -9246,7 +9240,6 @@ znak.com##.relap
 ||1zzs6w25i8n.tube.inflatevids.xyz^
 ||2-ip.online/sbar/$third-party
 ||2-lib-ln-2.net.daraz.com^
-||2-panel.net.zooplus.de^
 ||2.net.zooplus.de^
 ||200stran.ru^$third-party
 ||200summit.com^$third-party
@@ -9271,7 +9264,6 @@ znak.com##.relap
 ||216.18.176.4/logger/
 ||216.18.184.18^$third-party
 ||216.18.184.18^$third-party,domain=~etahub.com.ip
-||218.net.daraz.com^
 ||218.net.zooplus.fr^
 ||21buttons.com^$cookie=21b.user.generated.id
 ||220-volt.ru^$cookie=_userGUID
@@ -9403,7 +9395,6 @@ znak.com##.relap
 ||6519114.mktg.almosafer.com^
 ||6519114.mktg.tajawal.com^
 ||66.228.52.30^$third-party
-||66.net.zooplus.com^
 ||67.228.151.70^$third-party
 ||68-142.net.zooplus.de^
 ||68-202.net.zooplus.it^
@@ -9419,13 +9410,11 @@ znak.com##.relap
 ||70-74.net.daraz.com^
 ||70url.com/paody/js/count.js$domain=yingwangtv.com
 ||71-187.net.daraz.com^
-||71-219.net.zooplus.it^
 ||71-240.net.daraz.com^
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||72.172.88.25^$third-party
 ||720-trail.co.uk^$third-party
 ||74.55.82.102^$third-party
-||76.ingenioustech.biz^
 ||77.162.125.199^
 ||7701534.emails.tntdrama.com^
 ||77tracking.com^$third-party
@@ -9546,7 +9535,6 @@ znak.com##.relap
 ||a.ns.apac-emailvision.net.daraz.com^
 ||a.ns.api-docs-emailvision.net.daraz.com^
 ||a.ns.api.emailvision.net.daraz.com^
-||a.ns.application-emailvision.net.daraz.com^
 ||a.ns.authenticate-emailvision.net.daraz.com^
 ||a.ns.confluence.emailvision.net.daraz.com^
 ||a.ns.emailvision.administrators.net.daraz.com^
@@ -9556,7 +9544,6 @@ znak.com##.relap
 ||a.ns.github.applicationemailvision.net.daraz.com^
 ||a.ns.internalemailvision.net.daraz.com^
 ||a.ns.internalsvision.net.daraz.com^
-||a.ns.region-emailvision.net.daraz.com^
 ||a.nytimes.com/svc/nyt/data-layer?sourceApp
 ||a.o2u.jp^
 ||a.oix.net^$third-party
@@ -10613,7 +10600,6 @@ znak.com##.relap
 ||actirinius.com^$third-party
 ||activate.latimes.com/pc/caltimes/?pulse2001=
 ||activation.depop.com^
-||active-partner.net.daraz.com^
 ||active-r-is-1-2.net.daraz.com^
 ||active-tracking.de^$third-party
 ||active-trk7.com^$third-party
@@ -14533,7 +14519,6 @@ znak.com##.relap
 ||cartoonnetworknewmedia.hb.omtrdc.net^
 ||carts.guru^$third-party
 ||carview.co.jp/include_api/log/
-||carzbz.braincandy.net^
 ||carzbz.triviatoday.com^
 ||casalemedia.com^
 ||casalemedia.com^$third-party
@@ -15129,7 +15114,6 @@ znak.com##.relap
 ||clickmail.stubhub.com^$image,script
 ||clickmanage.com^$third-party
 ||clickmap.ch^$third-party
-||clickmarketing.net.daraz.com^
 ||clickmatic.pl^$third-party
 ||clickmeter.com^$third-party
 ||clickonometrics.pl^$third-party
@@ -15179,11 +15163,6 @@ znak.com##.relap
 ||client-analytics.braintreegateway.com^
 ||client-event-reporter.twitch.tv^
 ||client-log.box.com^
-||client-mgmt.net.zooplus.de^
-||client-r-ht-1.net.daraz.com^
-||client-wlan-switch.net.daraz.com^
-||client.docker.net.zooplus.de^
-||client.net.zooplus.es^
 ||client.net.zooplus.nl^
 ||client.perimeterx.net^$third-party
 ||client.r-ht-1.net.daraz.com^
@@ -15826,14 +15805,7 @@ znak.com##.relap
 ||container-csr12.net.daraz.com^
 ||container-csr31.net.daraz.com^
 ||container-marketing.net.zooplus.es^
-||container-r-ht-1.net.daraz.com^
-||container.management.tpe.net.zooplus.de^
-||container.net.zooplus.fr^
-||container.net.zooplus.nl^
 ||container.pepperjam.com^$third-party
-||containercar13.net.daraz.com^
-||containerportal.net.zooplus.it^
-||containerwinter.net.daraz.com^
 ||contatoreaccessi.com^$third-party
 ||contemporaryceremonies.ca^$third-party
 ||content-datacenter.hello.global.ntt^
@@ -15889,8 +15861,6 @@ znak.com##.relap
 ||contentsquare.net^$third-party
 ||contineljs.com^$third-party
 ||continue.com^$third-party
-||control-mail.net.zooplus.it^
-||control-prod.ssl.net.zooplus.es^
 ||control.cityofcairns.com^$third-party
 ||control.summer.net.daraz.com^
 ||controller-ns2.viviotech.net.daraz.com^
@@ -16285,18 +16255,7 @@ znak.com##.relap
 ||csmetrics.wilton.com^
 ||csp-collector.appspot.com^
 ||csp.archant.co.uk^
-||csqlvc.chillibeans.com.br^
 ||csr.onet.pl^
-||csr11-ebs.net.zooplus.de^
-||csr11-enterpriseenrollment.net.zooplus.de^
-||csr11.bitbucket.net.zooplus.de^
-||csr11.bucket.net.zooplus.de^
-||csr11.csr41.net.zooplus.de^
-||csr11.data.net.zooplus.de^
-||csr11.dev.net.zooplus.de^
-||csr11.ingress.net.daraz.com^
-||csr11.management.net.zooplus.de^
-||csr11.net.daraz.com^
 ||csr11.net.home24.de^
 ||csr11.net.zooplus.de^
 ||csr11applications.net.zooplus.de^
@@ -16314,24 +16273,6 @@ znak.com##.relap
 ||csr12.devs.net.zooplus.de^
 ||csr12.kube.net.daraz.com^
 ||csr12.net.home24.de^
-||csr12.net.shop.com.mm^
-||csr12.net.zooplus.com^
-||csr12.net.zooplus.de^
-||csr12.net.zooplus.decsr11.net.zooplus.de^
-||csr12.net.zooplus.fr^
-||csr12.payment.net.zooplus.de^
-||csr12.svcgateway.net.daraz.com^
-||csr1staff.net.zooplus.de^
-||csr21-v3.net.zooplus.com^
-||csr21.adm.net.daraz.com^
-||csr21.administrators.net.daraz.com^
-||csr21.controller.net.zooplus.com^
-||csr21.net.daraz.com^
-||csr21.net.home24.de^
-||csr21.net.zooplus.com^
-||csr21.uploads.net.zooplus.com^
-||csr31-auth.net.zooplus.com^
-||csr31-cloudapp.net.zooplus.com^
 ||csr31-emea.net.zooplus.de^
 ||csr31-vip.net.zooplus.de^
 ||csr31-zooplus-3.net.zooplus.de^
@@ -16695,7 +16636,6 @@ znak.com##.relap
 ||dacota.tw/wp-content/plugins/wp-mop-analytics/
 ||dacounter.com^$third-party
 ||dadi.technology^$third-party
-||dafvng.sunrefre.jp^
 ||daib.pl/sweqevub.js
 ||daifez.thebay.com^
 ||dailycaller-alerts.com^$third-party
@@ -16917,7 +16857,6 @@ znak.com##.relap
 ||dcclaa.einfachbacken.de^
 ||dcclaa.elle.de^
 ||dcclaa.instyle.de^
-||dcclaa.slowlyveggie.de^
 ||dcdn.cdn.nicovideo.jp/shared_httpd/log.gif
 ||dcdn.lt/g.js
 ||dcf.espn.com/privacy/
@@ -17160,7 +17099,6 @@ znak.com##.relap
 ||dgynnj.koctas.com.tr^
 ||dhl.com/g8Dj6P8TAg/
 ||dhlsupplychain.dhl.com^
-||dhplma.pontofrio.com.br^
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
 ||di-capt.com^$third-party
 ||di.ifolor.ch^
@@ -17313,8 +17251,6 @@ znak.com##.relap
 ||dimml.io^$third-party
 ||dingxiang-inc.com/ctu-group/constid-js/index.js
 ||diningalliance.actonservice.com^
-||diocgn.biltorvet.dk^
-||dioqto.totaljobs.com^
 ||diplomahawaii.com^$third-party
 ||dircont3.com^$third-party
 ||direct-collect.dy-api.com^
@@ -17401,7 +17337,6 @@ znak.com##.relap
 ||divolution.com^$third-party
 ||diwebstatics.carte-gr.total.fr^
 ||dixonsrt.hb-api.omtrdc.net^
-||diypxh.tillys.com^
 ||diziler.com/ajax/item/hitImage
 ||dj4odketdva9s.cloudfront.net^
 ||djers.com^$third-party
@@ -17482,7 +17417,6 @@ znak.com##.relap
 ||do-not-tracker.org^
 ||do-not-tracker.org^$third-party
 ||do09.net^$third-party
-||doabqu.s3.com.tw^
 ||doceree.com^$third-party
 ||docileyellow.club^
 ||dockdigestion.com^$third-party
@@ -17508,7 +17442,6 @@ znak.com##.relap
 ||dog.rejuvenateyouohio.com^
 ||dogannet.tv/q/s/stats
 ||dogcollarfavourbluff.com^$third-party
-||dogfood-allseason.net.daraz.com^
 ||dogfood-cs-utils-rtr.net.daraz.com^
 ||dogfood-lib-ht-1.net.daraz.com^
 ||dogfood-r-oa-1.net.daraz.com^
@@ -17599,7 +17532,6 @@ znak.com##.relap
 ||dps-reach.com^$third-party
 ||dptkdh.joinhoney.com^
 ||dq95d35.com^$third-party
-||dqefxd.kaigoworker.jp^
 ||dqs.actonservice.com^
 ||dqs3.darjeeling.fr^
 ||dr.dk/drWebStat/
@@ -17891,7 +17823,6 @@ znak.com##.relap
 ||easytracking.de^$third-party
 ||eat9.thebeat925.ca^
 ||eatjav.ekosport.fr^
-||eauicw.artnature.co.jp^
 ||eb.bewithyou.jp^
 ||eb.endeavorb2b.com^
 ||eb.informabi.com^
@@ -19035,7 +18966,6 @@ znak.com##.relap
 ||fadedsnow.com^$third-party
 ||fadewaves.com^
 ||fadewaves.com^$third-party
-||fahmta.boxrec.com^
 ||faibl.org^$third-party
 ||faintflag.com^
 ||fairfax.com.au/js/track/
@@ -19684,7 +19614,6 @@ znak.com##.relap
 ||fxbqag.znak.com^
 ||fxipreferral.americanexpress.com^
 ||fxmdjr.mamastar.jp^
-||fxmdjr.saita-puls.com^
 ||fxyvcz.thecompanystore.com^
 ||fyccsw.eobuwie.com.pl^
 ||fyre.co^*/tracking/
@@ -20785,7 +20714,6 @@ znak.com##.relap
 ||hfc195b.com^
 ||hfc195b.com^$third-party
 ||hfd.bridgetowermedia.com^
-||hffttk.sandro-paris.ru^
 ||hgcdn.net/?$third-party
 ||hgf4.zanzicar.fr^
 ||hh.ru/analytics^
@@ -20906,7 +20834,6 @@ znak.com##.relap
 ||hiuplq.livescore.in^
 ||hivps.xyz^$third-party
 ||hiyksu.karllagerfeldparis.com^
-||hjavuz.bedeckhome.com^
 ||hjbgdc.fracora.com^
 ||hk2d.tourismemauricie.com^
 ||hkdcre.elvie.com^
@@ -21130,7 +21057,6 @@ znak.com##.relap
 ||hwcdn.dockerapi.net.zooplus.de^
 ||hwforum.net.zooplus.fr^
 ||hwing.net.zooplus.it^
-||hwkfzf.meinauto.de^
 ||hwpub.com^$third-party
 ||hwstats.unity3d.com^
 ||hwvqdp.obilet.com^
@@ -21192,7 +21118,6 @@ znak.com##.relap
 ||i9w8p.pw^
 ||ia.51.la^
 ||ia.ekstrabladet.dk^
-||iaalxo.vans.ru^
 ||iabusprivacy.pmc.com^
 ||iad.csr11.net.zooplus.de^
 ||iad.mail.net.zooplus.fr^
@@ -21214,7 +21139,6 @@ znak.com##.relap
 ||ibeat.indiatimes.com^
 ||iberian.promo.skf.com^
 ||ibillboard.com^$third-party
-||ibkups.rci.com^
 ||ibmcloud.com/collector/
 ||iboysoft.com/js/track.js
 ||ibpxl.com^$third-party
@@ -21230,7 +21154,6 @@ znak.com##.relap
 ||ichnaea-web.netflix.com^
 ||ichnaea.netflix.com^$third-party
 ||iclive.com^$third-party
-||icmakp.united-arrows.tw^
 ||icoktb.onygo.com^
 ||iconstab.club^
 ||icounter.net/getcode.php?site=
@@ -21298,7 +21221,6 @@ znak.com##.relap
 ||iheart.com/api/v3/playback/reporting
 ||iheart.com/events
 ||ihfwer.aboutyou.com^
-||ihmnnz.flo.com.tr^
 ||iiajtl.zeit.de^
 ||iid-network.jp^$third-party
 ||iigcqr.linio.com.mx^
@@ -22168,7 +22090,6 @@ znak.com##.relap
 ||ivstracker.net^$third-party
 ||ivw.mairdumont.com/get?referrer=
 ||ivwbox.de^$third-party
-||ivxmwj.bonprix.ua^
 ||ivykiosk.com^
 ||ivykiosk.com^$third-party
 ||iwa.iplsc.com/iwa.js
@@ -22303,7 +22224,6 @@ znak.com##.relap
 ||joinsai.securitiesamerica.com^
 ||joinus.holidayseniorliving.com^
 ||joka.it/inquiero/isapi/csf.dll?
-||jootpb.foot-store.fr^
 ||joskgw.sewingmachinesplus.com^
 ||jotform.io/getReferrer/$third-party
 ||journey.cisco.com^
@@ -22394,7 +22314,6 @@ znak.com##.relap
 ||jvc.gg^*/traffic.js
 ||jvpipr.hometogo.se^
 ||jvznla.rossmann.com.tr^
-||jwjvyq.abasteo.mx^
 ||jwmhqs.fsk.ru^
 ||jwmstats.com^$third-party
 ||jwpepper.actonsoftware.com^
@@ -22500,7 +22419,6 @@ znak.com##.relap
 ||khcdhu.saraschool.net^
 ||khgtwn.reifendirekt.de^
 ||khimxz.shoesforcrews.com^
-||khvcux.krisha.kz^
 ||kia.ru/bitrix/templates/.default/js/jquery.gatrack.dpack.js
 ||kickass.cd/analyze*.js
 ||kickass.immunicity.gold/analyze*.js
@@ -22551,7 +22469,6 @@ znak.com##.relap
 ||kjxmcn.eset.com^
 ||kjxztu.biz-journal.jp^
 ||kk-resources.com/ks.js
-||kkgkpl.suzuki.com.mx^
 ||klamm-counter.de^$third-party
 ||klangoo.com^$third-party
 ||klarnaservices.com/?a=$image
@@ -22565,7 +22482,6 @@ znak.com##.relap
 ||klm.us/CWZUvc/
 ||klops.ru/ahoy/
 ||kloth.net/images/pixel.gif
-||klqlmg.mitchellandness.com^
 ||km-sea.net^$third-party
 ||kmib.co.kr/NetInsight/trace/track
 ||kmib.co.kr/ref/
@@ -22648,7 +22564,6 @@ znak.com##.relap
 ||kupona.de^$third-party
 ||kurazb.prisjakt.no^
 ||kurier.at/adblock
-||kuusay.yalispor.com.tr^
 ||kux5.raileurope.com^
 ||kvartirant.ru/counter.php?
 ||kvskic.jadore-jun.jp^
@@ -22935,7 +22850,6 @@ znak.com##.relap
 ||lfov.net^$third-party
 ||lfuzec.bglen.net^
 ||lg.tr.pandora.tv^
-||lgbdxo.azazie.com^
 ||lgm.averydennison.com^
 ||lgylib.dg-home.ru^
 ||lgyvfv.nix-wie-weg.de^
@@ -24304,7 +24218,6 @@ znak.com##.relap
 ||marketing.tourismvancouver.com^
 ||marketing.tourismwinnipeg.com^
 ||marketing.towerfcu.org^
-||marketing.toxicology.abbott^
 ||marketing.tr.netsalesmedia.pl^
 ||marketing.translations.com^
 ||marketing.transperfect.com^
@@ -24312,20 +24225,17 @@ znak.com##.relap
 ||marketing.travelks.com^
 ||marketing.travelmarketreport.com^
 ||marketing.traversecity.com^
-||marketing.triconamericanhomes.com^
 ||marketing.triconresidential.com^
 ||marketing.trustonefinancial.org^
 ||marketing.ttcu.com^
 ||marketing.ugamsolutions.com^
 ||marketing.uoficreditunion.org^
 ||marketing.uwmedicine.org^
-||marketing.vgm.com^
 ||marketing.virginia.org^
 ||marketing.visitabq.org^
 ||marketing.visitannarbor.org^
 ||marketing.visitbatonrouge.com^
 ||marketing.visitbellevuewa.com^
-||marketing.visitcharlottesville.org^
 ||marketing.visitchattanooga.com^
 ||marketing.visitchesapeake.com^
 ||marketing.visitcookcounty.com^
@@ -25960,7 +25870,6 @@ znak.com##.relap
 ||mparticle.com^$third-party
 ||mpc.nicequest.com^$third-party
 ||mpglie.apartmentguide.com^
-||mphlrt.snipes.at^
 ||mpianalytics.com^
 ||mpianalytics.com^$third-party
 ||mpio.io^$third-party
@@ -26050,7 +25959,6 @@ znak.com##.relap
 ||mtkure.gazin.com.br^
 ||mtlog.droid4x.cn^
 ||mtm.qdqmedia.com^
-||mtoxtg.tezenis.com^
 ||mtp.spaces.im^
 ||mtp.spaces.ru^
 ||mtp.spcs.me^
@@ -26532,7 +26440,6 @@ znak.com##.relap
 ||nitcnn.deai-sp.com^
 ||nitropay.com^$third-party
 ||njam.tv/tracking/
-||njxnsb.paodeacucar.com^
 ||nkydma.newbuild.studio^
 ||nlbukc.babyworld.se^
 ||nlf6.vente-unique.pl^
@@ -26640,7 +26547,6 @@ znak.com##.relap
 ||npvbjv.yourroom.ru^
 ||npylsv.libertatea.ro^
 ||npylsv.viva.ro^
-||nqacsh.boosted.dk^
 ||nqcbgz.cocopanda.se^
 ||nqyuel589fq5.esgrounding.com^
 ||nr-data.net^$third-party
@@ -26682,8 +26588,6 @@ znak.com##.relap
 ||ns2.developmenttwtelecom.net.daraz.com^
 ||ns2.disabled-viviotech.net.daraz.com^
 ||ns2.phorm.com^$third-party
-||ns2.twtelecom.priv.net.daraz.com^
-||ns2.uscl.bellsouth.net.daraz.com^
 ||ns2.viviotech.hwcdn.net.daraz.com^
 ||ns3.marketingcl.bellsouth.net.daraz.com^
 ||ns336739.ip-37-187-249.eu^
@@ -26742,7 +26646,6 @@ znak.com##.relap
 ||nvpdaa.brightcellars.com^
 ||nvworld.ru/js/ua-*.js
 ||nvworld.ru/js/ym-*.js
-||nwajdf.zakzak.co.jp^
 ||nwbpsg.amso.pl^
 ||nws.naltis.com^
 ||nwuoxwthvak3.stoic.ai^
@@ -27107,7 +27010,6 @@ znak.com##.relap
 ||onthe.io^$third-party
 ||ontraport.com/track.php
 ||ontxgr.hofer-reisen.at^
-||ookvxr.grejfreak.dk^
 ||oor.ooreka.fr^
 ||ooyala.com/3rdparty/comscore_
 ||ooyala.com/authorized?analytics
@@ -27633,7 +27535,6 @@ znak.com##.relap
 ||pdc.dmleonyc.com^
 ||pdc.dmleonyc.com^$third-party
 ||pdflive.org^
-||pdlavr.erwinmueller.com^
 ||pdmp.jp^$third-party
 ||pdmsmrt.buick.ca^
 ||pdmsmrt.buick.com^
@@ -28488,7 +28389,6 @@ znak.com##.relap
 ||promopassage.com^$third-party
 ||promos.trustedtours.com^
 ||promostats.ru^$third-party
-||promotion-021.hichannel.hinet.net.daraz.com^
 ||promotionengine.com^$third-party
 ||promotions.stationcasinos.com^
 ||promotions.thermofisher.com^
@@ -28515,9 +28415,7 @@ znak.com##.relap
 ||provesrc.com^$third-party
 ||providence.voxmedia.com^$third-party
 ||provify.io^$third-party
-||proxy-europe.marketing.net.zooplus.es^
 ||proxy-nfreya.net.daraz.com^
-||proxy-r-ln-1.net.daraz.com^
 ||proxy.dzeio.com^
 ||proxy.tproger.ru/yandex-metrika.js
 ||proxycheck.io/v*/?key=$third-party
@@ -28691,7 +28589,6 @@ znak.com##.relap
 ||pxf.io^$image,script,third-party
 ||pxf.io^$third-party
 ||pxi.pub^$third-party
-||pxjuix.tekzen.com.tr^
 ||pxksnymto.ru^$third-party
 ||pxlctl.elpais.com^
 ||pxlgnpgecom-a.akamaihd.net^
@@ -28758,7 +28655,6 @@ znak.com##.relap
 ||qgumjp.asiae.co.kr^
 ||qgumjp.joins.com^
 ||qgumjp.mediatoday.co.kr^
-||qhfcsd.rastaclat.com^
 ||qhimg.com/11.0.1.js$script
 ||qhupdate.com^$third-party
 ||qhvdop.shoppinglive.ru^
@@ -28887,7 +28783,6 @@ znak.com##.relap
 ||qzzr.com/_uid.gif
 ||r-ad.ne.jp^$script,third-party
 ||r-ch-1.auth.net.daraz.com^
-||r-ln-1.analytics.net.daraz.com^
 ||r.bbci.co.uk^
 ||r.blidz.com^
 ||r.blidzdeal.com^
@@ -29002,10 +28897,8 @@ znak.com##.relap
 ||ravelin.net^$third-party
 ||raven.prijzenvolger.com^
 ||raven.zimristats.com^
-||raw.ns1.twtelecom.net.daraz.com^
 ||rawmail.net.zooplus.nl^
 ||rawowa.net.zooplus.it^
-||rawwww.net.daraz.com^
 ||raybte.7days.ru^
 ||raygun.io/events?
 ||rays-counter.com^$third-party
@@ -29014,7 +28907,6 @@ znak.com##.relap
 ||rbc.ru/count/
 ||rbc.ru/redir/stat/
 ||rbc.ru/rightarror.gif
-||rbcore-ise-2.net.daraz.com^
 ||rbl.ms/res/users/tracking/
 ||rc.aol.de^*/getrcmd.js
 ||rc.dxsvr.com^
@@ -29605,10 +29497,8 @@ znak.com##.relap
 ||rva.outbrain.com^
 ||rvdnyq.topito.com^
 ||rverxn.autosphere.fr^
-||rvhxht.smulderstextiel.nl^
 ||rvkcpqz.com^
 ||rvv.emol.com^
-||rvxdoi.ipekistanbul.com^
 ||rvz9.destinia.co.ro^
 ||rw.net.rewe.de^
 ||rwdito.carsguide.com.au^
@@ -30082,7 +29972,6 @@ znak.com##.relap
 ||sanalytics.warnertv.de^
 ||sanalytics.warnertv.pl^
 ||sanalytics.wideroe.no^
-||sancmi.bookspot.nl^
 ||sandboxwww.applications.net.daraz.com^
 ||sandinsect.com^
 ||sanity-dataplane.rudderstack.com^$third-party
@@ -30155,7 +30044,6 @@ znak.com##.relap
 ||sb.voicefive.com^
 ||sbbanalytics.com^$third-party
 ||sbcomniture.focus.de^
-||sbdhdq.zeeman.com^
 ||sbdtds.com^$third-party
 ||sbeacon.sina.com.cn/e.gif
 ||sbeacon.sina.com.cn^
@@ -30273,7 +30161,6 @@ znak.com##.relap
 ||scookies-adobe.cbc.be^
 ||scookies-adobe.kbc-group.com^
 ||scookies-adobe.kbc.be^
-||scookies-adobe.kbc.com^
 ||scookies-adobe.kbcbrussels.be^
 ||scoot.co.uk/ajax/log_
 ||scorecardresearch.com^$domain=cnet.com,important
@@ -30393,11 +30280,9 @@ znak.com##.relap
 ||sec-analytics.panasonic.de^
 ||sec-web.com/stats/
 ||secapi.net.zooplus.de^
-||secmetrics.leggmason.com^
 ||secmetrics.schaefer-shop.at^
 ||secmetrics.schaefer-shop.ch^
 ||secmetrics.schaefer-shop.de^
-||secmetrics.schaefer-shop.nl^
 ||secretescapes.de/assets/common/tracker
 ||secretivecub.com^
 ||secretivecub.com^$third-party
@@ -30589,7 +30474,6 @@ znak.com##.relap
 ||secure.sour1bare.com^
 ||secure.sour7will.com^
 ||secure.spit0stge.com^
-||secure.stat.canal-plus.net^
 ||secure.sugh8yami.com^
 ||secure.swat8toot.com^
 ||secure.tank3pull.com^
@@ -30621,7 +30505,6 @@ znak.com##.relap
 ||secure1.desjardinsgeneralinsurance.com^
 ||secure1.lapersonnelle.com^
 ||secureanalytic.com^$third-party
-||secureanalytics.avis.at^
 ||secureanalytics.avis.be^
 ||secureanalytics.avis.ch^
 ||secureanalytics.avis.co.uk^
@@ -30630,18 +30513,14 @@ znak.com##.relap
 ||secureanalytics.avis.dk^
 ||secureanalytics.avis.es^
 ||secureanalytics.avis.fr^
-||secureanalytics.avis.lu^
 ||secureanalytics.avis.nl^
-||secureanalytics.avis.no^
 ||secureanalytics.avis.se^
 ||secureanalytics.avisautonoleggio.it^
 ||secureanalytics.budget.co.uk^
-||secureanalytics.budget.de^
 ||secureanalytics.budget.es^
 ||secureanalytics.budget.fr^
 ||secureanalytics.budget.se^
 ||secureanalytics.budgetautonoleggio.it^
-||secureclicks.geaviation.com^
 ||securecookies.dustin.dk^
 ||securecookies.dustin.fi^
 ||securecookies.dustin.no^
@@ -30650,9 +30529,7 @@ znak.com##.relap
 ||securecookies.dustinhome.fi^
 ||securecookies.dustinhome.no^
 ||securecookies.dustinhome.se^
-||securedata.bioplanet.be^
 ||securedata.collectandgo.be^
-||securedata.collishop.be^
 ||securedata.colruyt.be^
 ||securedata.colruytgroup.com^
 ||securedata.dats24.be^
@@ -30660,14 +30537,12 @@ znak.com##.relap
 ||securedata.dreamland.be^
 ||securedata.mijnspar.be^
 ||securedata.monspar.be^
-||securedata.solucious.be^
 ||securedata.unsw.edu.au^
 ||secureflashplayerfeedback.adobe.com^
 ||secureforms.cirium.com^
 ||securemetrics.apple.com.cn^
 ||securemetrics.apple.com^
 ||securemetrics.bananarepublic.co.uk^
-||securemetrics.bananarepublic.eu^
 ||securemetrics.blackrock.com^
 ||securemetrics.experience.apple^
 ||securemetrics.gap.co.jp^
@@ -30685,11 +30560,8 @@ znak.com##.relap
 ||securestudies.com^$third-party
 ||securetags.aeroterra.com^
 ||securetags.esri.ca^
-||securetags.esri.co^
 ||securetags.esri.com^
 ||securetags.esri.de^
-||securetags.esri.in^
-||securetags.esriuk.com^
 ||securetags.gisbaltic.eu^
 ||securetags.sigsa.info^
 ||securetenilstats.turner.com^
@@ -30772,7 +30644,6 @@ znak.com##.relap
 ||seniorliving.maryswoods.org^
 ||seniorliving.mrcaff.org^
 ||seniorliving.seasonsretirement.com^
-||senlvg.secretsdujeu.com^
 ||senmanga.com^$cookie=sen_manga_session
 ||sensic.net^$third-party
 ||sensor.org.ua^$third-party
@@ -30857,7 +30728,6 @@ znak.com##.relap
 ||sf14g.com^$third-party
 ||sfcbsh.mmlafleur.com^
 ||sfeedback.equabank.cz^
-||sfgysl.ppomppu.co.kr^
 ||sfp7.eco-conscient.com^
 ||sfpc.changehealthcare.com^
 ||sftrack.searchforce.net^
@@ -31061,7 +30931,6 @@ znak.com##.relap
 ||site.connect.mydrreddys.com^
 ||site.flashx.
 ||site.infosysbpm.com^
-||site.johnlewis.com^
 ||site.tdk.com^
 ||site24x7rum.com^$third-party
 ||site24x7rum.eu^
@@ -31239,7 +31108,6 @@ znak.com##.relap
 ||smetric.bahamabreeze.com^
 ||smetric.betway.com^
 ||smetric.biogen.com^
-||smetric.carview.co.jp^
 ||smetric.changiairport.com^
 ||smetric.cheddars.com^
 ||smetric.darden.com^
@@ -31579,7 +31447,6 @@ znak.com##.relap
 ||smetrics.coachfactory.com^
 ||smetrics.codan.dk^
 ||smetrics.columbia.com^
-||smetrics.comcast.com^
 ||smetrics.comdata.com^
 ||smetrics.comenity.net^
 ||smetrics.comms.westpac.co.nz^
@@ -31634,7 +31501,6 @@ znak.com##.relap
 ||smetrics.cupraofficial.de^
 ||smetrics.curel.com^
 ||smetrics.currys.co.uk^
-||smetrics.cvs.com^
 ||smetrics.cyrillus.be^
 ||smetrics.cyrillus.ch^
 ||smetrics.cyrillus.com^
@@ -31649,7 +31515,6 @@ znak.com##.relap
 ||smetrics.dekalbasgrowdeltapine.com^
 ||smetrics.delta.com^
 ||smetrics.der.dk^
-||smetrics.desparasitaatumascota.es^
 ||smetrics.dhc.co.jp^
 ||smetrics.dhl.de^
 ||smetrics.dickssportinggoods.com^
@@ -31660,7 +31525,6 @@ znak.com##.relap
 ||smetrics.discover.com^
 ||smetrics.dish.co^
 ||smetrics.dish.com^
-||smetrics.disneychannel.ca^
 ||smetrics.distrelec.ch^
 ||smetrics.dnb.com^
 ||smetrics.dnszone.jp^
@@ -31670,7 +31534,6 @@ znak.com##.relap
 ||smetrics.doorsteps.com^
 ||smetrics.dreamlabdata.com^
 ||smetrics.dreamvacationweek.com^
-||smetrics.driveshare.com^
 ||smetrics.dryerventwizard.com^
 ||smetrics.e-casio.co.jp^
 ||smetrics.e-wie-einfach.de^
@@ -31710,7 +31573,6 @@ znak.com##.relap
 ||smetrics.ernestjones.co.uk^
 ||smetrics.etcanada.com^
 ||smetrics.etihad.com^
-||smetrics.etihadcargo.com^
 ||smetrics.eu.playstation.com^
 ||smetrics.eurekalert.org^
 ||smetrics.eurobet.it^
@@ -31719,12 +31581,10 @@ znak.com##.relap
 ||smetrics.eurowings.com^
 ||smetrics.evernorth.com^
 ||smetrics.eversource.com^
-||smetrics.examinebiosimilars.com^
 ||smetrics.express-scripts.com^
 ||smetrics.express.com^
 ||smetrics.extranetperu.grupobbva.pe^
 ||smetrics.ey.com^
-||smetrics.faceipf.com^
 ||smetrics.facitbank.dk^
 ||smetrics.familiaynutricion.com.co^
 ||smetrics.fancl.co.jp^
@@ -31746,7 +31606,6 @@ znak.com##.relap
 ||smetrics.fifa.com^
 ||smetrics.fiftyoutlet.com^
 ||smetrics.filemaker.com^
-||smetrics.financing.vwfinance.ca^
 ||smetrics.findomestic.it^
 ||smetrics.fingerhut.com^
 ||smetrics.finishline.com^
@@ -31756,7 +31615,6 @@ znak.com##.relap
 ||smetrics.flagstar.com^
 ||smetrics.flashnews.com.au^
 ||smetrics.fleetcardsusa.com^
-||smetrics.fleetcor.com^
 ||smetrics.fm96.com^
 ||smetrics.fnac.be^
 ||smetrics.fnac.ch^
@@ -31773,19 +31631,13 @@ znak.com##.relap
 ||smetrics.foxnews.com^
 ||smetrics.fpl.com^
 ||smetrics.freedomfordsales.ca^
-||smetrics.freshfinds.com^
 ||smetrics.frontier.com^
-||smetrics.frontline.com.ar^
 ||smetrics.frontline.com^
-||smetrics.frontline.de^
-||smetrics.frontline.fr^
 ||smetrics.frontline.ru^
-||smetrics.frontlinecanegatto.it^
 ||smetrics.frontlinemascotas.es^
 ||smetrics.ftd.ca^
 ||smetrics.ftd.com^
 ||smetrics.fuelman.com^
-||smetrics.fuzeon.com^
 ||smetrics.g-shock.com^
 ||smetrics.g-shock.jp^
 ||smetrics.gaes.es^
@@ -31807,7 +31659,6 @@ znak.com##.relap
 ||smetrics.globalnews.ca^
 ||smetrics.globaltv.com^
 ||smetrics.glucerna.com^
-||smetrics.glyxambi.com^
 ||smetrics.gmfinancial.com^
 ||smetrics.goang.com^
 ||smetrics.goindigo.in^
@@ -31821,7 +31672,6 @@ znak.com##.relap
 ||smetrics.greendot.com^
 ||smetrics.greenflag.com^
 ||smetrics.grosvenorcasinos.com^
-||smetrics.groundsguys.com^
 ||smetrics.groupama.fr^
 ||smetrics.grundfos.com^
 ||smetrics.gsfresh.com^
@@ -33221,7 +33071,6 @@ znak.com##.relap
 ||spiegel.tv/geoip/geoip.json
 ||spieletipps.de/js/jwplayer/plugins/tracking-min.js
 ||spiffymachine.com^$third-party
-||spigte.shopee.tw^
 ||spinmedia.com/clarity.min.js
 ||spinmediacdn.com/clarity.min.js
 ||spirebaboon.com^
@@ -33409,9 +33258,7 @@ znak.com##.relap
 ||ssc.newnownext.com^
 ||ssc.nick.com^
 ||ssc.nick.tv^
-||ssc.nickatnite.com^
 ||ssc.nickjr.com^
-||ssc.nwf.org^
 ||ssc.paramountnetwork.com^
 ||ssc.smithsonianchannel.com^
 ||ssc.sonystyle.com.cn^
@@ -35037,9 +34884,7 @@ znak.com##.relap
 ||swwcyk.takvim.com.tr^
 ||sxjeyg.21vek.by^
 ||sxjfhh.detroitnews.com^
-||sxjfhh.eveningsun.com^
 ||sxjfhh.freep.com^
-||sxjfhh.guampdn.com^
 ||sxjfhh.lohud.com^
 ||sxjfhh.newarkadvocate.com^
 ||sxjfhh.news-leader.com^
@@ -35800,7 +35645,6 @@ znak.com##.relap
 ||tiktok.com/whale/
 ||tiktokv.com/web/report?
 ||tilanalytics.timesinternet.in^
-||tilhyw.lampen24.nl^
 ||tilt.bankofamerica.com^
 ||tim.hb-api.omtrdc.net^
 ||tim.hb.omtrdc.net^
@@ -37749,7 +37593,6 @@ znak.com##.relap
 ||ua.indianexpress.com^
 ||uadx.com^$third-party
 ||uai.com.br^*/analytics.js
-||uampxb.bronnitsy.com^
 ||uansiq.clip.mx^
 ||uapoisk.net^$third-party
 ||uarating.com^$third-party
@@ -37830,7 +37673,6 @@ znak.com##.relap
 ||uim.tifbs.net^
 ||uim.tifbs.net^$third-party
 ||ujvpma.infinitytools.com^
-||uk.promo.skf.com^
 ||uk.sharpmarketing.eu^
 ||ukarmyrecruiting.hb.omtrdc.net^
 ||ukgfxw.satofull.jp^
@@ -38146,7 +37988,6 @@ znak.com##.relap
 ||veeseo.com/tracking/$third-party
 ||veeseo.com^*/url.gif?
 ||veeseo.com^*/view/$image
-||vefrou.tamaris.com^
 ||veille-referencement.com^$third-party
 ||veinteractive.com^$third-party
 ||velaro.com^$third-party
@@ -38428,7 +38269,6 @@ znak.com##.relap
 ||vought.removeads.workers.dev^
 ||voxmedia.com/beacon-min.js
 ||vpf4.euskaltelofertas.com^
-||vphsiv.gsshop.com^
 ||vpmdiq.propertyfinder.qa^
 ||vpn4-238.net.zooplus.fr^
 ||vpnuyy.carters.com^
@@ -38487,7 +38327,6 @@ znak.com##.relap
 ||vzeyba.shopee.co.id^
 ||vzhjnw.officedepot.com^
 ||vzlmcd.spellbinderspaperarts.com^
-||vzrhxp.mavi.com^
 ||vzw.sp1.convertro.com^
 ||w.ahalogy.com/e?v=
 ||w.ahalogy.com/widget/frame?&client=
@@ -38624,9 +38463,7 @@ znak.com##.relap
 ||wcs.naver.com^
 ||wcs.naver.com^$image
 ||wcs.naver.net^$domain=brotoon.com
-||wddnff.bonprix.cz^
 ||wdfl.co^$third-party
-||wdnyom.faces.com^
 ||wdr.de/*/tracker/
 ||wdsvc.net^$third-party
 ||wdukge.midwayusa.com^
@@ -38899,12 +38736,10 @@ znak.com##.relap
 ||wfngwo.tradesy.com^
 ||wfwpok.impressionen.de^
 ||wgkvmz.r-ulybka.ru^
-||wgnrrd.culturekings.com^
 ||wgsas.com^$third-party
 ||wh.giftd.tech^
 ||whatismyip.win^$third-party
 ||whattomine.com/stats
-||whcmij.altitude-sports.com^
 ||wheredoyoucomefrom.ovh^
 ||wheredoyoucomefrom.ovh^$third-party
 ||whhd.gov.cn^$script,third-party
@@ -39007,12 +38842,10 @@ znak.com##.relap
 ||wiz.sncf-connect.com^
 ||wizaly.com^
 ||wizaly.com^$third-party
-||wjzyrk.magiclife.com^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
 ||wkdspy.locondo.jp^
 ||wknd.ai^
-||wkndiu.profi.ru^
 ||wknvmj.cocooncenter.com^
 ||wl.jd.com^
 ||wl.spotify.com^
@@ -39025,7 +38858,6 @@ znak.com##.relap
 ||wmgroup.us^
 ||wmtools.it/wmtcounter.php?
 ||wn.com/count.js
-||wnegmu.timberland.nl^
 ||wnpbdan.bid^$third-party
 ||wo-cloud.com^$ping
 ||woaifl.com^$third-party
@@ -39095,7 +38927,6 @@ znak.com##.relap
 ||wpyvue.idealwine.com^
 ||wqfflc.fupa.net^
 ||wqfflc.hausgarten.net^
-||wqfflc.plantopedia.de^
 ||wrapper.lemde.fr^$third-party
 ||wrapstretch.com^
 ||wrapstretch.com^$third-party
@@ -39190,7 +39021,6 @@ znak.com##.relap
 ||wwclicktm.club^$third-party
 ||wwgate.ru^$third-party
 ||wwokkf.laredoute.ru^
-||wwtotu.reifendirekt.ch^
 ||www-172.aig.com^
 ||www-administrators.applications.net.daraz.com^
 ||www-april.partner.net.daraz.com^
@@ -39230,7 +39060,6 @@ znak.com##.relap
 ||www.alskd34.com^
 ||www.altabold1.com^
 ||www.amos5lynn.com^
-||www.anritsu-apsr-response.com^
 ||www.aonunited.com^
 ||www.ape78cn2.com^
 ||www.applications-connected.net.daraz.com^
@@ -39610,7 +39439,6 @@ znak.com##.relap
 ||wywy.com^$third-party
 ||wyzqiy.pnet.co.za^
 ||wz.allianz.fr^
-||wzoxvb.sneakerstudio.com.ua^
 ||wzpwxe.4lapy.ru^
 ||wzrk.co^$third-party
 ||wzrkt.com^
@@ -39635,7 +39463,6 @@ znak.com##.relap
 ||xaguwy.thomas-muenz.ru^
 ||xapi.ozon.ru^
 ||xattan.eli.ru^
-||xavdtf.s7.ru^
 ||xay5o.toscane-boutique.fr^
 ||xbchvf.tomdom.ru^
 ||xbwpfs.fotocasa.es^
@@ -39733,10 +39560,8 @@ znak.com##.relap
 ||xutolr.mantan-web.jp^
 ||xwgjhf.nahdionline.com^
 ||xwpoxv.birdies.com^
-||xwseyi.yellohvillage.nl^
 ||xxlefq.commentcamarche.net^
 ||xxlefq.journaldesfemmes.fr^
-||xxlefq.journaldunet.com^
 ||xxlefq.linternaute.fr^
 ||xxrmyp.carsdirect.com^
 ||xxxbunker.com/ajax/guestlog
@@ -39819,7 +39644,6 @@ znak.com##.relap
 ||ydqv7yvf191i.www.logology.co^
 ||ydtzzw.firenzeviola.it^
 ||ydtzzw.tuttomercatoweb.com^
-||ydtzzw.tuttonapoli.net^
 ||ydvsok.newbalance.jp^
 ||yefktd.avito.ru^
 ||yehyqc.hugoboss.com^
@@ -39966,9 +39790,7 @@ znak.com##.relap
 ||ywrcqa.ksdk.com^
 ||ywrcqa.wcnc.com^
 ||ywrcqa.wgrz.com^
-||ywrcqa.wltx.com^
 ||ywrcqa.wthr.com^
-||ywrcqa.wusa9.com^
 ||ywxi.net^$third-party,domain=~trustedsite.com
 ||ywywjrlbsuv.com^$third-party
 ||yxdown.com/count.js
