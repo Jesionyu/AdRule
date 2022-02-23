@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202231047
+! Version: 202202231644
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40078
+! Lenth = 40081
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1085,6 +1085,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /acclog.cgi?
 /account-stats/*
 /acecounter/*
+/acecounter/acecounter_$script
 /acecounter_
 /acfp.js
 /acounter.php?
@@ -20672,6 +20673,7 @@ znak.com##.relap
 ||harvester.ext.square-enix-europe.com^
 ||harvester.hbpl.co.uk^
 ||harvester.hnonline.sk^
+||harvester.joj.sk/api/v1/harvester.js
 ||hasbro.com/includes/js/metrics/
 ||hasbro.com/js/omniture.js
 ||hashcoin.co^$third-party
@@ -22447,6 +22449,7 @@ znak.com##.relap
 ||kantartns.lt^$third-party
 ||karelia.info/counter/
 ||karstadt.de/on/demandware.store/*/__Analytics-Tracking?
+||karte.io^$third-party
 ||kattepush.com^$third-party
 ||kavijaseuranta.fi^$third-party
 ||kaxlfq.testingwithtestcafe.com^
