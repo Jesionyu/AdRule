@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202230815
+! Version: 202202231047
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40079
+! Lenth = 40078
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -14079,7 +14079,6 @@ znak.com##.relap
 ||browser.pipe.aria.microsoft.com^
 ||browsermine.com^$third-party
 ||browserpusher.com^$third-party
-||browsiprod.com^$third-party
 ||brqory.notino.sk^
 ||brsrvr.com^$third-party
 ||bruisebaseball.com^
