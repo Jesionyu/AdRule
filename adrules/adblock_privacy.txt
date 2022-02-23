@@ -1,5 +1,5 @@
 [Hacamer's Privacy List]
-! Version: 202202231648
+! Version: 202202232258
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -24462,7 +24462,7 @@ znak.com##.relap
 ||mc.webvisor.com^
 ||mc.webvisor.org^
 ||mc.yandex.com^
-||mc.yandex.ru/metrika/tag.js$script,redirect=metrika-yandex-tag,domain=~gosuslugi.ru
+||mc.yandex.ru/metrika/tag.js$script,redirect=metrika-yandex-tag,domain=~gosuslugi.ru|~avito.ru
 ||mc.yandex.ru/metrika/watch.js$script,redirect=metrika-yandex-watch,domain=~disk.yandex.*|~docviewer.yandex.*|~tv.yandex.*|~music.yandex.*|~plus.yandex.*
 ||mc.yandex.ru^
 ||mcad.mods-clinic.com^
