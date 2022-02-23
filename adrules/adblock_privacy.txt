@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202221701
+! Version: 202202230052
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40073
+! Lenth = 40079
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -668,6 +668,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /AIT_Analytics.
 /AccessCounter/*
 /AccessTrackingLogServlet?
+/ActionLogger?
 /AdAppSettings/*
 /AdBlockDetection/scriptForGA.
 /AdCookies.js
@@ -8874,6 +8875,7 @@ go.toutapp.com$image
 guzei.com#@#img[width="88"][height="31"]
 hdreactor.club,hdreactor.su,hdreactor.tv,hdreactor.net#?#.sidebar > div.menu-wrap > div.menu-head:contains(Счетчики)
 hdreactor.club,hdreactor.su,hdreactor.tv,hdreactor.net#?#.sidebar > div.menu-wrap > div.menu-head:contains(Счетчики) + div.menu-head1
+hentai-sharing.net,news.webike.net###custom_html-3
 hentaiz.org##img[width="31"][height="31"]
 hindustantimes.com#%#!function(){window.pSUPERFLY={virtualPage:function(){}};}();
 hitkino.org#?#td[valign="top"] > table.white_text > tbody > tr:has(> td[background] > b:contains(Статистика))
@@ -8941,7 +8943,6 @@ nethunt.com/api/v1/track/email/$image
 news.biglobe.ne.jp##div[style="min-height: 610px"]
 news.mynavi.jp##.articleList-along
 news.mynavi.jp##.articleList-attention
-news.webike.net###custom_html-3
 news.webike.net###custom_html-5
 newslab.ru##.r-recommend
 newslab.ru##.sharing
@@ -12420,6 +12421,7 @@ znak.com##.relap
 ||api.paymentrepo.net.zooplus.de^
 ||api.payments.net.zooplus.de^
 ||api.permutive.com/*/events^
+||api.phnx.click/js/article-stat-
 ||api.phoenix-widget.com/c?wid=
 ||api.pico.tools/metrics/
 ||api.priv.europewest.net.zooplus.de^
@@ -22451,6 +22453,7 @@ znak.com##.relap
 ||kaxlfq.testingwithtestcafe.com^
 ||kaxsdc.com^$third-party
 ||kayak.com/k/redirect/tracking?
+||kazi.co.jp/js/analytics.js
 ||kazus.ru/js/*/log_trackjs.htm
 ||kbb.com/partner/$third-party
 ||kbb.com/pixall/
@@ -30284,6 +30287,7 @@ znak.com##.relap
 ||script-ad.mobadme.jp^
 ||script-api.kinja.com/script?
 ||script.ag^$third-party
+||script.anura.io^
 ||script.idgentertainment.de/gt.js
 ||script.opentracker.net$third-party
 ||scriptil.com^$third-party
@@ -38970,6 +38974,8 @@ znak.com##.relap
 ||womtp.com^$third-party
 ||wonder-ma.com^$third-party
 ||wonderpush.com^$third-party
+||wondershare.cc/js/sensorsdata.min.js
+||wondershare.com/wsid/com/static/utils/track.js
 ||wondershare.es/jslibs/track.js
 ||woodpecker.eatfresh.tech^
 ||woodpecker.ember.ly^
