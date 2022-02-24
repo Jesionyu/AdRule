@@ -1,5 +1,5 @@
 [Hacamer's Privacy List]
-! Version: 202202240837
+! Version: 202202241607
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -13875,7 +13875,6 @@ znak.com##.relap
 ||bm324.com^$third-party
 ||bmages.carte-gr.total.fr^
 ||bmbs.baidu.com/reportinfo.php
-||bmcdn2.com^
 ||bmcm.pw^
 ||bmfeed.ru^$third-party
 ||bmlmedia.com^$third-party
@@ -20073,6 +20072,7 @@ znak.com##.relap
 ||glam.com/jsadimp.gif?
 ||glam.com^*/log.act?
 ||glami.com.tr/js/compiled/pt.js
+||glami.com.tr/tracker/
 ||glancecdn.net^$third-party,domain=~glance.net
 ||glanceguide.com^
 ||glanceguide.com^$third-party
