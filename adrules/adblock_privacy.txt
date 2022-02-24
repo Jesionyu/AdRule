@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202240153
+! Version: 202202240836
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40087
+! Lenth = 40089
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -26827,6 +26827,7 @@ znak.com##.relap
 ||odoscope.com^$third-party
 ||odysee.com/api/v1/metric/
 ||odysee.com/log/
+||odysee.com/reports/
 ||oe-static.de^*/wws.js
 ||oebarc.ekosport.at^
 ||oei1.gq^
@@ -36765,6 +36766,7 @@ znak.com##.relap
 ||tracker.mtrtb.com^
 ||tracker.nbcuas.com^
 ||tracker.neon-images.com^
+||tracker.nitropay.com^
 ||tracker.pinnaclesports.com^
 ||tracker.plerdy.com^
 ||tracker.prom.ua^
