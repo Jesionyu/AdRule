@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202232258
+! Version: 202202240043
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40081
+! Lenth = 40087
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1531,6 +1531,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /api/cmp_tracker
 /api/events|$domain=boticario.com.br|livehdcams.com|pornhublive.com|hog.tv|eudora.com.br|belezanaweb.com.br|vult.com.br|quemdisseberenice.com.br
 /api/increment-pv$xmlhttprequest
+/api/ipv4check?
 /api/log?
 /api/lt/ref?
 /api/metrics$other
@@ -5948,6 +5949,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /wpengine-analytics/*
 /wproxy$~third-party,websocket
 /wprum.
+/wps-visitor-counter/*
 /wpstatistics/*
 /wrapper/metrics/*
 /wreport.js
@@ -10720,6 +10722,7 @@ znak.com##.relap
 ||adblockmetrics.ru/js/metric.js
 ||adblockmetrics.ru^$third-party
 ||adblockrelief.com^$third-party
+||adblockstreamtape.site/stat/
 ||adbmetrics.abc.es^
 ||adbmetrics.blogasturias.com^
 ||adbmetrics.canal10tv.com^
@@ -14380,6 +14383,7 @@ znak.com##.relap
 ||callousbrake.com^$third-party
 ||callrail.com^$third-party
 ||callreports.com^$third-party
+||calltouch.ru^$third-party
 ||calltrackingmetrics.com^$third-party
 ||calltracks.com^$third-party
 ||calltrk.com/companies/
@@ -21438,6 +21442,7 @@ znak.com##.relap
 ||imtop.ru/*/count$third-party
 ||imtwjwoasak.com^$third-party
 ||imwalking.de/servlet/LandmarkServlet?clientId
+||imzahrwl.xyz^
 ||in.cuebiq.com^
 ||in.promo.skf.com^
 ||in.secure.sonosite.com^
@@ -22827,6 +22832,7 @@ znak.com##.relap
 ||leadforce1.com^$third-party
 ||leadforensics.com^$third-party
 ||leadformix.com^$third-party
+||leadhit.io^
 ||leadhit.ru^$third-party
 ||leadid.com^$third-party
 ||leadin.com^$third-party

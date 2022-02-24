@@ -1,6 +1,6 @@
 ! Title: Hacamer's URL Filter
-! Version: 2022-02-24 06:48 
-! Last Update: 2022-02-24 06:48:19（北京时间）
+! Version: 2022-02-24 08:53 
+! Last Update: 2022-02-24 08:53:02（北京时间）
 ! Expires: 1 Day
 ! Last Modified: 1 Day
 ! Homepage: https://github.com/Cats-Team/AdRule
