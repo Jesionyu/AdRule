@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202241647
+! Version: 202202250030
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40089
+! Lenth = 40094
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6773,6 +6773,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cxense.com/cx.js$script,domain=tv-tokyo.co.jp
 @@||cxense.com^$domain=ikea.com
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
+@@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
 @@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
 @@||d1z2jf7jlzjs58.cloudfront.net/p.js$domain=nfl.com
 @@||d2.alternativeto.net/dist/*/piwik_*.png
@@ -7688,6 +7689,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwseed.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwtv.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com
+@@||jumbe.zaius.com/v2/zaius.gif?$domain=subscriptions.management
 @@||justmyshop.com/gate/criteo/product-id.js$~third-party
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$script,domain=ladbible.com
 @@||k-img.com/javascripts/modules/rst/analytics.js?$domain=tabelog.com
@@ -9135,6 +9137,7 @@ znak.com##.relap
 ||110.93.143.144^$third-party
 ||114-track.net.daraz.com^
 ||11nux.com^$third-party
+||11st.co.kr^$cookie=/RAKE_SID/
 ||120.132.57.41/pjk/pag/ys.php
 ||1200m-git.net.daraz.com^
 ||1200m.v2.net.daraz.com^
@@ -10596,6 +10599,7 @@ znak.com##.relap
 ||act.soneticscorp.com^
 ||act.wernerelectric.com^
 ||actie.milieudefensie.nl^
+||action.adoffice.11st.co.kr/act/
 ||action.advisorycloud.com^
 ||action.dstillery.com/orbserv^
 ||action.logixfiber.com^
@@ -24740,6 +24744,7 @@ znak.com##.relap
 ||mediator.mail.ru^
 ||mediator.mail.ru^$third-party
 ||mediatraffic.com.ua^$third-party
+||mediatrend.kr/aiDataTrigger?uri=
 ||mediav.com^$third-party
 ||mediaweaver.jp^$third-party
 ||medicalnewstoday.com/structure/javascript/cache/beacon.js
