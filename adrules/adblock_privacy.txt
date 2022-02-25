@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202250808
+! Version: 202202251408
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40096
+! Lenth = 40098
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8260,6 +8260,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||segundamano.mx^*/tealium.js
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
 @@||sephora.com/js/ufe/isomorphic/thirdparty/fp.min.js$script,~third-party
+@@||serasaexperian.com.br/dist/scripts/fingerprint2.js$~third-party
 @@||serve-ts.amagi.tv^*/beacon?$xmlhttprequest,domain=watch.truecrimenetworktv.com
 @@||service.collarity.com/cust/nbcu/ucs.js$xmlhttprequest
 @@||service.maxymiser.net/api/eu/mediamarkt.tr/*/mmapi.js$domain=mediamarkt.com.tr
@@ -12331,6 +12332,7 @@ znak.com##.relap
 ||api.biggylabs.com.br/track-api/
 ||api.bit.ly/*/clicks?$third-party
 ||api.blink.net/a/
+||api.blockchain.info/events/tracking/consent
 ||api.branch.io^
 ||api.bunjang.co.kr/api/log/
 ||api.bunzlaucastle.com^
