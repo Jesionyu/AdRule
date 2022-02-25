@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202250127
+! Version: 202202250801
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40094
+! Lenth = 40096
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7811,6 +7811,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mc.yandex.ru/webwisor/$domain=metrika.yandex.ru|metrika.yandex.ua|metrika.yandex.by|metrika.yandex.kz|metrika.yandex.com.tr
 @@||mc.yandex.ru^$domain=planeta.ru
 @@||mcs.snssdk.com/*/user/webid$domain=lv.ulikecam.com
+@@||mealty.ru/js/ga_events.js$~third-party
 @@||mec.ca/media/javascript/resxclsx.js
 @@||media-imdb.com^*/clickstream.js
 @@||media.bnd.com/mistats/finalizestats.js
@@ -37067,6 +37068,7 @@ znak.com##.relap
 ||tracking.nokai.jp^
 ||tracking.notizie.it^$script
 ||tracking.novem.pl^
+||tracking.nw.de^
 ||tracking.oceaneering.com^
 ||tracking.oe24.at^
 ||tracking.offerteshopping.it^$script
