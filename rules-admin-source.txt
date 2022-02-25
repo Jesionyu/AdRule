@@ -20,7 +20,9 @@ csdn.net#%#navigator.clipboard.writeText = {}
 csdn.net#%#navigator.clipboard.write = {}
 csdn.net#%#document.write = {}
 
-
+! PushPush的广告和小程序打开
+pushplus.plus##div.container.py-3.text-center
+www.pushplus.plus##.img-fluid
 
 ! 城通网盘净化
 ctfile.com##div.card-body.p-3
