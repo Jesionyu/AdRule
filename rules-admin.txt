@@ -1,6 +1,6 @@
 ! Title: Some Rules
-! Version: 2022-02-26 01:07 
-! Last Update: 2022-02-26 01:07:57（北京时间）
+! Version: 2022-02-26 01:38 
+! Last Update: 2022-02-26 01:38:43（北京时间）
 ! Expires: 1 day
 ! Description: 移除一些烦人的元素
 !
@@ -23,7 +23,9 @@ csdn.net#%#navigator.clipboard.writeText = {}
 csdn.net#%#navigator.clipboard.write = {}
 csdn.net#%#document.write = {}
 
-
+! PushPush的广告和小程序打开
+pushplus.plus##div.container.py-3.text-center
+www.pushplus.plus##.img-fluid
 
 ! 城通网盘净化
 ctfile.com##div.card-body.p-3
