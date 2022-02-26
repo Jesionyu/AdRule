@@ -198,3 +198,7 @@ $removeparam=utm_campaign
 ||youtube.com$remoreparam=t
 ||youtube.com$remoreparam=event
 ||youtube.com$remoreparam=redir_token
+
+! UC
+||uc123.com$removeparam=pid
+||uc123.com$removeparam=f
