@@ -1,9 +1,9 @@
 [Hacamer's Privacy List]
-! Version: 202202251734
+! Version: 202202260032
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40098
+! Lenth = 40100
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2929,6 +2929,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /get_cdns?$third-party,xmlhttprequest
 /get_geoip?
 /get_site_data?account_id=
+/get_site_data?requestUUID=
 /get_tracking_id?
 /get_tracking_url.
 /getbglog.js
@@ -14719,6 +14720,7 @@ znak.com##.relap
 ||cdn.omuz.com.tr/connect/pub-min.js
 ||cdn.pmweb.com.br/df/tag.js
 ||cdn.preciso.net^$third-party
+||cdn.raekdata.com^
 ||cdn.resonate.com^$third-party
 ||cdn.retailrocket.*/*/tracking.js
 ||cdn.segment.com/analytics.js
