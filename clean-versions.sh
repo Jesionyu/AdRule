@@ -1,13 +1,6 @@
 #!/bin/sh
-rm -f url-filter.txt rules-admin.txt
-echo '! Title: Some Rules' >> tdate.txt
-echo "! Version: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M') " >> tdate.txt
-echo "! Last Update: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" >> tdate.txt
-cat tdate.txt rules-admin-source.txt >> rules-admin.txt
-rm -f tdate.txt
-echo "! Title: Hacamer's URL Filter" >> tdate.txt
-echo "! Version: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M') " >> tdate.txt
-echo "! Last Update: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）" >> tdate.txt
-cat tdate.txt url-filter-source.txt >> url-filter.txt
-rm -f tdate.txt
+time=$(TZ=UTC-8 date +'%Y-%m-%d %H:%M') 
+date=$(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）
+sed -i "s/! Version:.*/! Version: $time /g" rules-admin.txt url-filter.txt
+sed -i "s/! Last Update:.*/! Last Update: $time /g" rules-admin.txt url-filter.txt
 exit
