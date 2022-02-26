@@ -202,3 +202,7 @@ $removeparam=utm_campaign
 ! UC
 ||www.uc123.com$removeparam=pid
 ||www.uc123.com$removeparam=f
+
+! Tianmao
+||www.tmall.com$removeparam=union_lens
+||www.tmall.com$removeparam=bxsign
