@@ -1,9 +1,8 @@
-[Hacamer's Privacy List]
-! Version: 202202260107
+! Version: 202202260625
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40100
+! Lenth = 40103
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8333,6 +8332,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ssl.gstatic.com/analytics/$script,domain=analytics.google.com
 @@||ssl.kaptcha.com/collect/$domain=balance.vanillagift.com
 @@||ssl.kaptcha.com/collect/$domain=securespend.com
+@@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 @@||ssp.rambler.ru/acp/capirs_main.$script,domain=afisha.ru
 @@||ssp.rambler.ru/capirs.js$domain=afisha.ru
 @@||ssp.rambler.ru/capirs_async.js$domain=lenta.ru|championat.com|afisha.ru
@@ -13489,6 +13489,7 @@ znak.com##.relap
 ||beacon.richrelevance.com^
 ||beacon.riskified.com^
 ||beacon.rum.dynapis.com^
+||beacon.s.llnwi.net^
 ||beacon.samsclub.com^
 ||beacon.search.yahoo.com^
 ||beacon.searchspring.io^
@@ -18058,6 +18059,7 @@ znak.com##.relap
 ||efficiency.visma.com^
 ||efgam.actonservice.com^
 ||efglbp.baur.de^
+||efreecode.com^
 ||efuxqe.tatilbudur.com^
 ||eggplant.cloud^$third-party
 ||egmontpublishing.dk/tracking/
@@ -27808,6 +27810,7 @@ znak.com##.relap
 ||pimpmypr.de^$third-party
 ||pin-river.data.ea.com/pinEvents
 ||pine.nervecentral.com^
+||ping-admin.ru^$third-party
 ||ping-dot-acp-magento.appspot.com^
 ||ping-fast.com^$third-party
 ||ping.buto.tv^
@@ -35922,7 +35925,6 @@ znak.com##.relap
 ||tohvww.mathon.fr^
 ||tok.vaicore.xyz^
 ||tokei.upstract.com^
-||tokopedia.com^*/pixel$xmlhttprequest
 ||tom.itv.com/itv/count/*
 ||tomonline-inc.com^$third-party
 ||tongji.mafengwo.cn^
