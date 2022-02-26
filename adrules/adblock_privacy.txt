@@ -1,8 +1,8 @@
-! Version: 202202260750
+! Version: 202202260852
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40103
+! Lenth = 40104
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -4052,7 +4052,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /pageview?user_guid=
 /pageviews-counter-
 /pageviews.gif?
-/pageviews/*$domain=~mediawiki.org|~pageviews.toolforge.org|~tools.wmflabs.org|~wikimedia.org|~wikipedia.org
+/pageviews/*$domain=~mediawiki.org|~pageviews.wmcloud.org|~tools.wmflabs.org|~wikimedia.org|~wikipedia.org
 /pageviews?token=
 /pageviews_counter.
 /parsely-events.
@@ -12024,6 +12024,7 @@ znak.com##.relap
 ||analytics.stuartweitzman.com^
 ||analytics.studiodesignapp.com^
 ||analytics.styria.hr^
+||analytics.superstructure.ai^
 ||analytics.supplyframe.com/trackingservlet/
 ||analytics.supplyframe.com^
 ||analytics.surfline.com^
