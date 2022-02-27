@@ -1,8 +1,8 @@
-! Version: 202202261621
+! Version: 202202270025
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40105
+! Lenth = 40109
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -15039,6 +15039,7 @@ znak.com##.relap
 ||ckozwx.n11.com^
 ||ckygge.mohd.it^
 ||ckyhec.maxisport.com^
+||cl*.k5a.io^$third-party
 ||cl.canva.com^
 ||cl.promo.skf.com^
 ||cl.qualaroo.com^$third-party
@@ -21263,6 +21264,7 @@ znak.com##.relap
 ||id.verticalhealth.net/script.js?partnerid=
 ||id5-sync.com^
 ||id5-sync.com^$third-party
+||idat.production.ippen.space/idat
 ||idbkfy.kango-roo.com^
 ||idcdn.de/static/common/js/build/modules/*/id.clickTr.js$domain=tz.de
 ||idcdn.de/static/common/js/build/modules/*/id.elAcViewTr.js$domain=tz.de
@@ -21373,6 +21375,7 @@ znak.com##.relap
 ||imdb.com/twilight/?
 ||imdb.com^*/b.gif
 ||imetrix.it^$third-party
+||imfernsehen.de/z/z.inc.php
 ||img*.en25.com/i/elqCfg.min.js
 ||img-kotonw.mncdn.com/*/acc.clickandcollect.js
 ||img.bwin.com.mx^
@@ -22629,6 +22632,7 @@ znak.com##.relap
 ||koronapay.com/*/metrika_rus.js
 ||kostenlose-counter.com^$third-party
 ||kotaku.com/api/analytics/
+||kotaku.com/api/kala/t/event.js?
 ||kotaku.com/stats/beacon?
 ||kqkydl.postel-deluxe.ru^
 ||kqmhog.tbmmarket.ru^
