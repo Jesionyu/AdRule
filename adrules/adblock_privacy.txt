@@ -1,8 +1,8 @@
-! Version: 202203010128
+! Version: 202203010845
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40935
+! Lenth = 40938
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6237,6 +6237,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||addicted-sports.com/piwik/piwik.js
 @@||addthisedge.com/live/$xmlhttprequest,domain=serialomaniak.pl
 @@||adidas.com^*/adidasAnalytics.js?
+@@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bt.com|dollargeneral.com|kroger.com|personal.natwest.com|verizon.com
@@ -7565,6 +7566,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||highscreen.ru/bitrix/templates/highscreen/js/counters.js
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
+@@||hit.interia.pl/iwa_core$script,~third-party
 @@||hitfile.net/platform/js/fdlogger/fdlogger.js$script,~third-party
 @@||hj.flxpxl.com^*.js?r=*&m=*&a=$domain=twitch.tv
 @@||hk.on.cc/js/v4/urchin.js
@@ -13682,6 +13684,7 @@ znak.com##.relap
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
 ||beacon.carfax.com^
+||beacon.cdnma.com^
 ||beacon.digima.com^
 ||beacon.ehow.com^
 ||beacon.errorception.com^
