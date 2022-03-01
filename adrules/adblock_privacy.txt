@@ -1,8 +1,8 @@
-! Version: 202202281655
+! Version: 202203010049
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40932
+! Lenth = 40935
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8155,6 +8155,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||rtl.hu/javascripts/UserTracking.js
 @@||rtl.hu^*/gemius_id.js?
 @@||rtl.nl/system/s4m/xldata/get_comscore.js?
+@@||rtoaster.jp/Rtoaster.js$domain=satofull.jp
 @@||rtoaster.jp^$domain=3ple.jp
 @@||rtoaster.jp^$domain=attenir.co.jp
 @@||rtoaster.jp^$script,domain=animate-onlineshop.jp|brainpad.co.jp|hikaritv.net|lexus.jp|peachjohn.co.jp|rurubu.jp|melonbooks.co.jp
@@ -11385,6 +11386,7 @@ znak.com##.relap
 ||akstat.io^
 ||akstat.io^$third-party
 ||aktion.esprit-club.com^$image
+||aktrack.pubmatic.com^
 ||al-smetrics.vizio.com^
 ||al.autohome.com.cn^
 ||al.junior-onlineshop.jp^
@@ -23454,6 +23456,7 @@ znak.com##.relap
 ||linkedin.com/sensorCollect/
 ||linkedin.com/sensorCollect/?action=
 ||linkifier.com^$third-party
+||linkinprofile.com/api/v1/raw_page_view_stats
 ||linkpulse.com^$third-party
 ||links-na.afterpay.com^
 ||links.ab.soul-cycle.email^
