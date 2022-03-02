@@ -1,8 +1,8 @@
-! Version: 202203020842
+! Version: 202203020809
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40931
+! Lenth = 40932
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6485,6 +6485,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||brightcove.com^$domain=wwe.com
 @@||britishairways.com/cms/global/scripts/applications/tracking/visualsciences.js
 @@||britishtelecom.112.2o7.net^$domain=bt.com
+@@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
 @@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk
 @@||browser.sentry-cdn.com^$domain=marshmallow-qa.com
