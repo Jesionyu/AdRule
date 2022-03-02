@@ -1,8 +1,8 @@
-! Version: 202203020809
+! Version: 202203021614
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40932
+! Lenth = 40937
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1077,6 +1077,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /ac.fcgi?
 /acbeacon2.
 /accAnal.js
+/access.php?referrer=
 /accessanalyzer/tracker?
 /accesslog?
 /accesstracking/*
@@ -12225,6 +12226,7 @@ znak.com##.relap
 ||analytics.ziftsolutions.com^
 ||analytics.zingerwebdesign.com^
 ||analytics00.meride.tv^
+||analytics2.awsli.com.br^
 ||analytics2.tvreport.co.kr^
 ||analyticsbejav.net.daraz.com^
 ||analyticschecker.com^$third-party
@@ -14865,6 +14867,7 @@ znak.com##.relap
 ||cdn.api.twitter.com/*/urls/count.json$third-party
 ||cdn.appdynamics.com/adrum
 ||cdn.arcstudiopro.com^
+||cdn.awsli.com.br/production/static/analytics/owa.min.js
 ||cdn.branch.io^$domain=underarmour.com
 ||cdn.c-i.as^$script,third-party
 ||cdn.c-i.as^$third-party
@@ -15911,6 +15914,7 @@ znak.com##.relap
 ||conductrics.net^$third-party
 ||conduit.com/drawtoolbar/
 ||conduze.com^$third-party
+||conectiva.io/XEngine/extensions/visitor/visitor.js
 ||conf.international.baidu.com^
 ||confesschairs.com^$third-party
 ||confiant-integrations.global.ssl.fastly.net^
@@ -20853,6 +20857,7 @@ znak.com##.relap
 ||grow.bridgepointconsulting.com^
 ||grow.business.xerox.com^
 ||grow.netsuite.com^
+||grow.powerstep.com^
 ||growingio.com^$third-party
 ||growthrx.in^$third-party
 ||grtmpr.vertbaudet.fr^
@@ -23328,7 +23333,6 @@ znak.com##.relap
 ||lift.acquia.com^
 ||lift.acquia.com^$third-party
 ||lightboxcdn.com/static/identity.html
-||lightboxcdn.com^$third-party
 ||lightcushion.com^
 ||lightcushion.com^$third-party
 ||lightminer.co^$third-party
@@ -27278,6 +27282,7 @@ znak.com##.relap
 ||oci.dyn.com^
 ||ocmail1.in/rtw/$image
 ||ocmxbu.hanatour.com^
+||ocnk.net/include/access.php
 ||ocp.cnettv.com^*/Request.jsp?
 ||octavius.rocks^$third-party
 ||octomarket.com^$third-party
