@@ -1,4 +1,4 @@
-! Version: 202203020405
+! Version: 202203020842
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -7299,7 +7299,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=amd.com
 @@||googletagmanager.com/gtm.js$domain=anond.hatelabo.jp
