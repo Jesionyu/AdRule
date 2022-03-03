@@ -1,8 +1,8 @@
-! Version: 202203030814
+! Version: 202203031625
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40945
+! Lenth = 40951
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8918,6 +8918,8 @@ komachi.yomiuri.co.jp##._popIn_ranking_otekomachi
 komachi.yomiuri.co.jp##._popIn_recommend_tieup
 komachi.yomiuri.co.jp##.topi-popin-relation
 koneta.nifty.com###custom_html-2
+kuow.org#?#.story-content-wrapper > div.embed_block:has(> div[ub-in-page])
+kuow.org#?#.story-content-wrapper > div.embed_block:has(> script:contains(window.usabilla))
 laprovence.com#%#//scriptlet("set-constant", "refresh_xiti", "noopFunc")
 laprovence.com#%#//scriptlet("set-constant", "xt_click", "noopFunc")
 latino-serialo.tv#?##sidebar-left > div.block[-ext-has="> div.box > h2:contains(Счетчик)"]
@@ -15638,6 +15640,7 @@ znak.com##.relap
 ||cnt.rate.ru^
 ||cnt.re/cnt/$third-party
 ||cnt.trvdp.com^
+||cnt.trvdp.com^$third-party
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
 ||cnt.wetteronline.de/cgi-bin/ivw/CP/
@@ -19049,6 +19052,7 @@ znak.com##.relap
 ||eventcom.api.np.km.playstation.net/event^
 ||eventful.com/apps/generic/$image,third-party
 ||eventgateway.soundcloud.com^
+||eventgw.twilio.com^
 ||eventlog.inspsearch.com^
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
@@ -23719,6 +23723,7 @@ znak.com##.relap
 ||log.easy39.com^
 ||log.ecgh.dk^
 ||log.enuri.com^
+||log.estand.jp^
 ||log.etoday.co.kr^
 ||log.f-tra.com^
 ||log.flight.qunar.com^
@@ -40824,6 +40829,7 @@ znak.com##.relap
 ||zeerat.com^$third-party
 ||zeit.de/cre-*/tracking^
 ||zelten.fritz-berger.de^
+||zenaps.com^
 ||zenback.jp^*/tracking.html
 ||zengenti.com/tags/
 ||zeotap.com^$third-party
