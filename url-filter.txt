@@ -207,3 +207,15 @@ $removeparam=utm_campaign
 ! Tianmao
 ||www.tmall.com$removeparam=union_lens
 ||www.tmall.com$removeparam=bxsign
+
+! TX VIDEO
+||m.v.qq.com^$removeparam=url_from
+||m.v.qq.com^$removeparam=second_share
+||m.v.qq.com^$removeparam=share_from
+||m.v.qq.com^$removeparam=pgid
+||v.qq.com^$removeparam=mod_id
+||v.qq.com^$removeparam=url_from
+||v.qq.com^$removeparam=second_share
+||v.qq.com^$removeparam=share_from
+||v.qq.com^$removeparam=pgid
+||v.qq.com^$removeparam=mod_id
