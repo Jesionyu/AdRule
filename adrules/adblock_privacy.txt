@@ -1,8 +1,8 @@
-! Version: 202203021641
+! Version: 202203030035
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40937
+! Lenth = 40945
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -4174,6 +4174,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /pixel/?__tracker
 /pixel/?block_id=*&hash=*&host=
 /pixel/?random_number=
+/pixel/PageStatistics.gif?
 /pixel/conv/*
 /pixel/cv?
 /pixel/cv_
@@ -9503,6 +9504,7 @@ znak.com##.relap
 ||9ng.net.shop.com.mm^
 ||9nl.eu^$third-party
 ||9uim1pc4ej4n.ru.themoneytizer.com^
+||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||a*.pr-cy.ru/stat/
 ||a-api.skz.dev^
 ||a-authenticate.net.daraz.com^
@@ -10784,6 +10786,7 @@ znak.com##.relap
 ||adblockmetrics.ru/js/metric.js
 ||adblockmetrics.ru^$third-party
 ||adblockrelief.com^$third-party
+||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
 ||adbmetrics.abc.es^
 ||adbmetrics.blogasturias.com^
@@ -16634,6 +16637,7 @@ znak.com##.relap
 ||cy-pr.com^$third-party
 ||cya1t.net^$third-party
 ||cya2.net^$third-party
+||cybba.solutions^
 ||cyber-pages.att.com^
 ||cyber-tracking.att.com^
 ||cyber.aonunited.com^
@@ -19976,6 +19980,7 @@ znak.com##.relap
 ||fundraising.centuryresources.com^
 ||funn.graphiq.com^
 ||funneld.com^$third-party
+||funnelytics.io^$third-party
 ||funnyairplane.com^
 ||funnyairplane.com^$third-party
 ||funshion.com/interface/
@@ -27949,6 +27954,7 @@ znak.com##.relap
 ||pagoda56.com^$third-party
 ||pahkjm.subtypestore.com^
 ||pahtag.tech^$third-party
+||pahtgq.tech^$third-party
 ||paidstats.com^$third-party
 ||pailcrime.com^
 ||paintplantation.com^
@@ -31524,6 +31530,7 @@ znak.com##.relap
 ||shoppers.instacartemail.com^
 ||shopping.cellpure.co.jp^
 ||shoppingguarantee.digicert.com^
+||shoptarget.com.br^$third-party
 ||shoptimally.com^$third-party
 ||shopwwwcert-wwwwwwlab.marketing.net.zooplus.es^
 ||shorthand.com/analytics/
@@ -39699,6 +39706,7 @@ znak.com##.relap
 ||whqkyq.leasingmarkt.de^
 ||whrsen.itemmania.com^
 ||why3.inseec.education^
+||wickedreports.com^$third-party
 ||widerplanet.com^$third-party
 ||widgeo.net/compteur.php?
 ||widgeo.net/geocompteur/
