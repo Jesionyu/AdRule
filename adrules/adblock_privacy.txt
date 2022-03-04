@@ -1,8 +1,8 @@
-! Version: 202203041255
+! Version: 202203041629
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41484
+! Lenth = 41487
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -16836,6 +16836,7 @@ znak.com##.relap
 ||d1rgnfh960lz2b.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1rszqblq924lq.cloudfront.net^
+||d1rv23qj5kas56.cloudfront.net/js/lib/keen-tracker.min.js
 ||d1stxfv94hrhia.cloudfront^
 ||d1t9uctetvi0tu.cloudfront.net^
 ||d1tracker.ru^
@@ -29787,6 +29788,7 @@ znak.com##.relap
 ||quantserve.com^$~object,third-party
 ||quantserve.com^*.swf?$third-party
 ||quantserve.com^*^a=$third-party
+||quantumdex.io^$third-party
 ||quantummetric.com^$third-party
 ||quarterbean.com^
 ||quarterbean.com^$third-party
@@ -36927,6 +36929,7 @@ znak.com##.relap
 ||thm.market.xiaomi.com/thm/stats
 ||thomastorch.com^
 ||thomastorch.com^$third-party
+||thongke.vui.vn^$third-party
 ||thor.pureelectric.se^
 ||thoughtmetric.io^$third-party
 ||thqjrh.elly.vn^
