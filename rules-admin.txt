@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Some Rules
-! Version: 2022-03-05 16:15 
-! Last Update: 2022-03-05 16:15:42（北京时间） 
+! Version: 2022-03-05 16:33 
+! Last Update: 2022-03-05 16:33:03（北京时间） 
 ! Expires: 1 day
 ! Description: 移除一些烦人的元素
 !
