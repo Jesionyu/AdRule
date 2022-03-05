@@ -1,8 +1,8 @@
-! Version: 202203050845
+! Version: 202203051004
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41490
+! Lenth = 41501
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -4248,6 +4248,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /plugins/aurora-heatmap$stylesheet,script
 /plugins/catman/*
 /plugins/exactmetrics-
+/plugins/nimiq/*$script
 /plugins/stat-dfp/*
 /plugins/status.gif?
 /plugins/userinfo.gif?
@@ -6167,7 +6168,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@.googleadservices.*.js$domain=ponominalu.ru
 @@/_sess/script.js$domain=naszemiasto.pl
 @@/adrum.js$domain=usbank.com
-@@/analyticsmediator.$script,domain=mysortimo.be|mysortimo.co.uk|mysortimo.com|mysortimo.com.au|mysortimo.de|mysortimo.dk|mysortimo.es|mysortimo.fr|mysortimo.no|mysortimo.se
+@@/analyticsmediator.$script,domain=mysortimo.be|mysortimo.co.uk|mysortimo.com|mysortimo.com.au|mysortimo.de|mysortimo.dk|mysortimo.es|mysortimo.fr|mysortimo.no|mysortimo.se|repco.co.nz|repco.com.au
 @@/build/js/analytics.$script,domain=lx.com|nbcbayarea.com|nbcboston.com|nbcchicago.com|nbcconnecticut.com|nbcdfw.com|nbclosangeles.com|nbcmiami.com|nbcnewyork.com|nbcphiladelphia.com|nbcsandiego.com|nbcwashington.com|necn.com|telemundo40.com|telemundo48elpaso.com|telemundoarizona.com|telemundolasvegas.com|telemundopr.com
 @@/cdn-cgi/images/trace/captcha/js/h/transparent.gif$image,~third-party
 @@/cdn-cgi/pe/bag2?*google-analytics.com%2Fanalytics.js$domain=amypink.de|biznews.com|cryptospot.me|dailycaller.com|droid-life.com|forwardprogressives.com|fpif.org|fullpotentialma.com|geekzone.co.nz|goldsday.com|hoyentec.com|imageupload.co.uk|is-arquitectura.es|lazygamer.net|lingholic.com|mmanews.com|nehandaradio.com|nmac.to|orain.org|tvunblock.com|unilad.co.uk|xrussianteens.com|youngcons.com
@@ -8141,7 +8142,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||remodelista.com/media/js/libs/ga_social_tracking.js
 @@||renault.de/js/sitestat.js
 @@||repairtrackingsite.nintendo.eu/Tracking/$subdocument,domain=nintendo.co.uk
-@@||repco.co.nz/_ui/shared/js/analyticsmediator.js
 @@||repstatic.it/minify/sites/common/config_webtrekk_$script,domain=video.repubblica.it
 @@||repstatic.it^*/Nielsen.js
 @@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|ilsecoloxix.it|lastampa.it
@@ -8569,6 +8569,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ultimedia.com/js/common/jquery.gatracker.js
 @@||unifi.me/mootools/classes/*-tracking
 @@||uniqlo.com^*/trackingservice/$~third-party
+@@||unpkg.com/@optimizely/optimizely-sdk$script,domain=talktalk.co.uk
 @@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
 @@||ups.com/*/WebTracking/track&dcs
 @@||ups.com/*/tracking.cgi
@@ -19946,8 +19947,17 @@ znak.com##.relap
 ||fp.mandatumtrader.fi^
 ||fp.measure.office.com^
 ||fp84rw0jinz7.blanc.ru^
+||fpa-api.arstechnica.com^
+||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
+||fpa-cdn.decrypt.co^
+||fpa-cdn.parse.ly^
+||fpa-cdn.slate.com^
+||fpa-events.adweek.com^
+||fpa-events.arstechnica.com^
 ||fpa-events.decrypt.co^
+||fpa-events.parse.ly^
+||fpa-events.slate.com^
 ||fpaux.net^
 ||fpb8.esce.fr^
 ||fpc.acponline.org^
@@ -27401,6 +27411,7 @@ znak.com##.relap
 ||nile.works/api/save-perf?
 ||nimblebird.co^
 ||nimbleswan.io^
+||nimiq.com^$third-party
 ||nimiqpool.com^$third-party
 ||nimiqtest.net^$third-party
 ||nimpool.io^$third-party
@@ -32220,7 +32231,7 @@ znak.com##.relap
 ||skplanet.com/pixel?
 ||skplanet.com/pixelb?
 ||skroutz.gr/analytics/
-||skroutz.gr/analytics/srecord/
+||skroutza.skroutz.gr/skroutza.min.js
 ||skunk.dwa.li^
 ||skydeutschland.hb.omtrdc.net^
 ||skyglue.com^$third-party
