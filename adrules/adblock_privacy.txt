@@ -1,8 +1,8 @@
-! Version: 202203051458
+! Version: 202203051534
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41504
+! Lenth = 41505
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7401,6 +7401,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=migros.com.tr
 @@||googletagmanager.com/gtm.js$domain=militaria.pl
 @@||googletagmanager.com/gtm.js$domain=moniteurautomobile.be
+@@||googletagmanager.com/gtm.js$domain=n11.com
 @@||googletagmanager.com/gtm.js$domain=napishem.ru
 @@||googletagmanager.com/gtm.js$domain=nestleprofessional.com.tr
 @@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|tugatech.com.pt
@@ -20854,7 +20855,7 @@ znak.com##.relap
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=webdenal.com
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=whatcar.com,important
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=wikium.ru,important
-||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*
+||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,important,domain=biomedglobal.net
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,important,domain=boostnote.io
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,important,domain=citethisforme.com
