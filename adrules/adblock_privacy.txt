@@ -1,8 +1,8 @@
-! Version: 202203051632
+! Version: 202203051853
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41505
+! Lenth = 41506
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2029,7 +2029,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /clickcount.
 /clickcount/*
 /clickcount_
-/clickcr*.js$domain=naver.com|modoo.at|~help.naver.com|~nid.naver.com
+/clickcr*.js$domain=naver.com|modoo.at|~help.naver.com|~nid.naver.com|~search.naver.com
 /clickctrl.js
 /clickdimensions-
 /clickheat.js
@@ -31433,6 +31433,7 @@ znak.com##.relap
 ||seao.business.samsung.com^
 ||search.aol.com/beacon/
 ||search.ch/audit/
+||search.naver.com/p/crd/rd
 ||search.repository-legacy.net.zooplus.com^
 ||searchcompletion.com/BannerHandler.ashx
 ||searchenginegenie.com^$third-party
@@ -34591,7 +34592,7 @@ znak.com##.relap
 ||ssl.o.vitals.com^
 ||ssl.o.webmd.com^
 ||ssl.pstatic.net/img.tvcast/pc/js/wcslog
-||ssl.pstatic.net/static.gn/js/clickcrD.js
+||ssl.pstatic.net/static.gn/js/clickcrD.js$domain=~search.naver.com
 ||ssl.sc.amc.devk.de^
 ||ssl.securityweb.net.zooplus.es^
 ||sslanalytics.sixt.com^
