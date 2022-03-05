@@ -1,8 +1,8 @@
-! Version: 202203041729
+! Version: 202203050034
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41487
+! Lenth = 41490
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -27647,6 +27647,7 @@ znak.com##.relap
 ||nysun.com/tracker.js
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||nyt1.biosens-leanature.fr^
+||nytimes.com/ads/parakeet.min.js
 ||nytimes.com/svc/nyt/data-layer?
 ||nytimes.com/v1/purr-cache
 ||nytjyf.dholic.co.jp^
@@ -28232,6 +28233,7 @@ znak.com##.relap
 ||owonal.anibis.ch^
 ||owp-hk.americanexpress.com^
 ||owss.ihs.com^
+||owtracking.us-east-1.elasticbeanstalk.com^
 ||ox-bio.com^$third-party
 ||ox.bncounter.com^
 ||ox.ebalus.com^
@@ -29568,6 +29570,7 @@ znak.com##.relap
 ||pureairhits.com^$third-party
 ||purevideo.com^$third-party
 ||purevideo.com^*/pvshim.gif?
+||purr.nytimes.com/*/purr-cache
 ||push-ad.com^$third-party
 ||push-free.com^$third-party
 ||push-house.net^$third-party
