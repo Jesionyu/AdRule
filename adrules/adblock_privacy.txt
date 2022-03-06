@@ -1,8 +1,8 @@
-! Version: 202203061513
+! Version: 202203061543
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41510
+! Lenth = 41512
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8518,7 +8518,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||track.ksta.de/cre-*/tracking/tracking.js
 @@||track.mybloglog.com/js/jsserv.php?$domain=egotastic.com
 @@||track.nnn.de/cre-*/tracking/tracking.js
-@@||track.nzz.ch/cre-*/tracking/tracking.js
+@@||track.nzz.ch/cre-*/tracking/
 @@||track.nzz.ch^$script,~third-party
 @@||track.rundschau-online.de/cre-*/tracking/tracking.js
 @@||track.shipstation.com/collections/trackingEvents.js$~third-party
@@ -8565,6 +8565,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||uid.mavencoalition.io/v3$xmlhttprequest,domain=discover.hubpages.com
 @@||uid.mavencoalition.io/v3$xmlhttprequest,domain=globalcovidsummit.org
 @@||uid.mavencoalition.io^$xmlhttprequest,domain=mtonews.com|thestreet.com
+@@||uid.mavencoalition.io^$xmlhttprequest,domain=si.com
 @@||uim.tifbs.net/js/$script,domain=web.de
 @@||uim.tifbs.net/js/3423.js$domain=top.de
 @@||uim.tifbs.net/js/7732.js$domain=gewinnspiel.gmx.de|gewinnspiel.web.de
@@ -18940,6 +18941,7 @@ znak.com##.relap
 ||ens-orlet.activate.ensighten.com^
 ||ens.luzernerzeitung.ch^
 ||ens.nzz.ch^
+||ens.nzz.ch^$badfilter
 ||ens.tagblatt.ch^
 ||ens.themarket.ch^
 ||ensighten.bhphoto.com^
