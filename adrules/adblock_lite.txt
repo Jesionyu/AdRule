@@ -1,4 +1,4 @@
-! Version: 202203071210
+! Version: 202203071249
 ! Title:  Hacamer's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/hacamer/adblock_list
