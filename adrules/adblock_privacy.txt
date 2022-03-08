@@ -1,8 +1,8 @@
-! Version: 202203080105
+! Version: 202203080836
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41143
+! Lenth = 41144
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6529,6 +6529,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cbsinteractive.com^*/lib/tracking/comscore/$script
 @@||cbsistatic.com/fly/bundles/flyjs/js/managers/clicktale-1.0.js$domain=cbsnews.com
 @@||ccom-cdn.com/assets/img/clear.gif?ccom_md5=$domain=credit.com
+@@||cdiscount.com/Js/tracking/cdtmv2.js$script,~third-party
 @@||cdn-care.com/js/analytics/$script,domain=care.com
 @@||cdn-care.com/js/vendor/yarn_components/amplitude-js/amplitude.min.js$script,domain=care.com
 @@||cdn-ds.com/analytics/dfa.js$script,domain=tuttleclickgenesis.com
