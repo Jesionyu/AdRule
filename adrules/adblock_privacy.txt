@@ -1,8 +1,8 @@
-! Version: 202203071636
+! Version: 202203080049
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41137
+! Lenth = 41143
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2963,7 +2963,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /google-analyticator/*$script
 /google-analytics-$~image
 /google-analytics.
-/google-analytics.$~image
+/google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com
 /google-analytics/*$domain=~stackexchange.com|~superuser.com
 /google-nielsen-analytics.
 /google-tag-manager.
@@ -9461,6 +9461,7 @@ znak.com##.relap
 ||83.locksmaker.com.cn^$third-party
 ||85.camp.net.shop.com.mm^
 ||85st.com/static/js/logging.js
+||8672.site^
 ||88688.ru/api/geoip/
 ||89-11-86.net.shop.com.mm^
 ||8authpartner.net.daraz.com^
@@ -10782,6 +10783,7 @@ znak.com##.relap
 ||adblockmetrics.ru/js/metric.js
 ||adblockmetrics.ru^$third-party
 ||adblockrelief.com^$third-party
+||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
 ||adbmetrics.abc.es^
@@ -24217,6 +24219,7 @@ znak.com##.relap
 ||maddeningpowder.com^
 ||maddeningpowder.com^$third-party
 ||madetoconnect.summit-broadband.com^
+||madkudu.com^$third-party
 ||madlan.co.il/o4wPDYYd/init.js
 ||madnet.ru^$third-party
 ||maformationofficinale.actonservice.com^
@@ -28367,12 +28370,14 @@ znak.com##.relap
 ||pgquni.uralairlines.ru^
 ||pgs.aviationweek.com^
 ||pgs.io^$third-party
+||pgs.io^$third-party,domain=~publicgood.com
 ||pgt1.voyage-prive.es^
 ||phadia.thermofisher.com^
 ||phar.gu-web.net^
 ||phczhg.johnjohndenim.com.br^
 ||pheasant.ampapageorgiou.gr^
 ||phen.fabricmedia.ru^$third-party
+||phenompeople.com^$third-party
 ||phgnxd.nike.com.br^
 ||phiesi.stroeerdp.de^$third-party
 ||phim.media/templates/themes/phim/js/ga.js
@@ -29729,6 +29734,7 @@ znak.com##.relap
 ||rebelsubway.com^
 ||rebelsubway.com^$third-party
 ||rec.udn.com^
+||recapture.io^$third-party
 ||recart.com/tracking/
 ||receive.shamimomo.net/dream/dream.cgi
 ||receiver-hetzner.showheroes.com/events^
