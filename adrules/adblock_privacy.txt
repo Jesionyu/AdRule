@@ -1,8 +1,8 @@
-! Version: 202203090846
+! Version: 202203091626
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41145
+! Lenth = 41147
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2795,6 +2795,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /ga-targets.js
 /ga-track-
 /ga-track.
+/ga-tracker-
 /ga-tracker.
 /ga-tracking-
 /ga-tracking/*
@@ -6398,7 +6399,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||apple.com/metrics/scripts/$domain=locate.apple.com
 @@||applet.polfan.pl/vendor/fingerprint2.min.js$script,domain=applet.polfan.pl
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
-@@||appspot.com/event/$xmlhttprequest,domain=crab.fit
 @@||appspot.com/static/js/tracker/$script,domain=bugs.avm99963.com
 @@||ara.cat/static/BB3Core/images/pixel.gif?hash=$image,domain=ara.cat
 @@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
@@ -11729,6 +11729,7 @@ znak.com##.relap
 ||analytics-cms.whitebeard.me^
 ||analytics-csr11.net.daraz.com^
 ||analytics-egain.com/tracker?
+||analytics-egain.com^
 ||analytics-engine.net^$third-party
 ||analytics-events.inshorts.com^
 ||analytics-gw.games.wanmei.com^
@@ -12912,9 +12913,8 @@ znak.com##.relap
 ||appsportal.net.zooplus.de^
 ||appspot.com/analytics/
 ||appspot.com/api/track/
-||appspot.com/collect
 ||appspot.com/display?
-||appspot.com/event
+||appspot.com/event?
 ||appspot.com/stats?
 ||appspot.com/take?
 ||appsprint-mo.net.daraz.com^
@@ -26164,6 +26164,7 @@ znak.com##.relap
 ||metroaverage.com^$third-party
 ||metroweekly.com/tools/blog_add_visitor/
 ||mevents.trusteer.com^$third-party
+||mewe.com/ubk4jrxn.js
 ||meypeg.videdressing.com^
 ||mezzobit.com^$third-party
 ||mfadsrvr.com^$third-party
@@ -28058,6 +28059,7 @@ znak.com##.relap
 ||pageranking-counter.de^$third-party
 ||pages-stats.rbl.ms^
 ||pages-stats.rbl.ms^$third-party
+||pages.*/Script/pageTracking.js
 ||pages.applatix.com^
 ||pages.att.com^
 ||pages.canon.com.au^
@@ -28073,7 +28075,6 @@ znak.com##.relap
 ||pages.mongodb.com^
 ||pages.naturopathica.com.au^
 ||pages.pharmaintelligence.informa.com^
-||pages.s6.exacttarget.com/Script/pageTracking.js
 ||pages.sailgp.com^
 ||pages.skindoctors.com.au^
 ||pages.visitdubai.com^
@@ -37540,6 +37541,7 @@ znak.com##.relap
 ||track.dws.de^
 ||track.e7r.com.br^
 ||track.eadv.it^
+||track.easeus.com^
 ||track.edu-info.jp^
 ||track.effiliation.com^$third-party
 ||track.effitarget.com^
