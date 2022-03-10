@@ -1,8 +1,8 @@
-! Version: 202203091723
+! Version: 202203100051
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41147
+! Lenth = 41159
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -830,6 +830,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /KISSmetricsTrackCode.
 /Kelkooid?
 /KenticoActivityLogger/*
+/LandingPageHitLog.aspx?
 /LastClick/js?
 /LoadAudienceSegs-
 /Log.ashx?
@@ -6468,7 +6469,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||bettycrocker.com/Shared/Javascript/ntpagetag.js
 @@||bgp.he.net/images/flags/*.gif?$image,~third-party
 @@||bhg.com/web/js-min/common/js/dwr/RemoteTargetingService.js
-@@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de
+@@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de
 @@||billiger.de/js/emos2.js
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
 @@||blackcircles.ca^*/gtm.js$~third-party
@@ -8283,6 +8284,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||services.fliqz.com/metrics/*/applications/$domain=leftlanenews.com
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
+@@||shoonya.finvasia.com/fingerprint2.min.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
@@ -8474,7 +8476,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||tchibo.de^*/webtrekk_$xmlhttprequest
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||technical-service.net/api?$domain=n-tv.de
-@@||technical-service.net^$xmlhttprequest,domain=n-tv.de
+@@||technical-service.net^$xmlhttprequest,domain=n-tv.de|vip.de
 @@||techrepublic.com^*/dw-tracking-1.0.js$~third-party
 @@||teenvogue.com/js/eventTracker.js
 @@||telegraph.co.uk/template/ver1-0/js/webtrends/live/wtid.js
@@ -8540,6 +8542,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||trc.taboola.com/samsung-browser-feed$domain=samsung.com|thestartmagazine.com
 @@||trc.taboola.com/samsung-browser-us$domain=samsung.com|thestartmagazine.com
 @@||trc.taboolasyndication.com^$domain=bloomberg.com|breitbart.com|nme.com|slatev.com
+@@||treasuredata.com/sdk/*/td.min.js$domain=shiseido.co.jp
 @@||trendyol.com/delivery-tracking-query-api/$~third-party
 @@||trf.greatviews.de/cl?$domain=mitarbeiterangebote.de
 @@||trueaccordengage.com/tae/api/v1/collectors/$~third-party
@@ -10846,6 +10849,7 @@ znak.com##.relap
 ||addthisedge.com/live/
 ||addthisedge.com/live/boost/*/_ate.track
 ||addtoany.com/menu/transparent.gif
+||addwish.com^$third-party
 ||adebis-52667624.wowma.jp^
 ||adebis-morijuku.morijuku.com^
 ||adebis-rikon.vbest.jp^
@@ -13499,6 +13503,7 @@ znak.com##.relap
 ||azxhnt.uniformadvantage.com^
 ||b-aws.aol.com^
 ||b-aws.huffingtonpost.com^
+||b-cdn.hurriyet.com.tr/banalytics.js
 ||b-ssl.grvcdn.com^
 ||b.admins-ns.emailvision.net.daraz.com^
 ||b.admns.emailvision.net.daraz.com^
@@ -14357,6 +14362,7 @@ znak.com##.relap
 ||broker.datazoom.io^
 ||brominer.com^$third-party
 ||bronto.com^$third-party
+||brontops.com^
 ||brothersbucket.com^
 ||brothersbucket.com^$third-party
 ||browsealoud.com/plus/scripts/$script
@@ -14654,6 +14660,7 @@ znak.com##.relap
 ||campaign.ssab.com^
 ||campaigncog.com^$third-party
 ||campaigninfo.motorolasolutions.com^
+||campaignmonitor.com^$third-party
 ||campaignresources.motorolasolutions.com^
 ||campaigns-collector.albacross.com^$third-party
 ||campaigns.amadeus.com^
@@ -14711,6 +14718,7 @@ znak.com##.relap
 ||capture-api.autopilotapp.com^$third-party
 ||capture.condenastdigital.com^
 ||capture.trackjs.com^$third-party
+||capturehighered.net^
 ||capturemedia.network^$third-party
 ||capturly.com^$third-party
 ||capybara.bell0bytes.eu^
@@ -15185,6 +15193,7 @@ znak.com##.relap
 ||clearsale.com.br^$third-party
 ||clearspring.com/at/
 ||clearspring.com/t/
+||clerk.io^$third-party
 ||cleverbridge.com/*/cleverAnalytics.js^
 ||cleveritics.com^$third-party
 ||cleverpush.com^$third-party
@@ -16675,6 +16684,7 @@ znak.com##.relap
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1rszqblq924lq.cloudfront.net^
 ||d1rv23qj5kas56.cloudfront.net/js/lib/keen-tracker.min.js
+||d1snv67wdds0p2.cloudfront.net^
 ||d1stxfv94hrhia.cloudfront^
 ||d1t9uctetvi0tu.cloudfront.net^
 ||d1tracker.ru^
@@ -18478,7 +18488,7 @@ znak.com##.relap
 ||email.mccoys.com^
 ||email.mediafire.com/wf/open?$third-party
 ||email.member.theknot.com^
-||email.mg.everyonesocial.com^
+||email.mg.everyonesocial.com^$image,script
 ||email.mymandg.co.uk^
 ||email.net.zooplus.de^
 ||email.participaction.com^
@@ -22846,6 +22856,7 @@ znak.com##.relap
 ||k4fu.verif.com^
 ||k50.ru^$third-party
 ||k54nw.pw^
+||k5a.io^
 ||k7-labelgroup.com/g.html?uid=$image
 ||ka.ilius.net^
 ||kabokc.webuy.com^
@@ -23270,6 +23281,7 @@ znak.com##.relap
 ||leadrebel.io^$third-party
 ||leadsius.com^$third-party
 ||leadslabpixels.net^$third-party
+||leadsleap.com^$third-party
 ||leadsmonitor.io^$third-party
 ||leadsrx.com^$third-party
 ||leadtracking.plumvoice.com^
