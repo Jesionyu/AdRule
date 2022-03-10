@@ -1,8 +1,8 @@
-! Version: 202203101209
+! Version: 202203101610
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41162
+! Lenth = 41163
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -12661,6 +12661,7 @@ znak.com##.relap
 ||api.tinypass.com/api/v*/anon/error/log
 ||api.train.net.zooplus.de^
 ||api.trial.net.zooplus.de^
+||api.trueaudience.io^
 ||api.trwl1.com/ascripts/gcrt.js
 ||api.uca.cloud.unity3d.com^
 ||api.userstyles.org/tic/stats
@@ -20827,7 +20828,6 @@ znak.com##.relap
 ||gratis-counter-gratis.de^$third-party
 ||gratis.com/ccstoreui/*/analytics/visitorsMetric
 ||gravitec.net^$third-party
-||gravity.com^*/beacons/
 ||gravity4.com^$third-party
 ||grayreceipt.com^
 ||grayreceipt.com^$third-party
@@ -28593,6 +28593,7 @@ znak.com##.relap
 ||pixel.sprinklr.com^
 ||pixel.staging.tree.com^
 ||pixel.tapad.com^$third-party
+||pixel.tatpek.com^
 ||pixel.trackverify.com^$third-party
 ||pixel.tree.com^
 ||pixel.tuko.co.ke^
