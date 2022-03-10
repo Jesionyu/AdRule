@@ -1,8 +1,8 @@
-! Version: 202203100803
+! Version: 202203101209
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41160
+! Lenth = 41162
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6732,9 +6732,11 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||collector-*.px-client.net/res/uc$domain=walmart.com
 @@||collector.appconsent.io/hello$domain=commentcamarche.net
 @@||collector.appconsent.io/hello$domain=lachainemeteo.com
+@@||collector.appconsent.io/hello$domain=lefigaro.fr
 @@||collector.appconsent.io/hello$domain=linternaute.com
 @@||collector.appconsent.io/save$domain=commentcamarche.net
 @@||collector.appconsent.io/save$domain=lachainemeteo.com
+@@||collector.appconsent.io/save$domain=lefigaro.fr
 @@||collector.appconsent.io/save$domain=linternaute.com
 @@||collector.leaddyno.com/shopify.js$script,domain=s4l.us
 @@||collegeboard.org/webanalytics/
