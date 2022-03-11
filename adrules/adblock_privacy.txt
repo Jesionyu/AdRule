@@ -1,8 +1,8 @@
-! Version: 202203110804
+! Version: 202203111525
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41166
+! Lenth = 41172
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -15647,7 +15647,6 @@ znak.com##.relap
 ||cognitivlabs.com^$third-party
 ||cohesionapps.com^$third-party
 ||coin-have.com^$third-party
-||coin-hive.com^$third-party
 ||coinbase.com/assets/application-*.js$third-party
 ||coinbase.com^$cookie=coinbase_device_id
 ||coinerra.com^$third-party
@@ -15846,6 +15845,7 @@ znak.com##.relap
 ||complextoad.com^$third-party
 ||components.justanswer.com/v3/main-tracking-script@released.js
 ||components2.gazzettaobjects.it/rcs_tealium/
+||compress-or-die.com/hokuspokus
 ||compteur-fr.com^$third-party
 ||compteur-gratuit.org^$third-party
 ||compteur-visite.com^$third-party
@@ -21247,6 +21247,7 @@ znak.com##.relap
 ||hits.guardian.co.uk^
 ||hits.informer.com^
 ||hits.io^$third-party
+||hits.porn.fr^
 ||hits.theguardian.com^
 ||hits.top.lv^$third-party
 ||hits.tv8.com.tr/save_video_event
@@ -28214,6 +28215,7 @@ znak.com##.relap
 ||payments-amazon.com^*/analytics.js
 ||payments.amazon.com/cs/uedata
 ||payments.americanexpress.com^
+||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
 ||paypal.com/tagmanager/pptm.js
 ||paypal.com/webapps/beaconweb/
@@ -29103,6 +29105,8 @@ znak.com##.relap
 ||production-mcs.lvp.llnw.net^
 ||productivepear.com^
 ||productivepear.com^$third-party
+||productreview.com.au^$cookie=pr_guest_id
+||productreview.com.au^$cookie=pr_visitor_id
 ||productsup.com^$third-party
 ||proext.com^$third-party
 ||profilesnitch.com^$third-party
@@ -37873,6 +37877,7 @@ znak.com##.relap
 ||tracking.bettingexpert.com^
 ||tracking.blackboard.com^
 ||tracking.blog.hibu.com^
+||tracking.bloomberg.com^
 ||tracking.bloombergindustry.com^
 ||tracking.bnppre.fr^
 ||tracking.bokfinancial.com^
@@ -39173,6 +39178,7 @@ znak.com##.relap
 ||vice-web-statics-cdn.vice.com/fonts/mtiFontTrackingCode.js
 ||vicspendig.club^
 ||vicuna.joblicant.de^
+||vid*/stats/event
 ||vid.me/api/metric
 ||vidads.gr/imp/
 ||vidapi.expepp.de^$third-party
