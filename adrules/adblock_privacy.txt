@@ -1,8 +1,8 @@
-! Version: 202203111639
+! Version: 202203120439
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41172
+! Lenth = 41174
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -15199,7 +15199,7 @@ znak.com##.relap
 ||clearsale.com.br^$third-party
 ||clearspring.com/at/
 ||clearspring.com/t/
-||clerk.io^$third-party
+||clerk.io/static/clerk.js
 ||cleverbridge.com/*/cleverAnalytics.js^
 ||cleveritics.com^$third-party
 ||cleverpush.com^$third-party
@@ -17790,6 +17790,7 @@ znak.com##.relap
 ||dramaticcondition.com^
 ||dramaticcondition.com^$third-party
 ||dramaticdirection.com^
+||dratingmaject.com^
 ||drau.viessmann.si^
 ||drawermice.com^
 ||drawservant.com^
@@ -17906,6 +17907,7 @@ znak.com##.relap
 ||dxpxgy.jdsports.com^
 ||dxwgpw0lkcum5.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
+||dygassets.dygdigital.com^
 ||dymic.actonservice.com^
 ||dymlo6ffhj97l.cloudfront.net^
 ||dynameex.com^$third-party
