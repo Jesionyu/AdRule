@@ -1,8 +1,8 @@
-! Version: 202203131640
+! Version: 202203131639
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41190
+! Lenth = 41191
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -15061,6 +15061,7 @@ znak.com##.relap
 ||checkyourgeo.info^$third-party
 ||cheerfulrange.com^
 ||cheerfulrange.com^$third-party
+||cheerup.jp/js/analytics_
 ||cheese.guac.live^
 ||cheetah.songrender.com^
 ||cheezburger.com/api/visitor
