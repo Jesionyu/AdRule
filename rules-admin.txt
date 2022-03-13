@@ -7,10 +7,10 @@
 !
 ! Don't Copy
 ! 百度Don't Copy
-baidu.com#%#document.execCommand = {}
-baidu.com#%#navigator.clipboard.writeText = {}
-baidu.com#%#navigator.clipboard.write = {}
-baidu.com#%#document.write = {}
+baijiahao.baidu.com,m*.baidu.com,tieba.baidu.com#%#document.execCommand = {}
+baijiahao.baidu.com,m*.baidu.com,tieba.baidu.com#%#navigator.clipboard.writeText = {}
+baijiahao.baidu.com,m*.baidu.com,tieba.baidu.com#%#navigator.clipboard.write = {}
+baijiahao.baidu.com,m*.baidu.com,tieba.baidu.com#%#document.write = {}
 
 ! 哔哩哔哩Don't Copy
 bilibili.com#%#document.execCommand = {}
@@ -168,20 +168,7 @@ adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(11) > di
 ! bkvip
 ||ximg.meihu56.cn^$important
 ||*.fghpro.xyz^
-bukaivip.com##style:nth-child(18)
-bukaivip.com##script:nth-child(17)
-bukaivip.com##script:nth-child(17)
-https://ximg.meihu56.cn/newimg.html?n=10&u=2021/06/10122012238$domain=bukaivip.com
-bukaivip.com##div:nth-child(22)
-bukaivip.com##div:nth-child(19)
-bukaivip.com##div:nth-child(19)
-bukaivip.com##div:nth-child(19) > div:first-child
-bukaivip.com##div:nth-child(19) > div:first-child > div
-bukaivip.com##div.xmhfgtni.xmhfgtni_animation_2
-bukaivip.com##div:nth-child(19) > div:last-child > iframe:last-child
-bukaivip.com##div:nth-child(19)
-bukaivip.com##div:nth-child(20)
-bukaivip.com##div:nth-child(16)
+
 
 ! anime1.me
 anime1.me##.textwidget, .custom-html-widget
@@ -221,6 +208,7 @@ youku.com##.info-bottom_3C0mQ, .show_C8p0e
 
 ! 坚果云
 @@||dav.jianguoyun.com^$important
+
 ! Cupfox
 cupfox.app##.client-download-bar.jsx-1859378793
 cupfox.app##.head-promotion.jsx-1625518580
@@ -382,13 +370,10 @@ xda-developers.com###purch-parent-ad-container-id
 ||adashbc.ut.taobao.com
 ||zhihu-web-analytics.zhihu.com/api/v1/logs/batch
 
-
-
 ||api.ad.xiaomi.com
 ||api.comm.miui.com/calendar/adcard/get
 ||track.miui.com
 ||data.mistat.xiaomi.com/mistats
-
 
 
 ! bilibili
@@ -407,8 +392,6 @@ xda-developers.com###purch-parent-ad-container-id
 ||app.bilibili.com/x/v2/feed/index$replace=/{"id":0.*?"is_ad":true.*?"upzone_entrance_report_id".*?}\,/ /
 ! 去除视频下的应用推广
 ||app.bilibili.com/x/v2/view$replace=/{"pic".*?"stat".*?"new_card".*?}\,//
-! 去。。。。
-||app.bilibili.com/x/v2/account/mine$replace=/{"id":386.*?"id":391.*?}\,//
 ! 去视频下方推广
 ||app.bilibili.com/x/v2/view$replace=/{"title":.*?"is_ad":true.*?"trackid".*?}\,//
 ! 去up推荐广告
