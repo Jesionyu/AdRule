@@ -1,8 +1,8 @@
-! Version: 202203130848
+! Version: 202203130930
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41176
+! Lenth = 41183
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2277,6 +2277,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /counter.visit?
 /counter/*?rnd=$image
 /counter/?*&referer=
+/counter/?domain=$image,~third-party
 /counter/?type=
 /counter/action_
 /counter/article?
@@ -15579,6 +15580,7 @@ znak.com##.relap
 ||cnt.3dmy.net^
 ||cnt.alawar.com^
 ||cnt.cerber.rambler.ru^
+||cnt.hd21.
 ||cnt.iceporn.com^
 ||cnt.inforotor.net^$third-party
 ||cnt.iol.it^
@@ -15591,6 +15593,7 @@ znak.com##.relap
 ||cnt.nov.ru^$third-party
 ||cnt.nuvid.
 ||cnt.nuvid.com^
+||cnt.proporn.
 ||cnt.rambler.ru^
 ||cnt.rambler.ru^$third-party
 ||cnt.ramlife.ru^
@@ -15598,10 +15601,14 @@ znak.com##.relap
 ||cnt.re/cnt/$third-party
 ||cnt.trvdp.com^
 ||cnt.trvdp.com^$third-party
+||cnt.tubeon.
 ||cnt.viptube.com^
+||cnt.vivatube.
 ||cnt.vivatube.com^
 ||cnt.wetteronline.de/cgi-bin/ivw/CP/
+||cnt.winporn.
 ||cnt.xhamster.com^
+||cnt.yeptube.
 ||cnt1.net^$third-party
 ||cnt2.stroeerdp.de^
 ||cnt2.stroeerdp.de^$third-party
