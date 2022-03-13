@@ -1,8 +1,8 @@
-! Version: 202203131236
+! Version: 202203131638
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41184
+! Lenth = 41190
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -18757,6 +18757,7 @@ znak.com##.relap
 ||enticelabs.com^$third-party
 ||entravision.com^$third-party
 ||entryhit.wp.pl^
+||enviou.com.br^$third-party
 ||enviousshape.com^$third-party
 ||enviousthread.com^
 ||enviousthread.com^$third-party
@@ -22537,6 +22538,7 @@ znak.com##.relap
 ||iqm.com^$third-party
 ||ir.ebaystatic.com/rs/c/9527tracking/configuration.js$script,domain=ebay.com
 ||ir.ebaystatic.com/rs/c/makeebayfasterscript-src-scripts-logger-cbdc5549.js
+||iraiser.eu/analytics.js
 ||irecommend.ru/collect/
 ||ironbeast.io^$third-party
 ||irqs.ioam.de^
@@ -23301,6 +23303,7 @@ znak.com##.relap
 ||leadslabpixels.net^$third-party
 ||leadsleap.com^$third-party
 ||leadsmonitor.io^$third-party
+||leadspace.com^$third-party
 ||leadsrx.com^$third-party
 ||leadtracking.plumvoice.com^
 ||leadvision.dotmailer.co.uk^$third-party
@@ -28859,6 +28862,7 @@ znak.com##.relap
 ||pmbox.biz^$third-party
 ||pmetrics.performancing.com^
 ||pmo.ee/stats/
+||pmweb.com.br^$third-party
 ||pnfkhu.hygi.de^
 ||pngme.ru^$third-party
 ||pnhesw.jtb.co.jp^
@@ -29600,6 +29604,7 @@ znak.com##.relap
 ||r4nds.absorba.com^
 ||r7ls.net^$third-party
 ||ra.rockcontent.com^$third-party
+||raac33.net^
 ||rabbit.llresearch.org^
 ||rabbit.radicalxchange.org^
 ||rabbitbreath.com^
@@ -39952,6 +39957,7 @@ znak.com##.relap
 ||widget.perfectmarket.com^
 ||widget.quantcast.com^
 ||widget.trustpilot.com^$third-party
+||widgetbe.com^
 ||widgetbox.com/syndication/track/
 ||widgethost.com/pax/counter.js?
 ||widgets.pinterest.com/*/urls/count.json
