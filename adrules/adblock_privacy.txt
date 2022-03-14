@@ -1,8 +1,8 @@
-! Version: 202203141300
+! Version: 202203141602
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41476
+! Lenth = 41480
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8917,6 +8917,7 @@ home-learn.co.kr#%#//scriptlet("set-constant", "eglc", "noopFunc")
 home-learn.co.kr#%#//scriptlet("set-constant", "eglc.op", "noopFunc")
 hotstuff.com.ua##a[href^="http://top.bigmir.net/report/"]
 hotstuff.com.ua,mobivid.net,theplanet.ws##a[href="http://mycounter.com.ua/"]
+infokam.su#?#aside > section.bot-post:has(> center > a[href^="https://www.liveinternet.ru/"])
 infoorel.ru##a[href="http://www.infoorel.ru/stat/stat.php"]
 infusionsoft.com/app/emailOpened$image
 inside-games.jp##.cx-subhead
@@ -21825,6 +21826,7 @@ znak.com##.relap
 ||img.simply.bwin.com^
 ||img.sportsworldi.com/static/w_sportsworld/common/js/analytics.js
 ||img.sputniknews.com/min/js/plugins/video-counters.js
+||img2-digitouch.mncdn.com/include/dynamic_click_tag.js
 ||imgfarm.com/images/nocache/tr/*.gif?$image
 ||imgfarm.com/images/trk/myexcitetr.gif?
 ||imgfarm.com^*/mw.gif?$third-party
@@ -39008,6 +39010,8 @@ znak.com##.relap
 ||ucoz.kz/stat/
 ||ucoz.net/stat/
 ||ucoz.ru/stat/
+||ucuzabilet.com/ajax/referrerAnalytics
+||ucuzabilet.com/resources/ub/js/lib/etsJsLogger.js
 ||ucweb.com/collect/
 ||udbdf-v2.nimo.tv^
 ||udc.msn.com^
