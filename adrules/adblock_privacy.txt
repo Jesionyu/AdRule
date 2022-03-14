@@ -1,8 +1,8 @@
-! Version: 202203141208
+! Version: 202203141245
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41474
+! Lenth = 41476
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8826,6 +8826,7 @@ _xiti_js-
 abp?type=js&session$domain=prosieben.de|sat1.de|kabeleins.de|sixx.de|prosiebenmaxx.de
 accountkiller.com#%#window.ga = function(){var a = arguments[5];a&&a.hitCallback&&a.hitCallback();}
 aena.es#%#//scriptlet("set-constant", "window.digitalChange", "noopFunc")
+agronews.com##a[alt="Яндекс.Метрика"]
 alternative.me,justjaredjr.com,r-graph-gallery.com#%#//scriptlet('remove-attr', 'onclick', 'a[href][onclick*="getOutboundLink"]')
 android-tools.ru###text-8
 animespirit.*###CollapsiblePanel_Statistics
@@ -11357,6 +11358,7 @@ znak.com##.relap
 ||agreeablestew.com^
 ||agreeablestew.com^$third-party
 ||agreeabletouch.com^$third-party
+||agronews.com/js/tagmanager
 ||agroserver.ru/ct/
 ||agrvt.com^$third-party
 ||agvinfo.kollmorgen.com^
