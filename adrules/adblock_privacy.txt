@@ -1,8 +1,8 @@
-! Version: 202203150123
+! Version: 202203150820
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41488
+! Lenth = 41490
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2177,6 +2177,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /collect_stat.
 /collect_v3.
 /collection.php?data=
+/collector-*/event
 /collector.php?
 /collector/beacon
 /collector/event
@@ -4588,6 +4589,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /script_log.
 /scripts.kissmetrics.com/*
 /scripts/analitics.
+/scripts/analytics-
 /scripts/analytics.
 /scripts/analytics/*
 /scripts/analytics_
@@ -36476,7 +36478,7 @@ znak.com##.relap
 ||tags.refinery89.com^
 ||tags.soloway.ru^$third-party
 ||tags.tagcade.com/*/tagcade.js^
-||tags.tiqcdn.com/utag/*/prod/utag.js$domain=radissonhotels.com|post.ch|usnews.com|yemeksepeti.com|krymr.com
+||tags.tiqcdn.com/utag/*/prod/utag.js$domain=radissonhotels.com|post.ch|usnews.com|yemeksepeti.com|d1lynpf6ndesae.cloudfront.net|rukrymr.azureedge.net|krymr.com
 ||tags.tiqcdn.com/utag/*/utag.sync.js$domain=yousee.dk
 ||tags.tiqcdn.com/utag/*/utag.v.js
 ||tags.tiqcdn.com/utag/telenor/telenor.no/prod/utag.*js$script,redirect=noopjs,domain=kabel.canaldigital.no,important
