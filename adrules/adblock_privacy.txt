@@ -1,8 +1,8 @@
-! Version: 202203141610
+! Version: 202203150006
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41481
+! Lenth = 41488
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6109,7 +6109,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 ://stats.*/index.js
 ://stats.*/script.js
 ://stats.*/stats.aspx
-://temptation.*/temptation.js
 ://top.*/count/cnt.php?
 ://top.*/hit/
 ://track.*/collect
@@ -6844,6 +6843,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||disqus.com/api/3.0/posts/$document
 @@||djtflbt20bdde.cloudfront.net^$domain=feedly.com
 @@||dkb.de^$cookie=dtCookie
+@@||dmp.im-apps.net/pms/*/pmt.js$domain=zakzak.co.jp
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 @@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
 @@||docs.amplify.aws^*/platform/js/autotrack.json$~third-party
@@ -7014,6 +7014,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
 @@||geostag.cardinalcommerce.com/DeviceFingerprintWeb/includes/js/fingerprint2.min.js$script
 @@||get.cervell.io/api/$domain=cildimveben.com
+@@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
 @@||getclicky.com/ajax/marketshare?$script
 @@||getgoods.de^*/emstrack.js
 @@||gettingpersonal.co.uk^*/scripts/app/shared/googleanalytics.js$script,~third-party
@@ -7494,6 +7495,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=ymobile.jp
 @@||googletagmanager.com/gtm.js$domain=youfoodz.com
 @@||googletagmanager.com/gtm.js$domain=yourstory.com
+@@||googletagmanager.com/gtm.js$domain=zakzak.co.jp
 @@||googletagmanager.com/gtm.js$domain=zolotoyvek.ua
 @@||googletagmanager.com/gtm.js$script,domain=animeanime.jp|carcareplus.jp|cinemacafe.net|cyclestyle.net|gamebusiness.jp|gamespark.jp|inside-games.jp|mycar-life.com|newscafe.ne.jp|reanimal.jp|resemom.jp|response.jp|scan.netsecurity.ne.jp|spyder7.com
 @@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|hatenacorp.jp|junonline.jp|kakuyomu.jp|mainichi.jp|mangaseek.net|nap-camp.com|radiko.jp|sanwacompany.co.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp
@@ -8456,6 +8458,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||tag.md-nx.com^$script,domain=weather.us
 @@||tag.perfectaudience.com/serve/*.js$domain=asana.com
 @@||tagcommander.com^*/tc_$script
+@@||tagger.opecloud.com/mediaconsortium/*/tagger.js$domain=zakzak.co.jp
 @@||tags.bkrtx.com/js/$domain=cnet.com
 @@||tags.bkrtx.com/js/bk-coretag.js$domain=mobile.pcmag.com
 @@||tags.bkrtx.com/js/bk-coretag.js$domain=tmz.com
@@ -15171,6 +15174,7 @@ znak.com##.relap
 ||chihiro.nostalgie.fr^
 ||childlikecook.com^
 ||childlikeform.com^
+||childlikeform.com^$third-party
 ||chimpanzee.designerdailyreport.com^
 ||chimpanzee.ines-papert.com^
 ||chimpstatic.com/mcjs-connected/js/
@@ -15636,6 +15640,7 @@ znak.com##.relap
 ||cnebis.eisai.jp^
 ||cnebis.i-no-science.com^
 ||cnet.com/akam/*/pixel_$domain=cnet.com
+||cnet.com/ext/make/ingest/v*/t|
 ||cnet.com/pageview_candidate.comscore.json
 ||cnetcontent.com/log?
 ||cnetcontentsolutions.com^$third-party
@@ -30268,6 +30273,7 @@ znak.com##.relap
 ||roadrunner.ausmv.com.au^
 ||rob.megaopen.ru^$third-party
 ||roblox.com/www/e.png?
+||roblox.com^*/_/1px.gif
 ||robustbelieve.com^
 ||robustbelieve.com^$third-party
 ||rockincontent.net^$third-party
@@ -39191,6 +39197,7 @@ znak.com##.relap
 ||upwork.com/Ss13U803/init.js
 ||upz1.destinia.lt^
 ||uqckxr.chilli.se^
+||uqd.io^$third-party
 ||uralweb.ru^$third-party
 ||urbanairship.com^
 ||urbanairship.com^$third-party
