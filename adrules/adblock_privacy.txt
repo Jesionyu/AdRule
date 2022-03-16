@@ -1,8 +1,8 @@
-! Version: 202203151607
+! Version: 202203160043
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41492
+! Lenth = 41504
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -4398,6 +4398,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /radar/trace?
 /radio-analytics.htm
 /radium-one.js
+/rainbow/track
 /ravelin-*-track.min.js
 /rbcmetrika-
 /rbi_us.js
@@ -8901,6 +8902,8 @@ fatcatslim.ru#?#.sidebar > div.widget:has(> div > a[href$="liveinternet.ru/click
 fategrandorder.info##.sidebar_acr.side_inline
 ferra.ru##div[data-widget="plista_widget_belowArticle_desktop_nocss"]+div[class^="_"] > svg
 ferra.ru##div[data-widget="plista_widget_webApp_mobile_nocss"]+div[class^="_"] > svg
+finders.me##.__popin
+finders.me##.__recommendedPosts
 football-ukraine.com###reachMedia
 football-ukraine.com###shadowMedia
 fr.de##.bottom-footer > .dossier
@@ -12718,6 +12721,7 @@ znak.com##.relap
 ||api.taplytics.com^
 ||api.telemetry.watchabc.go.com^
 ||api.tinypass.com/api/v*/anon/error/log
+||api.tomi.ai^$third-party
 ||api.train.net.zooplus.de^
 ||api.trial.net.zooplus.de^
 ||api.trueaudience.io^
@@ -17284,6 +17288,7 @@ znak.com##.relap
 ||deeplinks.zumper.com^
 ||deer.m1x.co^
 ||deer.ray.io^
+||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
 ||def-platform.com^
 ||def1.optimhome-recrutement.com^
 ||defacto-analytics.net^$third-party
@@ -19039,6 +19044,7 @@ znak.com##.relap
 ||evanetpro.com^$third-party
 ||evcdn.com/store/plugins/tracker-ev-sdk.js
 ||evenement.ricoh.fr^
+||event*.hk01.com^
 ||event-analytics.yesware.com/main.js
 ||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
@@ -19190,6 +19196,7 @@ znak.com##.relap
 ||evt.collarity.com^$image
 ||evt.houzz.com^
 ||evt.mxplay.com/v*/client/*/records
+||evt.mxplay.com^
 ||evyy.net^$third-party
 ||ew3.io^$third-party
 ||ewaline.su/stats.js
@@ -23937,6 +23944,7 @@ znak.com##.relap
 ||log.f-tra.com^
 ||log.flight.qunar.com^
 ||log.g-enews.com^
+||log.geetest.com^
 ||log.genyt.net^
 ||log.go.com^
 ||log.go2s.co^
@@ -28116,6 +28124,7 @@ znak.com##.relap
 ||ozdoir.meundies.com^
 ||ozkkuy.fabianafilippi.com^
 ||ozon.ru/tracker/
+||ozone.ru/graphics/client-metrics/
 ||ozowis.ledger.com^
 ||p-analytics.life^
 ||p-analytics.life^$third-party
@@ -29247,6 +29256,7 @@ znak.com##.relap
 ||pro6e.com^$third-party
 ||processor.asccommunications.com^
 ||proclivitysystems.com^$third-party
+||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
 ||prod-collector.bigbasket.com^
 ||prod-plague-bacon.miniclippt.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^$third-party
@@ -29506,6 +29516,7 @@ znak.com##.relap
 ||pxi.pub^$third-party
 ||pxksnymto.ru^$third-party
 ||pxkwgt.kupivip.ru^
+||pxl-*.ozone.ru^
 ||pxlctl.elpais.com^
 ||pxlgnpgecom-a.akamaihd.net^
 ||pxptpv.jobup.ch^
@@ -32073,7 +32084,6 @@ znak.com##.relap
 ||smallbeginner.com^$third-party
 ||smallcapnetwork.com/zfbp/viewtracker/
 ||smallpdf.com/build/track-js.js
-||smallseo.tools/rainbow/track
 ||smallseotools.com^$third-party
 ||smart-bdash.com^$third-party
 ||smart-counter.net^$third-party
@@ -35769,6 +35779,7 @@ znak.com##.relap
 ||streamta.pe/stat/
 ||streamta.site/stat/
 ||streamtape.com/stat/
+||streamtheworld.com/imp?
 ||streem.com.au^$third-party
 ||streetmetrics.io^$third-party
 ||stretchsister.com^
@@ -37099,7 +37110,6 @@ znak.com##.relap
 ||toolcount.ru^$third-party
 ||tools.ranker.com^
 ||tools.ricoh.co.uk^
-||toolss.net/rainbow/track
 ||toothbrushnote.com^
 ||toothbrushnote.com^$third-party
 ||toothpasterabbits.com^
@@ -37807,6 +37817,7 @@ znak.com##.relap
 ||track.ft.com^
 ||track.fxstreet.com^
 ||track.gawker.com^
+||track.hk01.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
 ||track.ilonofficial.com^
@@ -38675,6 +38686,7 @@ znak.com##.relap
 ||triptease.io^$third-party
 ||triptease.net^$third-party
 ||triton.companyegg.com^
+||tritondigital.com/ondemand/impression?
 ||trivago.*/log?sLog=
 ||trivago.com/tracking/
 ||trivago.de/search/log
