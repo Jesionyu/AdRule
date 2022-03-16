@@ -1,8 +1,8 @@
-! Version: 202203160843
+! Version: 202203160847
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41505
+! Lenth = 41507
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -9064,6 +9064,8 @@ track.customer.io/e/o$image
 track.mixmax.com/api$image
 trackedlink.net$image
 tracking.cirrusinsight.com$image
+ttv.pl#%#//scriptlet("set-constant", "gemiusStream", "noopFunc")
+ttv.pl,tvn24.pl#%#(function(){window.__pix2={event:function(){},track:function(){}}})();
 tweakers.net#%#//scriptlet('abort-current-inline-script', 'AbStats', 'trackId')
 tweakers.net#%#//scriptlet('abort-on-property-read', 'GlobalSnowplowNamespace')
 tweakers.net#%#//scriptlet('abort-on-property-read', 'snowplow')
