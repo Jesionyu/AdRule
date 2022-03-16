@@ -1,8 +1,8 @@
-! Version: 202203161624
+! Version: 202203162203
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41508
+! Lenth = 41529
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -160,6 +160,7 @@ $cookie=external_referer
 $cookie=ezds
 $cookie=ezohw
 $cookie=fingerprint,domain=olx.ro|olx.kz|olx.pl|olx.pt|olx.ua|olx.uz|olx.in|olx.com
+$cookie=flocktory-uuid
 $cookie=gaClientId
 $cookie=gckp
 $cookie=h_zdbb
@@ -6387,7 +6388,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.ip.sb/geoip$domain=ip.skk.moe
 @@||api.ipify.org^$script,domain=right-on.co.jp
-@@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|speedcheck.ky
+@@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|equinoxplus.com|speedcheck.ky
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|withpersona.com
 @@||api.mixpanel.com/engage/?data=$xmlhttprequest,domain=deezer.com
@@ -11978,6 +11979,7 @@ znak.com##.relap
 ||analytics.footballdb.com^
 ||analytics.foresee.com^
 ||analytics.forgetwp.com^
+||analytics.formstack.com^
 ||analytics.freespee.com^
 ||analytics.fs-bdash.com^
 ||analytics.fsho.st/tracker.js
@@ -14861,6 +14863,7 @@ znak.com##.relap
 ||cartoonnetworknewmedia.hb-api.omtrdc.net^
 ||cartoonnetworknewmedia.hb.omtrdc.net^
 ||carts.guru^$third-party
+||cartstack.com^$third-party
 ||carview.co.jp/include_api/log/
 ||carzbz.triviatoday.com^
 ||casalemedia.com^
@@ -14980,6 +14983,7 @@ znak.com##.relap
 ||cdn.cr.org/etc/designs/electronics/clientlibs/tracking.js
 ||cdn.d2-apps.net/js/tr.js
 ||cdn.daenischesbettenlager.de/analytics.js
+||cdn.ddmanager.ru^$third-party
 ||cdn.digitaloceanspaces.com/pixel/lp.js
 ||cdn.dopc.cz/gen/detect.png
 ||cdn.driveback.ru^$third-party
@@ -15359,6 +15363,8 @@ znak.com##.relap
 ||click1.mail.paltalkpeople.com^
 ||click2.cafepress.com^
 ||click2.email.ticketmaster.com^
+||click360.io^
+||click360v2-ingest.azurewebsites.net^
 ||click4assistance.co.uk^$third-party
 ||clickability.com/s?
 ||clickable.net^$third-party
@@ -15486,6 +15492,7 @@ znak.com##.relap
 ||cloisteredhydrant.com^$third-party
 ||closedcows.com^
 ||cloud-exploration.com^$third-party
+||cloud-iq.com.au^$third-party
 ||cloud-iq.com^$third-party
 ||cloud-miner.de^
 ||cloud-miner.eu^
@@ -15560,6 +15567,7 @@ znak.com##.relap
 ||cloudfunctions.net/function-record-stream-metric?
 ||cloudfunctions.net/ingest?
 ||cloudfunctions.net/trackEvent|
+||cloudiq.com^$third-party
 ||cloudsdestruction.com^
 ||cloudsdestruction.com^$third-party
 ||cloudtracer101.com^$third-party
@@ -18305,6 +18313,7 @@ znak.com##.relap
 ||education.greatbatch.com^
 ||education.moodybible.org^
 ||education.seek.intel.com^
+||educationdynamics.com^$third-party
 ||educontinua.javeriana.edu.co^
 ||edw.edmunds.com^$third-party
 ||edward.hrm.healthgrades.com^
@@ -18880,6 +18889,7 @@ znak.com##.relap
 ||eqtrack.americashomeplace.com^
 ||equirodi.*/addstat.php
 ||equity.e2g.com^
+||eqy.link^
 ||er.mmi.bemobile.ua^
 ||er.sanoma-sndp.fi/stats/
 ||er.search.naver.com^
@@ -19773,6 +19783,8 @@ znak.com##.relap
 ||forms.riverbed.com^
 ||forms.testoil.com^
 ||forms.vaisala.com^
+||formstack.com/forms/analytics.php
+||formstack.com/forms/js/*/analytics_
 ||formulawire.com^$third-party
 ||forter.com^$third-party
 ||fortis.hb.omtrdc.net^
@@ -21734,6 +21746,7 @@ znak.com##.relap
 ||idot.cz^$third-party
 ||idqwqm.kkday.com^
 ||idtargeting.com^$third-party
+||idx.lat^
 ||ie8eamus.com/fp?uuid=$domain=avgle.com
 ||iedc.fitbit.com^
 ||iepfcy.farmandfleet.com^
@@ -27920,6 +27933,7 @@ znak.com##.relap
 ||oppositeoperation.com^
 ||oppositeoperation.com^$third-party
 ||opps.taboola.com^
+||oppuz.com^
 ||oproi.com^$third-party
 ||ops.bpost.be^
 ||opslegacy.toolbar.net.zooplus.com^
@@ -28595,6 +28609,7 @@ znak.com##.relap
 ||pigspie.com^
 ||pigspie.com^$third-party
 ||pihxmq.98doci.com^
+||pijper.io^
 ||pikabu.ru/ajax/save_stories_stat.php
 ||pikzor.com^$third-party
 ||pimpmypr.de^$third-party
@@ -29069,6 +29084,7 @@ znak.com##.relap
 ||popin.cc/popin_discovery5-$script
 ||popin.cc/td_js_
 ||popin.cc/td_js_sdk_
+||popmech.ru^$cookie=popmech_nuid
 ||popsample.com^$third-party
 ||popt.in^$third-party
 ||poptropica.com/brain/track.php?
@@ -32101,6 +32117,7 @@ znak.com##.relap
 ||smarterhq.io^$third-party
 ||smarterremarketer.net^$third-party
 ||smartertravel.com/ext/pixel/
+||smarthint.co/track/
 ||smartlify.com^$third-party
 ||smartlook.com^$third-party
 ||smartnews-ads.com^$third-party
@@ -34036,6 +34053,7 @@ znak.com##.relap
 ||sp.dpgmedia.net^$third-party
 ||sp.fanatical.com/i?cd_c=*&aid=
 ||sp.fdlreporter.com^
+||sp.flocktory.com^$third-party
 ||sp.floridatoday.com^
 ||sp.freep.com^
 ||sp.fsunews.com^
@@ -34191,6 +34209,7 @@ znak.com##.relap
 ||spigte.shopee.tw^
 ||spinmedia.com/clarity.min.js
 ||spinmediacdn.com/clarity.min.js
+||spinnaker-js.com^
 ||spirebaboon.com^
 ||spirebaboon.com^$third-party
 ||spixel.socy.es^
@@ -36905,6 +36924,7 @@ znak.com##.relap
 ||thron.com/shared/plugins/tracking/
 ||thrtle.com^$third-party
 ||thumos.fileside.app^
+||thunderhead.com^$third-party
 ||thunderingrose.com^
 ||thunderingrose.com^$third-party
 ||tianxun.com/ajax_website_statistics.
@@ -37757,6 +37777,7 @@ znak.com##.relap
 ||track.adabra.com^$third-party
 ||track.addevent.com^
 ||track.adform.net^
+||track.adspire.io^
 ||track.analitycs.net^
 ||track.aplaut.io^$third-party
 ||track.appsflyer.com^
