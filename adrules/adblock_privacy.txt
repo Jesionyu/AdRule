@@ -1,4 +1,4 @@
-! Version: 202203160847
+! Version: 202203161212
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -39208,7 +39208,7 @@ znak.com##.relap
 ||uptime.com/static/rum/$third-party
 ||uptime.monitorus.ru^$third-party
 ||uptolike.com/widgets/*/imp?
-||uptolike.com^$third-party
+||uptolike.com^$third-party,domain=~uptolike.ru
 ||uptracs.com^$third-party
 ||uptrendsdata.com^$third-party
 ||upwork.com/Ss13U803/init.js
