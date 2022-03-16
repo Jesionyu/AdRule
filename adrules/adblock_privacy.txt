@@ -1,8 +1,8 @@
-! Version: 202203161212
+! Version: 202203161419
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41507
+! Lenth = 41508
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -25511,6 +25511,7 @@ znak.com##.relap
 ||metric.caixabank.es^
 ||metric.carview.co.jp^
 ||metric.crateandbarrel.com^
+||metric.cryptofans.asia/scripts/track_conversion.js
 ||metric.eddiev.com^
 ||metric.emerils.com^
 ||metric.fatcatalog.com^
