@@ -1,8 +1,8 @@
-! Version: 202203162203
+! Version: 202203170135
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41529
+! Lenth = 41531
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -4325,6 +4325,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /pubstats.$domain=~pubstats.dev
 /pubtag.js?
 /pulsario.js
+/push-analytics.js
 /push/page-view/*
 /pusher/info?
 /pushlog.
@@ -21961,6 +21962,7 @@ znak.com##.relap
 ||indianpornvideotube.com/incnt
 ||indiatimes.com/personalisation/logdata/
 ||indiatimes.com/pixel?
+||indiatimes.com/savelogs?
 ||indiatimes.com^$cookie=/deviceid|lgc_deviceid|ak_bmsc/
 ||indiatimes.com^$cookie=/pfuuid|fpid/
 ||indiatimes.com^$cookie=deviceid
