@@ -1,4 +1,4 @@
-! Version: 202203170801
+! Version: 202203170922
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -4095,6 +4095,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /pg_pixel?
 /pgtracking.
 /pgtrackingV3.
+/ph-tracking-
 /phenomtrack.
 /php-stats.js
 /php-stats.php?
@@ -28566,7 +28567,6 @@ znak.com##.relap
 ||phczhg.johnjohndenim.com.br^
 ||pheasant.ampapageorgiou.gr^
 ||phen.fabricmedia.ru^$third-party
-||phenompeople.com^$third-party
 ||phgnxd.nike.com.br^
 ||phiesi.stroeerdp.de^$third-party
 ||phim.media/templates/themes/phim/js/ga.js
