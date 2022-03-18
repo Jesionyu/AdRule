@@ -1,8 +1,8 @@
-! Version: 202203181620
+! Version: 202203182310
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41537
+! Lenth = 41539
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -35631,6 +35631,7 @@ znak.com##.relap
 ||stats.zander.wtf^
 ||stats.zmags.com^
 ||stats.zone-annuaire.one^
+||stats.zone-telechargement.click^
 ||stats.zone-telechargement.work^
 ||stats.zotabox.com^
 ||stats01.20min.ch^
@@ -35810,6 +35811,7 @@ znak.com##.relap
 ||streamta.pe/stat/
 ||streamta.site/stat/
 ||streamtape.com/stat/
+||streamtapeadblock.art/stat/
 ||streamtheworld.com/imp?
 ||streem.com.au^$third-party
 ||streetmetrics.io^$third-party
