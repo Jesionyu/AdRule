@@ -1,8 +1,8 @@
-! Version: 202203171342
+! Version: 202203181153
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41531
+! Lenth = 41536
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -5144,6 +5144,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /tmpstats.gif?
 /tms/metrics.
 /tnc.js?h=
+/tncms/api/access.js
 /tncms/tracking.js
 /tns-counter.js
 /tnsCounter.
@@ -6782,6 +6783,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||csr.inspsearchapi.com/lib/infospace.search.js$domain=search.pch.com
 @@||csub.edu/static/js/google-analytics.js
 @@||ctv.ca/players/mediaplayer/*/comscorebeacon.js
+@@||custojusto.pt/smarttag.js
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||cxense.com/cx.cce.js$domain=tarzanweb.jp
 @@||cxense.com/cx.cce.js$domain=tn.com.ar
@@ -16658,6 +16660,7 @@ znak.com##.relap
 ||curtaincows.com^$third-party
 ||curvycry.com^$third-party
 ||cushionpig.com^$third-party
+||custojusto.pt/smarttag.js$script,redirect=ati-smarttag,important
 ||custom.plausible.io^
 ||custom.search.yahoo.co.jp/images/window/*.gif
 ||customer.io^$third-party
@@ -29130,6 +29133,7 @@ znak.com##.relap
 ||postclickmarketing.com^$third-party
 ||postgraduate.smu.edu.sg^
 ||postgraduate2.smu.edu.sg^
+||postguam.com/shared-content/art/stats/common/tracker.js
 ||postmedia.hb.omtrdc.net^
 ||postuler.bpost.be^
 ||posty.kr/api/tr|
@@ -29728,6 +29732,7 @@ znak.com##.relap
 ||quokka.webgems.io^
 ||quora.com/_/ad/
 ||quora.com/qevents.js
+||quotiq.ru/api/client_events
 ||qvlcdw.ho-br.com^
 ||qvnpxc.technopark.ru^
 ||qvqtga.barenecessities.com^
@@ -35855,8 +35860,6 @@ znak.com##.relap
 ||sub.info.mouser.com^
 ||sub1.cosmosdirekt.de^
 ||sub2tech.com^$third-party
-||subhd.*^$cookie=/SuBhD.*/
-||subhdtw.*^$cookie=/SuBhD.*/
 ||submitnet.net^$third-party
 ||subpixel.4players.de
 ||subpixel.4players.de^
@@ -36609,6 +36612,7 @@ znak.com##.relap
 ||tbe.tom.ru^
 ||tbex.ru^$third-party
 ||tbm.net.toom.de^
+||tbs.co.jp/js/gaaddons/
 ||tbskip.taobao.com^$script
 ||tbslatinamerica.hb.omtrdc.net^
 ||tc-log.mattel163.com^
@@ -38651,6 +38655,7 @@ znak.com##.relap
 ||travpan.com/out/$third-party
 ||trbas.com^$third-party
 ||trbo.com^$third-party
+||trc.caravas.jp^
 ||trc.pushnami.com^
 ||trck.bdi-services.de^
 ||trck.bdi-services.de^$third-party
