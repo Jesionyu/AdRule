@@ -1,8 +1,8 @@
-! Version: 202203191238
+! Version: 202203191623
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41544
+! Lenth = 41549
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6719,6 +6719,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cm-widget.nakanohito.jp/cm/$script,stylesheet
 @@||cm-widget.nakanohito.jp/img/$image
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
+@@||cmoa.jp^$cookie=_ga
 @@||cmoney.tw/follow/js/google_analytics.js
 @@||cms.gentwo.com/pulses/$~third-party,xmlhttprequest
 @@||cnet.com/*/video-player/*/lib/tracking/comscore/comscore.streaming.*.min.js
@@ -6825,6 +6826,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||debenhams.com/foresee/foresee-trigger.js
 @@||decision.taplytics.com^$domain=royalbank.com
 @@||delet.jhi.pl/bower_components/angular-google-analytics/$script,~third-party
+@@||delivery.satr.jp^$script,domain=mieru-ca.com
 @@||demdex.net/dest4.html?d_nsid=$subdocument,domain=multipack.com.mx
 @@||deprisa.com/scripts/tracking/tracking.js
 @@||derwesten.de/resources/*/img/transparent_pixel.png$image,~third-party
@@ -7514,6 +7516,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
+@@||googletagmanager.com/gtm.js$script,domain=cmoa.jp
 @@||googletagmanager.com/gtm.js$script,domain=dpoint.jp
 @@||googletagmanager.com/gtm.js$script,domain=girlsnews.tv
 @@||googletagmanager.com/gtm.js$script,domain=insideevs.com
@@ -7795,6 +7798,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||lloydstsb.com/it/xslt/touchclarity/omtr_tc.js
 @@||load.sumome.com/$domain=deekit.com
 @@||loadus.exelator.com/load/?p=$script,domain=rrstar.com
+@@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
 @@||log000.goo.ne.jp/js/VLTraceDMD.js$domain=news.goo.ne.jp
 @@||logger.eigene.io/js/logger.min.js$domain=home-learn.co.kr
 @@||logging.apache.org^
@@ -15834,6 +15838,7 @@ znak.com##.relap
 ||collector-axa.cloud.ca.com^
 ||collector-cdn.github.com^
 ||collector-dev.cdp-dev.cnn.com^
+||collector-hpn.ghostery.net^
 ||collector-medium.lightstep.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.apester.com^$third-party
