@@ -1,8 +1,8 @@
-! Version: 202203190302
+! Version: 202203190409
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41539
+! Lenth = 41540
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6880,6 +6880,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
 @@||dw.de/js/xtcore.js
 @@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|fendi.com|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
+@@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
 @@||e.cquotient.com/recs/*?callback=$domain=karstadt.de
 @@||e.cquotient.com/recs/*?callback=$domain=sloggi.com
