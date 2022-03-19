@@ -1,8 +1,8 @@
-! Version: 202203190843
+! Version: 202203191214
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41540
+! Lenth = 41543
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1554,6 +1554,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /api/v1/track/*
 /api/v2/collector
 /api/v2/jsonlogger
+/api_ip_info.
 /apilog?
 /apis/cpt.php?
 /apis/facebook_conversion
@@ -7289,7 +7290,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googleadservices.com/pagead/conversion_async.js$domain=knowledgecity.com
 @@||googleadservices.com/pagead/conversion_async.js$domain=ulmart.ru
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
-@@||googleoptimize.com/optimize.js$script,domain=tentree.ca
+@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
 @@||googletagmanager.com/gtag/$domain=usnews.com
 @@||googletagmanager.com/gtag/js$domain=battlestick2.net
 @@||googletagmanager.com/gtag/js$domain=bizimtoptan.com.tr
@@ -7613,6 +7614,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||hr-online.de/website/includes/webanalyse/xtcore.js
 @@||hse24.de^*/emos2.js
 @@||humaninterest.com/api/analytics/$script,~third-party
+@@||hvemder.no/api/hitcount/$~third-party
+@@||hvemder.no/js/hitcount.min.js$script,~third-party
 @@||i-scmp.com/production/mixpanel.$domain=scmp.com
 @@||i.onthe.io^$script,image,stylesheet,domain=nur.kz
 @@||i.snssdk.com/log/sentry/$domain=lv.ulikecam.com
@@ -23504,7 +23507,7 @@ znak.com##.relap
 ||leopard.understandit.se^
 ||leopon.jmk.wtf^
 ||leparking-moto.fr/jsV155/Tracker.js
-||leparking.fr/jsV155/Tracker.js
+||leparking.fr/*/Tracker.js
 ||lepodownload.mediatek.com^
 ||les-experts.com^$third-party
 ||leserservice-tracking.de^$third-party
