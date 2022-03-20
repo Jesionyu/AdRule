@@ -1,8 +1,8 @@
-! Version: 202203191602
+! Version: 202203200038
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41549
+! Lenth = 41552
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -11215,6 +11215,7 @@ znak.com##.relap
 ||adsrvr.org^$third-party
 ||adstat.4u.pl^$third-party
 ||adstats.tencentmusic.com^
+||adstax-cdn.adrtx.net^$third-party
 ||adsunflower.com^
 ||adsymptotic.com^$third-party
 ||adsystem.dailyissue.co.kr/show/logs.php
@@ -17375,6 +17376,7 @@ znak.com##.relap
 ||departapp.com^$third-party
 ||dependable-s.hyster.com^
 ||deqwas.net^$third-party
+||derstandard.*/qy/zonck
 ||derwesten.de/stats/
 ||desa.fkapi.net^
 ||desb.fkapi.net^
@@ -17861,6 +17863,7 @@ znak.com##.relap
 ||dove.fullcalendar.io^
 ||dowjones.hb-api.omtrdc.net^
 ||dowjones.hb.omtrdc.net^
+||download-stats.mozilla.org^
 ||download.amd.com/OneTrust/consent/
 ||download.dnv.com^
 ||download.dnvgl.com^
@@ -20425,6 +20428,7 @@ znak.com##.relap
 ||getpushmonkey.com^$third-party
 ||getrockerbox.com/pixel?
 ||getrockerbox.com^$third-party
+||gets.faz.net/z.aspx
 ||getsidecar.com^$third-party
 ||getsitecontrol.com/api/*/stat?
 ||getsmartcontent.com^$third-party
@@ -39184,7 +39188,6 @@ znak.com##.relap
 ||unifyaddition.com^$third-party
 ||uninterestedquarter.com^$third-party
 ||union.360.cn/1899.js
-||uniqlo.com/us/elgnisolqinu.js
 ||uniqodo.com^$third-party
 ||united-infos.net/event?
 ||united-infos.net^$third-party
