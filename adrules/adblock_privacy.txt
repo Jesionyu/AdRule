@@ -1,8 +1,8 @@
-! Version: 202203210827
+! Version: 202203210808
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41556
+! Lenth = 41557
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -20834,6 +20834,7 @@ znak.com##.relap
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=learning.edx.org
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=lodgecastiron.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=morningstar.nl|morningstar.de|morningstar.at|morningstar.fr|morningstarfunds.ie|morningstar.it|morningstar.es|morningstar.se|morningstar.ch|morningstar.co.uk|morningstar.hk|morningstar.com
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=otomotoklik.pl
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=pcmag.com,important
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=skechers.com.tr
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=store.line.me
