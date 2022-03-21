@@ -1,8 +1,8 @@
-! Version: 202203210215
+! Version: 202203210827
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41553
+! Lenth = 41556
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7512,7 +7512,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=zakzak.co.jp
 @@||googletagmanager.com/gtm.js$domain=zolotoyvek.ua
 @@||googletagmanager.com/gtm.js$script,domain=animeanime.jp|carcareplus.jp|cinemacafe.net|cyclestyle.net|gamebusiness.jp|gamespark.jp|inside-games.jp|mycar-life.com|newscafe.ne.jp|reanimal.jp|resemom.jp|response.jp|scan.netsecurity.ne.jp|spyder7.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|hatenacorp.jp|junonline.jp|kakuyomu.jp|mainichi.jp|mangaseek.net|nap-camp.com|radiko.jp|sanwacompany.co.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp|zakzak.co.jp
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cmoa.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|hatenacorp.jp|junonline.jp|kakuyomu.jp|mainichi.jp|mangaseek.net|nap-camp.com|radiko.jp|sanwacompany.co.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp|zakzak.co.jp
 @@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
@@ -8126,7 +8126,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||pp-serve.newsinc.com^*/unitsdata.js?$domain=timesfreepress.com
 @@||pp.lp4.io/app^$domain=berliner-zeitung.de
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
-@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|sheee.co.il|walla.co.il
+@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
 @@||puch-ersatzteile.at^*/google-analytics.min.js
@@ -28082,6 +28082,7 @@ znak.com##.relap
 ||oufuqh.kant.ru^
 ||ournet-analytics.com^$third-party
 ||ourstats.de^$third-party
+||ouscous.acs.wecandeo.io/*/api/video*?data=
 ||outal.origo.hu^
 ||outbid.io^$third-party
 ||outbound.io/v2/identify
@@ -29919,6 +29920,7 @@ znak.com##.relap
 ||rd.com/wp-content/plugins/rd-audience-science-pixel/js/as-tracking-pixel.js
 ||rd.com/wp-content/plugins/rd-parsely-multisite/js/dynamic-tracker.js
 ||rd.rakuten.co.jp^$script
+||rd.yna.co.kr/global/js/yna_stat.js
 ||rdbwwe.zolotoyvek.ua^
 ||rdcdn.com^$third-party
 ||rdsig.yahoo.co.jp^$image
@@ -32116,6 +32118,7 @@ znak.com##.relap
 ||sloppyearthquake.com^
 ||sloppyearthquake.com^$third-party
 ||sls2.loisirsencheres.com^
+||slview.psne.jp^$third-party
 ||sm-epsilon.com^$third-party
 ||sm.batuu.pl/collect?
 ||sm.dell.com^
