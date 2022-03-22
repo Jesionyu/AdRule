@@ -1,8 +1,8 @@
-! Version: 202203221403
+! Version: 202203221450
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41949
+! Lenth = 41951
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -37165,6 +37165,8 @@ znak.com##.relap
 ||tellapart.com^$third-party
 ||tellaparts.com^$third-party
 ||tellerreport.com/react/pixel
+||teltarif.de/scripts/ttt.js
+||teltarif.de/ttt.go?$image
 ||telus.hb-api.omtrdc.net^
 ||telus.hb.omtrdc.net^
 ||temails.productnotice.thomsonreuters.com^
