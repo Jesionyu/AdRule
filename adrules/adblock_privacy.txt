@@ -1,8 +1,8 @@
-! Version: 202203211601
+! Version: 202203220010
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 41942
+! Lenth = 41946
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -3220,6 +3220,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /in.php?*&referer=
 /in.php?p=
 /in.php?referer=
+/in/multy?*&event_id=
 /inboundAnalytics.
 /include/js/ga-
 /includes/analytics.
@@ -11991,6 +11992,7 @@ znak.com##.relap
 ||analytics.comunio.de^$domain=comunio.de
 ||analytics.comunio.net^$domain=comunio.de
 ||analytics.concorsicartoonito.it^
+||analytics.contentexchange.me^
 ||analytics.contents.by-fw.jp^
 ||analytics.convertlanguage.com^
 ||analytics.core.retell.cc^
@@ -21719,6 +21721,7 @@ znak.com##.relap
 ||hits.informer.com^
 ||hits.io^$third-party
 ||hits.porn.fr^
+||hits.tf.rs^
 ||hits.theguardian.com^
 ||hits.top.lv^$third-party
 ||hits.tv8.com.tr/save_video_event
@@ -40206,6 +40209,7 @@ znak.com##.relap
 ||w3t.cn^*/fx.js
 ||w3track.com/newtrk/$third-party
 ||w3www.applications.net.daraz.com^
+||w4m.rs/tracker.js
 ||w55c.net^
 ||w55c.net^$third-party
 ||w7.berlin.de^
