@@ -1,8 +1,8 @@
-! Version: 202203230451
+! Version: 202203230831
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40905
+! Lenth = 40910
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -12251,6 +12251,7 @@ znak.com##.relap
 ||api2.poperblocker.com^
 ||api64.com^$third-party
 ||apicit.net^$third-party
+||apis.naver.com/mcollector/
 ||apis.naver.com/videostat/videostat/qoe
 ||apiv2.moengage.com^
 ||apkonline.ru^$third-party
@@ -12773,6 +12774,7 @@ znak.com##.relap
 ||awesomeagreement.com^
 ||awesomeagreement.com^$third-party
 ||awesomelytics.com^$third-party
+||awfonts.com^$script,third-party
 ||awfzfs.kwantum.nl^
 ||awggij.wplay.co^
 ||awin1.com^$third-party
@@ -39118,6 +39120,7 @@ znak.com##.relap
 ||volgograd-info.ru^$third-party
 ||volkswagen-italia.it^*/tracking/
 ||vologda-info.ru^$third-party
+||volts.shopping.naver.com/pv
 ||volument.com^$third-party
 ||voluumtlkrnarketing.com^$third-party
 ||volvelle.tech^$third-party
@@ -39498,6 +39501,7 @@ znak.com##.relap
 ||webpixel.smartmeapp.com^
 ||webprospector.de^$third-party
 ||webpu.sh^$third-party
+||webrazzi.com/api/post/stats
 ||webreseau.com/impression.asp?
 ||webryblog.biglobe.ne.jp/beacon/
 ||websanalytic.com^$third-party
@@ -40655,6 +40659,7 @@ znak.com##.relap
 ||youronlinechoices.com/css/images/pixel.png
 ||youronlinechoices.com/images/pixel.png
 ||yourporsche.nabooda-auto.com^
+||yoursitestatstube.ru^
 ||yourupmcsusquehanna.hrm.healthgrades.com^
 ||youthfulnoise.com^
 ||youtube-nocookie.com/api/stats/delayplay?
