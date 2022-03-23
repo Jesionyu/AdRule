@@ -1,4 +1,4 @@
-! Version: 202203231459
+! Version: 202203231633
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -25960,7 +25960,6 @@ znak.com##.relap
 ||mobiletelemetry.ebay.com^
 ||mobtop.az^$third-party
 ||mobtop.com^$third-party
-||mobtop.ru^$third-party
 ||mobylog.jp^$third-party
 ||mocgqr.boutiquerugs.com^
 ||mochiads.com/clk/
@@ -33441,6 +33440,7 @@ znak.com##.relap
 ||sp.mansfieldnewsjournal.com^
 ||sp.marionstar.com^
 ||sp.marshfieldnewsherald.com^
+||sp.minds.com^
 ||sp.montgomeryadvertiser.com^
 ||sp.mycentraljersey.com^
 ||sp.naplesnews.com^
