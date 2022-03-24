@@ -1,8 +1,8 @@
-! Version: 202203240804
+! Version: 202203241028
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40911
+! Lenth = 40913
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7830,6 +7830,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
 @@||marvel-*.bc0a.com/*/images/$domain=whittard.co.uk
 @@||matchid.adfox.yandex.ru/?url=$script,domain=ctc.ru
+@@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||matsukiyo.co.jp^*/js/analytics/GoogleTagManager.js$~third-party
 @@||maxmind.com/app/country.js$domain=lenovo.com|nationalgeographic.com
 @@||maxmind.com/geoip/$xmlhttprequest,domain=bandai-hobby.net|elgato.com|filld.com|ibanez.com
@@ -8959,6 +8960,7 @@ komachi.yomiuri.co.jp##.topi-popin-relation
 koneta.nifty.com###custom_html-2
 kuow.org#?#.story-content-wrapper > div.embed_block:has(> div[ub-in-page])
 kuow.org#?#.story-content-wrapper > div.embed_block:has(> script:contains(window.usabilla))
+kuruma-news.jp##.recommend-container
 laprovence.com#%#//scriptlet("set-constant", "refresh_xiti", "noopFunc")
 laprovence.com#%#//scriptlet("set-constant", "xt_click", "noopFunc")
 latino-serialo.tv#?##sidebar-left > div.block[-ext-has="> div.box > h2:contains(Счетчик)"]
