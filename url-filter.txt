@@ -165,6 +165,10 @@ $removeparam=utm_campaign
 
 ! 淘宝
 ||taobao.com^$removeparam=spm
+||h5.m.taobao.com^$removeparam=bxsign
+||h5.m.taobao.com^$removeparam=tbSocialPopKey
+||h5.m.taobao.com^$removeparam=un_site
+||h5.m.taobao.com^$removeparam=shareUniqueId
 
 ! 抖音
 ||douyin.com^$removeparam=count
