@@ -1,8 +1,8 @@
-! Version: 202203251210
+! Version: 202203251638
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40923
+! Lenth = 40924
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1086,6 +1086,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /accesstracking/*
 /accip_script.js
 /acclog.cgi?
+/acclog.js
 /account-stats/*
 /acecounter/*
 /acecounter/acecounter_$script
