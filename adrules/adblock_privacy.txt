@@ -1,8 +1,8 @@
-! Version: 202203250810
+! Version: 202203251247
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40918
+! Lenth = 40923
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -3450,6 +3450,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /linkcountdata/*
 /linkinformer.js
 /linkpulse.js
+/links1.strava.com/*$image
 /linktrack.js
 /linktracker.js
 /linktracker/*
@@ -12264,6 +12265,7 @@ znak.com##.relap
 ||apm.tnet.nl^
 ||apn.c.appier.net^$third-party
 ||apnews.com/logger
+||apnews.com/newrelic/newrelic.browser.prod.js
 ||apollo.plein.nl^
 ||apollofind.com^$third-party
 ||apolloprogram.io^$third-party
@@ -14241,6 +14243,8 @@ znak.com##.relap
 ||cdn.trafficexchangelist.com^$third-party
 ||cdn.usefathom.com^
 ||cdn.ustatik.com/vendor/metrica/watch.js
+||cdn1.edgedatg.com/aws/abc/scripts/adobe-analytics2.js
+||cdn1.edgedatg.com/aws/apps/datg/web-js-telemetry-service/*/production/js/datgts.js
 ||cdn1.pebx.pl^
 ||cdn3.net/pixe/
 ||cdn7.baunetz.de^
@@ -15655,6 +15659,7 @@ znak.com##.relap
 ||counter.maases.com^
 ||counter.mediastealer.com^$third-party
 ||counter.megaindex.ru^
+||counter.mgronline.com^
 ||counter.monkeybanana3.com^
 ||counter.mtgnewmedia.se^
 ||counter.nn.ru^
@@ -23162,7 +23167,7 @@ znak.com##.relap
 ||links.schnucks.com^
 ||links.services.disqus.com/api/ping
 ||links.sheroes.in^
-||links.strava.com^
+||links.strava.com^$image
 ||links.t.blueapron.com^
 ||links.t.wine.com^
 ||links.thedyrt.com^
