@@ -169,6 +169,7 @@ $removeparam=utm_campaign
 ||h5.m.taobao.com^$removeparam=tbSocialPopKey
 ||h5.m.taobao.com^$removeparam=un_site
 ||h5.m.taobao.com^$removeparam=shareUniqueId
+||m.tb.cn^$removeparam=tk
 
 ! 抖音
 ||douyin.com^$removeparam=count
