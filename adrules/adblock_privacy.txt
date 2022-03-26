@@ -1,8 +1,8 @@
-! Version: 202203251747
+! Version: 202203260038
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40924
+! Lenth = 40928
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -24789,6 +24789,7 @@ znak.com##.relap
 ||meetrics.net^$third-party
 ||meetrics.netbb-
 ||mega-stats.com^$third-party
+||megadata.co.kr^
 ||megashara.org/uploads/button/online.png
 ||megastats.net^$third-party
 ||megatopsites.com^$third-party
@@ -36217,6 +36218,7 @@ znak.com##.relap
 ||test-fleet-eml.postmates.com^
 ||test-marketing.net.zooplus.it^
 ||test.customers.instacartemail.com^
+||test.vast^
 ||testbed.net.zooplus.de^
 ||testedtouch.com^
 ||testedtouch.com^$third-party
@@ -38718,6 +38720,7 @@ znak.com##.relap
 ||useproof.com^$third-party
 ||user-api.com^$third-party
 ||user-clicks.com^$third-party
+||user-metrics.onthemarket.com^
 ||user-rating.burda-forward.de^
 ||user-red.com^$third-party
 ||user-stats.rbl.ms^$third-party
@@ -40458,6 +40461,7 @@ znak.com##.relap
 ||xrxfaa.giannakazakou.gr^
 ||xrxybn.kotofey-shop.ru^
 ||xscmzs.tenki.jp^
+||xserver.ne.jp/analytics?
 ||xslmpq.ohou.se^
 ||xslt.alexa.com^$third-party
 ||xsltcache.alexa.com/site_stats/$third-party
