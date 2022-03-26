@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Hacamer's URL Filter
-! Version: 2022-03-26 12:54 
-! Last Update: 2022-03-26 12:54:21（北京时间） 
+! Version: 2022-03-26 15:14 
+! Last Update: 2022-03-26 15:14:50（北京时间） 
 ! Expires: 1 Day
 ! Last Modified: 1 Day
 ! Homepage: https://github.com/Cats-Team/AdRule
