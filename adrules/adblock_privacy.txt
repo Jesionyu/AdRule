@@ -1,8 +1,8 @@
-! Version: 202203260925
+! Version: 202203261344
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40928
+! Lenth = 40930
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8339,6 +8339,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||smp.sankei.co.jp/js/analytics/skd.Analysis.js
 @@||snap.licdn.com/li.lms-analytics/insight.min.js$domain=msci.com
 @@||snapchat.com/static/js/autotrack.js
+@@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
 @@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
 @@||som.aeroplan.com/b/ss/
 @@||songstats.com/api/v1/analytics/track_data$~third-party,xmlhttprequest
@@ -14108,6 +14109,7 @@ znak.com##.relap
 ||catschickens.com^$third-party
 ||catshark.nervecentral.com^
 ||catshark.spur.design^
+||catsys.jp^$third-party
 ||cattle.ajyd.org.au^
 ||cattle.apisyouwonthate.com^
 ||cattle.domaincomet.com^
