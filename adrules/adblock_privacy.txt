@@ -1,8 +1,8 @@
-! Version: 202203271627
+! Version: 202203280132
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40931
+! Lenth = 40932
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8939,6 +8939,7 @@ hentaiz.org##img[width="31"][height="31"]
 hindustantimes.com#%#!function(){window.pSUPERFLY={virtualPage:function(){}};}();
 hitkino.org#?#td[valign="top"] > table.white_text > tbody > tr:has(> td[background] > b:contains(Статистика))
 hitkino.org#?#td[valign="top"] > table.white_text > tbody > tr:has(> td[background] > b:contains(Статистика)) + tr
+hobbylog.jp##.pbancut
 home-learn.co.kr#%#//scriptlet("set-constant", "eglc", "noopFunc")
 home-learn.co.kr#%#//scriptlet("set-constant", "eglc.op", "noopFunc")
 hotstuff.com.ua##a[href^="http://top.bigmir.net/report/"]
