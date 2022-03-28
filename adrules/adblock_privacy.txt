@@ -1,4 +1,4 @@
-! Version: 202203281508
+! Version: 202203281521
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
@@ -8974,7 +8974,6 @@ latino-serialo.tv#?##sidebar-left > div.block[-ext-has="> div.box > h2:contains(
 launchbit.com/taz-pixel$image
 levashove.ru##.footer-four > section#custom_html-5
 life.ru##.read-next
-lifehacker.jp##div[data-gtm-mgid*="recomendList"]
 link.gmapp*.net$image
 list-manage.com/track$image
 lurkmo.re,lurkmore.to###p-counters
@@ -26385,6 +26384,7 @@ znak.com##.relap
 ||n-tv.de/stats^
 ||n.mailfire.io^$third-party
 ||n.thestar.com^
+||n.tooplay.com/s?v_unique=
 ||n0909.com^
 ||n11.com/assets/javascripts/ha.js
 ||n11.com/realTime/count
