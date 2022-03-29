@@ -1,8 +1,8 @@
-! Version: 202203291454
+! Version: 202203291444
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40803
+! Lenth = 40806
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -12863,6 +12863,7 @@ znak.com##.relap
 ||b-aws.aol.com^
 ||b-aws.huffingtonpost.com^
 ||b-cdn.hurriyet.com.tr/banalytics.js
+||b-cdn.milliyet.com.tr/banalytics.js
 ||b-ssl.grvcdn.com^
 ||b.aecf.org^
 ||b.aol.com^$third-party
@@ -37189,6 +37190,7 @@ znak.com##.relap
 ||track.stat.pet^$third-party
 ||track.strife.com^
 ||track.sunmedia.tv^
+||track.swaptrap.live^
 ||track.tagesanzeiger.ch/cre*/static/tracking^
 ||track.tcppu.com^
 ||track.tcppu.com^$third-party
@@ -37987,6 +37989,7 @@ znak.com##.relap
 ||tripadvisor.*/impressionrecord
 ||tripadvisor.activate.ensighten.com^
 ||tripadvisor.com/data/2.0/rum
+||triplewhale-pixel.web.app^
 ||triptease.io^$third-party
 ||triptease.net^$third-party
 ||triton.companyegg.com^
