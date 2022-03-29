@@ -1,8 +1,8 @@
-! Version: 202203290139
+! Version: 202203290234
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40799
+! Lenth = 40800
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6258,10 +6258,10 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bt.com|dollargeneral.com|kroger.com|personal.natwest.com|verizon.com
-@@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|kroger.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bt.com|dollargeneral.com|kroger.com|personal.natwest.com|telus.com|verizon.com
+@@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
-@@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|foodnetwork.com|verizon.com
+@@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
 @@||adobedtm.com^*-libraryCode_source.min.js$script,domain=disneyplus.disney.co.jp
 @@||adobedtm.com^*/AppMeasurement.min.js$script,domain=sky.it
@@ -29763,6 +29763,7 @@ znak.com##.relap
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
 ||rum-static.pingdom.net/*-*.js$script,redirect=noopjs,important,domain=leboncoin.fr
+||rum.api.intuit.com^
 ||rum.azion.com^
 ||rum.azioncdn.net^
 ||rum.conde.io^
