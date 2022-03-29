@@ -1,8 +1,8 @@
-! Version: 202203290234
+! Version: 202203290859
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40800
+! Lenth = 40802
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -8493,6 +8493,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||tags.crwdcntrl.net/c/*/cc_ajax.js$domain=gotrip.hk
 @@||tags.t.tailtarget.com/t3m.js?$domain=superesportes.com.br
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$script,domain=sony.jp
+@@||tags.tiqcdn.com/utag/*/utag.sync.js$script,domain=vmware.com
 @@||tags.tiqcdn.com/utag/tegna^$domain=kvue.com
 @@||tags.w55c.net/rs?*&t=marketing$image
 @@||takeda.com.dxcloud.episerver.net^$domain=takeda.com
@@ -19322,6 +19323,7 @@ znak.com##.relap
 ||fpa-events.parse.ly^
 ||fpa-events.slate.com^
 ||fpaux.net^
+||fpaxu.net^
 ||fpb8.esce.fr^
 ||fpc.acponline.org^
 ||fpc.attcenter.com^
