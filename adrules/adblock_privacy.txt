@@ -1,8 +1,8 @@
-! Version: 202203301248
+! Version: 202203301352
 ! Title:  Hacamer's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/Hacamer/adblock_list
-! Lenth = 40809
+! Lenth = 40813
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -14264,6 +14264,8 @@ znak.com##.relap
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js
 ||cdn.klambt.services/matomo/$third-party
 ||cdn.lmiutil.com/lpassets/track-
+||cdn.lr-in.com/LogRocket.min.js
+||cdn.lr-in.com/logger-1.min.js
 ||cdn.lr-ingest.io/logger-1.min.js
 ||cdn.megadata.co.kr/dist/prod/enp_tracker_
 ||cdn.merklesearch.com/merkle_track.js
@@ -31075,6 +31077,7 @@ znak.com##.relap
 ||shallowsmile.com^
 ||shallowsmile.com^$third-party
 ||share-online.biz/affiliate/$third-party
+||share.9cdn.net/share/long_cache/js/tracking/
 ||shareaholic.com/analytics_
 ||shareaholic.com/partners.js
 ||shareasale.com^$third-party
@@ -35974,6 +35977,7 @@ znak.com##.relap
 ||teenporn.ws/zaq/cron.php
 ||teenytinycellar.com^$third-party
 ||teenytinyshirt.com^
+||teenytinyshirt.com^$third-party
 ||teenytinytongue.com^
 ||teenytinytongue.com^$third-party
 ||teenyvolcano.com^
